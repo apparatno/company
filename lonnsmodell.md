@@ -12,17 +12,13 @@ Alle skal ha en mållønn, som er lønnen vi beregner pensjonen din etter. Måll
 
 Kundeprosjekter er alltid knyttet til en timepris, og det er denne timeprisen du vil forholde deg til. Internprosjekter er litt annerledes, og utregningen er litt avhengig av hvilket type internprosjekt det er. Et strategisk viktig internprosjekt er en type internprosjekt som Array selv finansierer. Slike internprosjekter kan f.eks. være et produkt Array ønsker å utvikle, eller en nyskapning vi vil satse på. Andre typer internprosjekter kan være noe du ønsker å utforske, eller en nyskapning du ønsker å jobbe med. For strategisk viktige internprosjekter vil timeprisen normalt ligge rundt det en kundepris ligger på, mens for andre prosjekter vil det settes en lavere timepris på rundt 75% av normal kundepris.
 
-TODO Jobb med navnene. Kodenavn Padawan, Apprentice, Jedi.
+Våre tre modeller skiller seg noe fra hverandre. "Nivå 1" er vår innslagslønn. Her vil du normalt sett havne hvis liten erfaring, kommer rett fra skole eller på annet vis er det en normalt ville karakterisert som junior.
 
-Våre tre modeller skiller seg noe fra hverandre. Padawan er vår innslagslønn. Her vil du normalt sett havne hvis du har liten erfaring, kommer rett fra skole eller på annet vis er det en normalt ville karakterisert som "junior".
+"Nivå 2" er vår modell som tilsvarer det en gjerne vil kalle senior. Her skal de aller fleste i selskapet ligge. Lønnen gir en stabilt høy fastlønn, og et romslig provisjonsledd. Mållønnen vil ligge en del høyere enn for "Nivå 1". Det stilles også høyere krav til deg her, og en skal normalt sett kunne navigere seg fint oppover på stigen.
 
-Apprentice er vår modell som tilsvarer det en gjerne vil kalle "senior". Her skal de aller fleste i selskapet ligge. Lønnen gir en stabilt høy fastlønn, og et romslig provisjonsledd. Mållønnen vil ligge en del høyere enn for Padawan. Det stilles også høyere krav til deg her, og en skal normalt sett kunne navigere seg fint oppover på stigen.
+Den siste modellen vår er "Nivå 3". Her vil individer som utmerker seg som eksepsjonelle ofte ligge. Fastlønnen her er konstant, og provisjonen blir viktigere enn før. Det stilles også krav til deg for at du skal beholde plassen din i denne lønnsmodellen. Dersom du ikke lenger passer inn her så kan du rykke tilbake til "Nivå 2".
 
-Jedi er den siste modellen vår. Her vil individer som utmerker seg som eksepsjonelle ofte ligge. Fastlønnen her er konstant, og provisjonen blir viktigere enn før. Det stilles også krav til deg for at du skal beholde plassen din i denne lønnsmodellen. Dersom du ikke lenger passer inn her så kan du rykke tilbake til Apprentice.
-
-TODO Få laget morsomme illustrasjoner og grafer?
-
-### Padawan
+### Nivå 1
 Denne modellen begynner på kr 380 000, og med en provisjonsandel på 5%. For hvert ledd i denne modellen øker fastlønnen med kr 10 000, og provisjonsandelen øker med 0,33%. Dette betyr at du vil stige mye i lønn for hvert ledd slik at de med den laveste lønnen i selskapet skal ha den største stigningen.
 
 Provisjonen for denne modellen er regnet ut av en årlig antatt omsetning på kr. 1 400 000.
@@ -42,8 +38,8 @@ Provisjonen for denne modellen er regnet ut av en årlig antatt omsetning på kr
 |N|380 000 kr + N * 10.000 kr|5,00 % + N * 0,33%|-|
 
 
-### Apprentice
-Det er viktig å merke seg at dette er en annen modell enn Padawan i den form av at den stiller høyere krav til deg som ansatt, og den betaler vesentlig bedre. Vi har her en startlønn på kr 500 000 på nederste leddet, og den faste lønnen øker med kr 5 000 for hvert ledd. Samtidig vil provisjonen din bli viktigere for deg, og du øker med 1% for hvert ledd du klatrer. Startprovisjonen er 7,00 %. Vi regner dette ut i fra en antatt omsetning på kr. 1 500 000 i året.
+### Nivå 2
+Det er viktig å merke seg at dette er en annen modell enn "Nivå 1" i den form av at den stiller høyere krav til deg som ansatt, og den betaler vesentlig bedre. Vi har her en startlønn på kr 500 000 på nederste leddet, og den faste lønnen øker med kr 5 000 for hvert ledd. Samtidig vil provisjonen din bli viktigere for deg, og du øker med 1% for hvert ledd du klatrer. Startprovisjonen er 7,00 %. Vi regner dette ut i fra en antatt omsetning på kr. 1 500 000 i året.
 
 |Index|Fastlønn|Provisjon|Mållønn|
 |---|---|---|---|
@@ -60,7 +56,7 @@ Det er viktig å merke seg at dette er en annen modell enn Padawan i den form av
 |N|500 000 kr + N * 5 000 kr|7 % + N * 1%|-|
 
 
-### Jedi
+### Nivå 3
 
 Her vil det ligge et fåtall ansatte. Typisk må du være særskilt dyktig, veldig ettertraktet som utvikler, anerkjent
 foredragsholder eller på annet vis være av stor betydning for selskapet for å ligge her. Modellen har en fast årslønn, men vil øke provisjonen for hvert ledd. Fastlønnen er kr 600 000, og en starter med 15% provisjon. For hvert ledd øker provisjonsleddet med 1%.
@@ -78,11 +74,11 @@ foredragsholder eller på annet vis være av stor betydning for selskapet for å
 Hvordan blir dette i praksis? La oss se på noen tall. Du ligger på den midterst modellens første trinn og har en fastlønn på 500.000kr, og en provisjonssats på 7%. Måneden før stod du for en omsetning på kr. 150.000. Du får provisjon fra første krone, og provisjonen er alltid etterbetalt.
 
 **Eksempel hvor du omsetter for 150.000 kr**
-<br>Månedslønn: `500 000 kr / 12 måneder` :arrow_right: `41 666 kr`
+<br>Månedslønn: `500 000 kr / 12 måneder` ➡️ `41 666 kr`
 <br>Omsetning: `150 000 kr`
-<br>Provisjon: `150 000 kr * 7%` :arrow_right: `10 500 kr`
+<br>Provisjon: `150 000 kr * 7%` ➡️ `10 500 kr`
 <br>
-<br>Din månedslønn: `41 666 kr + 10 500 kr` :arrow_right: `~52 200 kr` :tada: :tada:
+<br>Din månedslønn: `41 666 kr + 10 500 kr` ➡️ `~52 200 kr` 🎉 🎉
 
 **Eksempel hvor du jobber halv tid inne og halv tid ute**
 <br>Ditt bidrag inne avhenger av hvilken type prosjekt du arbeider på. Her tas det utgangspunkt i at du ikke har full dekning inne, men får ganske god greit utbytte alikevel.
@@ -90,16 +86,16 @@ Hvordan blir dette i praksis? La oss se på noen tall. Du ligger på den midters
 Månedslønn: `41 666 kr`
 <br>Omsetning hos kunde: `75 000 kr`
 <br>Bidrag internt: `50 000 kr`
-<br>Provisjon: `(75 000 kr + 50 000 kr) * 7%` :arrow_right: `8 750 kr`
+<br>Provisjon: `(75 000 kr + 50 000 kr) * 7%` ➡️ `8 750 kr`
 <br>
-<br>Din månedslønn: `41 666 kr + 10 500 kr` :arrow_right: `~50 500 kr` :tada: :tada:
+<br>Din månedslønn: `41 666 kr + 8 750 kr` ➡️ `~50 500 kr` 🎉 🎉
 
 **Eksempel på måned hvor du jobber to uker, og har ferie to uker**
 <br>Månedslønn: `41 666 kr`
 <br>Omsetning: `75 000 kr`
-<br>Provisjon: `75 000 kr * 7%` :arrow_right: `5 250 kr`
+<br>Provisjon: `75 000 kr * 7%` ➡️ `5 250 kr`
 <br>
-<br>Din månedslønn: `41 666 kr + 5 250 kr` :arrow_right: `~46 900 kr` :tada: :tada:
+<br>Din månedslønn: `41 666 kr + 5 250 kr` ➡️ `~46 900 kr` 🎉 🎉
 
 ## Fellesbelønning
 Foruten din egen lønn, så vil du få en ekstra påskjønnelse hvis selskapet gjør det bra. Array ønsker å dele ut 15% av sitt overskudd til de ansatte. Dette blir delt ut flatt, og det spiller ingen rolle om du står på den nederste modellen eller den øverste - alle får likt. De som har begynt samme året vil få 1/12 bonus for hver måned de har jobbet i Array.
@@ -116,7 +112,7 @@ Det er noen nyanser her som vil bli dekket av personalhåndboken, spesielt i for
 ## Kriterier
 Dette er Array sin måte å fortelle de ansatte hva vi verdsetter hos dem. Det er ikke noe kjekt å ha uklare mål, eller å være usikker på hva som forventes av en. Måten vi har løst dette på er ved å dele inn vurderingene i fire kategorier. De går på verdiene våre (**kunnskap**, **deling** og **nyskapning**), hvordan du fungerer i den helhetlige kulturen i selskapet (_kultur og sosialt_), hvordan du utvikler deg (_egenutvikling_), og din leveransekraft (_leveransegrad_). Du vil bli vurdert opp mot både dine tidligere bidrag, selskapets forventning til deg og hvordan du gjør det i forhold til andre.
 
-Vi vil aldri sette folk direkte opp mot hverandre, og vurderingen er strengt konfidensiell mellom vurderingskomitèen/ledelsen og deg. Dette er et verktøy du kan bruke for å lykkes i Array :smile:
+Vi vil aldri sette folk direkte opp mot hverandre, og vurderingen er strengt konfidensiell mellom vurderingskomitèen/ledelsen og deg. Dette er et verktøy du kan bruke for å lykkes i Array 😄
 
 ### Verdiene våre - kunnskap, deling, nyskapning
 Våre verdier er selve grunnpilarene i Array. Vi måler oss selv på hvordan vi lykkes med å leve opp til dem, og det betyr at vi alle sammen må måles på dem. Kunnskap og deling henger mye sammen. Hvordan tilegner du deg kunnskap, hvordan bruker du kunnskap, hvordan deler du kunnskap. Deling er ikke bare å lære bort fag, det er også dele kultur, smil og glede. Nyskapning er å utforske idéer alene eller sammen med andre, og starte initiativer i Array for å utvikle konsepter, produkter eller nærmest hva som helst. Hvordan du som person lykkes med verdiene våre er det siste kriteriet i din vurdering.
@@ -125,7 +121,7 @@ Våre verdier er selve grunnpilarene i Array. Vi måler oss selv på hvordan vi 
 Din involvering i selskapet - ansettelser, sosiale arrangementer, kundemøter, gøy på kontoret; alle tingene vi gjør som er positivt for den kollektive kulturen i selskapet teller inn her. Du vil bli vurdert på alt mulig her, og en kan sjeldent gjøre feil eller gjøre for mye.
 
 ### Egenutvikling
-Vi verdsetter din egenutvikling over ganske mye annet. Dyktige og lidenskaplige fagfolk :heart:. Det er ikke tilfeldig at "kunnskap" står som vår første verdi. Din utvikling er like viktig for oss som den er for deg, og hvilke kunnskaper du har, tilegner deg, og deler med andre, betyr noe når du jobber i Array.
+Vi verdsetter din egenutvikling over ganske mye annet. Dyktige og lidenskaplige fagfolk ❤️. Det er ikke tilfeldig at "kunnskap" står som vår første verdi. Din utvikling er like viktig for oss som den er for deg, og hvilke kunnskaper du har, tilegner deg, og deler med andre, betyr noe når du jobber i Array.
 
 ### Leveransegrad
 Leveranser er vårt vann og brød. Uten inntekter lykkes ikke selskapet. Array skal tilrettelegge for at du skal klare å produsere så mye som mulig, men ditt bidrag og din innsats gjennom året betyr mye. Hvor mye fikk du levert i perioden, både internt og eksternt? Hvordan setter kunden pris på deg?
