@@ -3,12 +3,13 @@
 ## Innledning
 
 ### Formål med personalhåndboken
+Denne personalhåndboken er Array sin måte å beskrive ordningene vi har. Her bør ting være godt beskrevet og alt skal være dekket. Personalhåndboken skal leve på Github og være offentlig tilgjengelig. Vi oppfordrer til å sende inn pull requests dersom det er ønskelig å gjøre endringer, har forslag til forbedringer, ønsker mer utfyllende informasjon eller trenger å beskrive noe som ikke står her fra før.
+
 ### Vår organisasjon
 Array AS er et IT-selskap med fokus på åpenhet, kunnskap, deling og nyskapning. Åpenhet er grunnen til at du leser dette dokumentet åpent på internett, og ikke på et lukket område. Det er ingen hemmeligheter her - vi er stolte av det vi har å tilby!
 
 ### Personalpolitikk
 ### Utførelse av personalansvaret
-
 Alle henvendelser vedrørende ditt arbeidsforhold skal primært tas med daglig tjener (eller person som snakker for tjener). Dersom det haster eller av andre grunner ikke passer å prate med daglig tjener, kan du prate med en av partnerne i selskapet.
 
 ## Arbeidsforholdet
@@ -24,7 +25,7 @@ Den er årlig, og dekkes av selskapet. Du får 1,5 arbeidstimer dekket for å de
 * Kommer: Behandlingsavtale i det private helsevesenet.
 
 ### Obligatorisk Tjenestepensjon (OTP)
-Array AS har, såvidt vi vet, Bergens beste pensjonsordning. Vår pensjon er i Frende og KLP. Pensjonen din settes til din mållønn. Er det store avvik vil vi gjøre justeringer, men dette må hver enkelt passe på - det går ikke automatisk.
+Array AS har, såvidt vi vet, Bergens beste pensjonsordning. Kanskje også Norges beste. Vår pensjon er i Frende og KLP. Pensjonen din settes til din mållønn. Er det store avvik vil vi gjøre justeringer, men dette må hver enkelt passe på - det går ikke automatisk.
 
 Vår pensjon er fra første krone, og er som følger:
 * 7% fra 0 G til 7,1 G
@@ -34,8 +35,7 @@ En G endrer seg årlig, og du kan se hva det er her:
 https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden
 
 ### Forsikringer
-
-Vi har mange forsikringer. Faktisk har vi alle forsikringene vi kunne få tak i, for det er viktig å ha gode ordninger. Det oppfordres til at hver enkelt setter seg inn i forsikringene - kontrakter og detaljer kan gis ved forespørsel.
+Vi har mange forsikringer. Faktisk har vi alle forsikringene vi kunne få tak i. Det oppfordres til at hver enkelt setter seg inn i forsikringene - kontrakter og detaljer kan gis ved forespørsel.
 
 Øvrig informasjon eller betingelser kan du finne her: https://www.frende.no
 
@@ -87,7 +87,9 @@ Det er anledning for å få dekket kostnad for databriller. Vilkårene er at øy
 https://www.arbeidstilsynet.no/tema/ergonomi/arbeid-ved-dataskjerm/synsundersoking-og-databriller/
 
 ## Lønn, timeføring, betingelser og sykdom
-### Nettverk
+### Arbeidstid
+Det er normalt 7,5 arbeidstimer i en arbeidsdag, og lønsj er ikke betalt. Dersom du har en oppdragsgiver som betaler lønsj vil du også få betalt lønsj. Vår kjernetid er mellom kl 09.30 og kl 14.30, men det må sees på mer som en rettesnor enn en regel. Vi er opptatt av at alle ansatte skal være fleksible med arbeidsforholdene rundt seg. Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi at en tilpasser seg dette.
+
 ### Skatt og skattekort
 Ditt skattekort blir hentet elektronisk. Dersom vi ikke får tak i ditt skattekort elektronisk vil vi be om et manuelt skattekort. Dersom det ikke er mulig å skaffe et skattekort er vi nødt til å trekke deg 50% i skatt for de månedene hvor du ikke har levert skattekort.
 
@@ -129,16 +131,17 @@ Alle ansatte har rett til å benytte seg av selskapets avtale med Volvat om hels
 I tillegg dekker Array treningstilbud. Dette er ikke skattefritt i Norge, og tilbudet er derfor begrenset til å være en lønnsytelse. Dersom en ønsker å få dekket trening på treningssenter så skal det leveres inn bilag på dette. Beløpet vil tilbakebetales, og også inntektsføres som vanlig inntekt som du må skatte for.
 
 ### Egenmelding/sykemelding
-
 I Array har vi 12 egenmeldingsdager (fra dato til dato) som kan benyttes enkeltvis eller sammenhengende. Det er viktig at du passer på at kroppen får bli skikkelig frisk hvis du har blitt syk. Har du brukt opp egenmeldingsdagene dine må du få sykemelding fra lege på vanlig vis etterpå.
 
 ## Ferie
 ### Ferie og ferietid
 Du har rett på fem uker ferie i selskapet. Ferien skal fortrinnsvis følge norsk fellesferie, og spesielt følge oppdragsgivers ønsker. Utover det tar du ferie når du måtte ønske.
 
-I tillegg til de 25 ordinære feriedagene har du også Array-fri med lønn mandag, tirsdag og onsdag før skjærtorsdag, samt Array-fri med lønn i romjulen, med mindre oppdragsgiver trenger at du arbeider disse dagene.
+I tillegg til de 25 ordinære feriedagene har du også Array-fri med lønn mandag, tirsdag og onsdag før skjærtorsdag i påskeuken, samt Array-fri med lønn i romjulen, med mindre oppdragsgiver trenger at du arbeider disse dagene.
 
 Dersom du jobber de dagene du har Array-fri gis du 25% ekstra på fastlønnen din for de dagene.
+
+Vi jobber heller ikke julaften eller nyttårsaften.
 
 ### Feriepenger
 
@@ -161,7 +164,7 @@ Du må på en todagers tjenestereise til Roma, og reiser ned dagen før for å h
 I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om forhåndsgodkjennelse. Det gis dekning for kilometer og bompenger etter Skatteetatens satser: https://www.skatteetaten.no/satser/bilgodtgjorelse-kilometergodtgjorelse/
 
 ### Bredbånd hjemmekontor
-I Array dekker vi mobil og bredbånd. Det er en limit på kr. 1 500 hver måned. Vi oppfordrer til å være nøktern.
+I Array dekker vi mobil og bredbånd. Vi oppfordrer til å være nøktern, og oppleves det som at en ber om refusjon for urimelig dyre tjenester så kan vi holde tilbake deler av summen.
 
 ### Reiseregninger / refusjon egne utlegg
 Reiseregninger og refusjoner tas på den administrative Slack-kanalen, eller med daglig tjener.
@@ -185,7 +188,7 @@ Det anbefales at en holder seg normale "Codes of conduct"
 ### Medarbeider- og utviklingssamtale
 Alle ansatte skal ha medarbeidersamtale to ganger i året, oppfølgingssamtaler ikke medregnet. Disse samtalene skal dekke det som normalt er med for å sikre medbestemmelse, ansvarsområder, hvordan den ansatte utvikler seg i selskapet og så videre.
 
-Samtalen bør vare i ca en time og ha et fast format.
+Samtalen bør vare rundt en time og ha et fast format som ivaretar interessene til arbeidstaker.
 
 ### Permisjoner
 Ansatte kan få velferdspermisjon med lønn i inntil 12 arbeidsdager i året når det finnes viktige velferdsgrunner.
