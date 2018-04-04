@@ -1,11 +1,11 @@
-# Velkommen til Array AS
+# Velkommen til Apparat AS
 
 Du er nå del av et selskap som er står for åpenhet, kunnskap, deling og
-nyskapning. Vi i Array vil ta i mot deg med åpne armer. Ikke bare deg, men også
+nyskapning. Vi i Apparat vil ta i mot deg med åpne armer. Ikke bare deg, men også
 din bedre halvdel. Vi vektlegger trivsel for alle, og faktisk står det i våre
 vedtekter at vi skal ha det gøy. Det skal vi dele med de som sitter hjemme, også.
 
-Frem mot din første arbeidsdag i Array vil du få en del informasjon og
+Frem mot din første arbeidsdag i Apparat vil du få en del informasjon og
 invitasjoner til ulike møter og sosiale arrangementer - kanskje også noen turer.
 Du velger selv hva du vil være med på, og du vurderer selv hvilken informasjon
 som er relevant for deg nå.
@@ -29,9 +29,9 @@ Administrasjon (ZZZZ sett inn info)
 ## Daglig tjener sine plikter
 |Frist|Ting som må gjøres|
 |---|---|
-|Snarest|Informere alle i Array om deg|
+|Snarest|Informere alle i Apparat om deg|
 |Snarest|Sende deg velkomstpakke på mail som inneholder følgende:<br><ul><li>Dette dokumentet</li><li>CV-maler</li><li>Sende over “Ansatteverdiene”</li><li>Vår “Bli kjent”-guide (Valve handbook)</li>|
-|Snarest|Ta kontakt med deg for påmelding til kommende<br>Array-arrangementer og -turer|
+|Snarest|Ta kontakt med deg for påmelding til kommende<br>Apparat-arrangementer og -turer|
 |Oppstart|Trykke opp ditt visittkort|
 |Oppstart|Etablere din profil på våre hjemmesider - gjerne før oppstart|
 |Oppstart|Sende omtale av ansettelsen til media|
@@ -53,13 +53,13 @@ Administrasjon (ZZZZ sett inn info)
 |Snarest|Sørge for at det etableres kontakt med kunder som kan passe for deg|
 |Ca 2 mnd før oppstart|Planlegge og kalle deg inn til møte for å prate om aktuelle caser og kunder|
 |Ca 1 mnd før oppstart|Planlegge og kalle deg inn til møte om muligheter|
-|Ved oppstart|Sette deg inn i rutinene i Array: timeføring, reiseregninger, utlegg, egenmeldingsskjema ved sykdom, HMS-rutiner, ansvarsforhold og avvikshåndtering|
+|Ved oppstart|Sette deg inn i rutinene i Apparat: timeføring, reiseregninger, utlegg, egenmeldingsskjema ved sykdom, HMS-rutiner, ansvarsforhold og avvikshåndtering|
 |Ved oppstart|Sette opp fagplan for deg|
 
 ## Dine oppgaver
 |Frist|Ting som må gjøres|
 |---|---|
-|Snarest|[Joine Slack med din array.no-epostadresse](https://join.slack.com/t/arrayas/signup)|
+|Snarest|[Joine Slack med din Apparat.no-epostadresse](https://join.slack.com/t/Arrayas/signup)|
 |1 mnd før oppstart|Ta kontakt med oss for bestilling av mobil og PC|
 |1 mnd før oppstart|Gi beskjed til daglig tjener hvilken 4-sifret adgangskode du ønsker på brikken din|
 |14 dager før oppstart|Gi beskjed til administrativt hvilken konto du ønsker å få utbetalt lønnen til|

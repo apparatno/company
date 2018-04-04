@@ -1,12 +1,12 @@
-# Personalhåndbok Array AS
+# Personalhåndbok Apparat AS
 
 ## Innledning
 
 ### Formål med personalhåndboken
-Denne personalhåndboken er Array sin måte å beskrive ordningene vi har. Her bør ting være godt beskrevet og alt skal være dekket. Personalhåndboken skal leve på Github og være offentlig tilgjengelig. Vi oppfordrer til å sende inn pull requests dersom det er ønskelig å gjøre endringer, har forslag til forbedringer, ønsker mer utfyllende informasjon eller trenger å beskrive noe som ikke står her fra før.
+Denne personalhåndboken er Apparat sin måte å beskrive ordningene vi har. Her bør ting være godt beskrevet og alt skal være dekket. Personalhåndboken skal leve på Github og være offentlig tilgjengelig. Vi oppfordrer til å sende inn pull requests dersom det er ønskelig å gjøre endringer, har forslag til forbedringer, ønsker mer utfyllende informasjon eller trenger å beskrive noe som ikke står her fra før.
 
 ### Vår organisasjon
-Array AS er et IT-selskap med fokus på åpenhet, kunnskap, deling og nyskapning. Åpenhet er grunnen til at du leser dette dokumentet åpent på internett, og ikke på et lukket område. Det er ingen hemmeligheter her - vi er stolte av det vi har å tilby!
+Apparat AS er et IT-selskap med fokus på åpenhet, kunnskap, deling og nyskapning. Åpenhet er grunnen til at du leser dette dokumentet åpent på internett, og ikke på et lukket område. Det er ingen hemmeligheter her - vi er stolte av det vi har å tilby!
 
 ### Personalpolitikk
 ### Utførelse av personalansvaret
@@ -17,7 +17,7 @@ Alle henvendelser vedrørende ditt arbeidsforhold skal primært tas med daglig t
 Alle ansatte i selskapet har krav på en ansettelsesavtale. Denne avtalen skal beskrive ditt arbeidsforhold, prøvetid, betingelser som lønn, forsikring, ansvar, arbeidstid og så videre.
 
 ### Bedriftshelsetjeneste
-I Array AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. Hver enkelt kan bestille en helsekontroll her:
+I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. Hver enkelt kan bestille en helsekontroll her:
 https://www.volvat.no/tjenester/helsekontroll-bedrift/
 
 Den er årlig, og dekkes av selskapet. Du får 1,5 arbeidstimer dekket for å delta på denne.
@@ -25,7 +25,7 @@ Den er årlig, og dekkes av selskapet. Du får 1,5 arbeidstimer dekket for å de
 * Kommer: Behandlingsavtale i det private helsevesenet.
 
 ### Obligatorisk Tjenestepensjon (OTP)
-Array AS har, såvidt vi vet, Bergens beste pensjonsordning. Kanskje også Norges beste. Vår pensjon er i Frende og KLP. Pensjonen din settes til din mållønn. Er det store avvik vil vi gjøre justeringer, men dette må hver enkelt passe på - det går ikke automatisk.
+Apparat AS har, såvidt vi vet, Bergens beste pensjonsordning. Kanskje også Norges beste. Vår pensjon er i Frende og KLP. Pensjonen din settes til din mållønn. Er det store avvik vil vi gjøre justeringer, men dette må hver enkelt passe på - det går ikke automatisk.
 
 Vår pensjon er fra første krone, og er som følger:
 * 7% fra 0 G til 7,1 G
@@ -75,7 +75,7 @@ Som en del av pakken har vi også innskuddssikring, som betyr at dersom du blir 
 Les mer her: https://www.frende.no/forsikringer/uforeforsikring/
 
 #### Gruppelivforsikring
-Du har en livsforsikring på 2 millioner kroner som tilfaller dine nærmeste som et engangsbeløp dersom du skulle falle fra mens du jobber i Array.
+Du har en livsforsikring på 2 millioner kroner som tilfaller dine nærmeste som et engangsbeløp dersom du skulle falle fra mens du jobber i Apparat.
 
 Les mer her: https://www.frende.no/forsikringer/dodsfallsforsikring/
 
@@ -108,7 +108,7 @@ Du har 40.000kr i fast månedslønn, og har omsatt for 150 000kr sist måned. Du
 
 Har du ikke hatt omsetning forrige måned vil du ikke få provisjon.
 
-I tillegg til lønnen din så deler Array ut en årlig bonus. Den består av 15% av overskuddet for inneværende år, og blir delt ut likt blant alle ansatte. Har du nettopp begynt i selskapet vil du få 1/12 bonus for hver måned du har jobbet.
+I tillegg til lønnen din så deler Apparat ut en årlig bonus. Den består av 15% av overskuddet for inneværende år, og blir delt ut likt blant alle ansatte. Har du nettopp begynt i selskapet vil du få 1/12 bonus for hver måned du har jobbet.
 
 Eksempel på bonus:
 Selskapet går med 1 500 000 kr i overskudd. Vi deler ut 15% av overskuddet, som tilsvarer 100 000 kr. Det er 5 ansatte i selskapet som får 20 000 kr hver. Bonus inkluderer ikke arbeidsgiveravgift, og gir heller ikke rett til sykepenger, pensjon eller lignende.
@@ -128,18 +128,18 @@ Du står fritt til å kjøpe overtidsmat hvis du ska jobbe mer enn tre timer ove
 ### Avtaler og tilbud
 Alle ansatte har rett til å benytte seg av selskapets avtale med Volvat om helsekontroll. Ta kontakt med daglig tjener eller på Slack for å få mer informasjon om hvordan en kan gå frem.
 
-I tillegg dekker Array treningstilbud. Dette er ikke skattefritt i Norge, og tilbudet er derfor begrenset til å være en lønnsytelse. Dersom en ønsker å få dekket trening på treningssenter så skal det leveres inn bilag på dette. Beløpet vil tilbakebetales, og også inntektsføres som vanlig inntekt som du må skatte for.
+I tillegg dekker Apparat treningstilbud. Dette er ikke skattefritt i Norge, og tilbudet er derfor begrenset til å være en lønnsytelse. Dersom en ønsker å få dekket trening på treningssenter så skal det leveres inn bilag på dette. Beløpet vil tilbakebetales, og også inntektsføres som vanlig inntekt som du må skatte for.
 
 ### Egenmelding/sykemelding
-I Array har vi 12 egenmeldingsdager (fra dato til dato) som kan benyttes enkeltvis eller sammenhengende. Det er viktig at du passer på at kroppen får bli skikkelig frisk hvis du har blitt syk. Har du brukt opp egenmeldingsdagene dine må du få sykemelding fra lege på vanlig vis etterpå.
+I Apparat har vi 12 egenmeldingsdager (fra dato til dato) som kan benyttes enkeltvis eller sammenhengende. Det er viktig at du passer på at kroppen får bli skikkelig frisk hvis du har blitt syk. Har du brukt opp egenmeldingsdagene dine må du få sykemelding fra lege på vanlig vis etterpå.
 
 ## Ferie
 ### Ferie og ferietid
 Du har rett på fem uker ferie i selskapet. Ferien skal fortrinnsvis følge norsk fellesferie, og spesielt følge oppdragsgivers ønsker. Utover det tar du ferie når du måtte ønske.
 
-I tillegg til de 25 ordinære feriedagene har du også Array-fri med lønn mandag, tirsdag og onsdag før skjærtorsdag i påskeuken, samt Array-fri med lønn i romjulen, med mindre oppdragsgiver trenger at du arbeider disse dagene.
+I tillegg til de 25 ordinære feriedagene har du også Apparat-fri med lønn mandag, tirsdag og onsdag før skjærtorsdag i påskeuken, samt Apparat-fri med lønn i romjulen, med mindre oppdragsgiver trenger at du arbeider disse dagene.
 
-Dersom du jobber de dagene du har Array-fri gis du 25% ekstra på fastlønnen din for de dagene.
+Dersom du jobber de dagene du har Apparat-fri gis du 25% ekstra på fastlønnen din for de dagene.
 
 Vi jobber heller ikke julaften eller nyttårsaften.
 
@@ -149,7 +149,7 @@ Vi utbetaler feriepenger 15. juni. Feriepengene består av 12 % av bruttolønnen
 
 ## Reiser og reisegodtgjørelse, refusjon av andre utlegg
 ### Tjenestereiser
-For tjenestereiser, f.eks. reiser til konferanse, møter eller lignende, så følger vi statens regulativ for reisetid og diett. Normalt sett regnes ikke reisetid som arbeidstid, men her er reglerverket både komplisert og i endring. Vi ønsker å gjøre det lettere for oss i Array ved å komme med noen eksempler og forenklinger.
+For tjenestereiser, f.eks. reiser til konferanse, møter eller lignende, så følger vi statens regulativ for reisetid og diett. Normalt sett regnes ikke reisetid som arbeidstid, men her er reglerverket både komplisert og i endring. Vi ønsker å gjøre det lettere for oss i Apparat ved å komme med noen eksempler og forenklinger.
 
 **Eksempel - du må i møte i Oslo:**
 Flyet vårt går fra Flesland kl. 08.00 fredag morgen, og vi er tilbake kl. 15 samme dag. Vi fører full dag.
@@ -164,7 +164,7 @@ Du må på en todagers tjenestereise til Roma, og reiser ned dagen før for å h
 I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om forhåndsgodkjennelse. Det gis dekning for kilometer og bompenger etter Skatteetatens satser: https://www.skatteetaten.no/satser/bilgodtgjorelse-kilometergodtgjorelse/
 
 ### Bredbånd hjemmekontor
-I Array dekker vi mobil og bredbånd. Vi oppfordrer til å være nøktern, og oppleves det som at en ber om refusjon for urimelig dyre tjenester så kan vi holde tilbake deler av summen.
+I Apparat dekker vi mobil og bredbånd. Vi oppfordrer til å være nøktern, og oppleves det som at en ber om refusjon for urimelig dyre tjenester så kan vi holde tilbake deler av summen.
 
 ### Reiseregninger / refusjon egne utlegg
 Reiseregninger og refusjoner tas på den administrative Slack-kanalen, eller med daglig tjener.
@@ -180,7 +180,7 @@ Er det tvil om hva som er innenfor eller ikke så kan en spørre :-)
 ### Betingelser for utgiftsrefusjon
 Utstyr du har behov for må du enten kjøpe selv og levere inn kvittering for. Er det noe du er i tvil om du får dekket, så tar du kontakt med daglig tjener eller spør på Slack. Alle har informasjonsplikt om hva de har kjøpt, og vi er åpne om hvilket utstyr/gadgets vi har kjøpt inn.
 
-Andre typer utgifter du måtte ha kan du levere inn kvitteringer for dersom det er relatert til arbeidet ditt eller et sosialt arrangement i Array-regi.
+Andre typer utgifter du måtte ha kan du levere inn kvitteringer for dersom det er relatert til arbeidet ditt eller et sosialt arrangement i Apparat-regi.
 
 Det anbefales at en holder seg normale "Codes of conduct"
 
