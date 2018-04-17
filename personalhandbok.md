@@ -175,6 +175,8 @@ Vi har for øyeblikket ingen lønsjordning, men den er på vei. Vi ønsker at al
 ### Refusjon av "diverse utlegg"/sosiale begivenheter
 Som et utgangspunkt er vi rause med å dekke mat og drikke i forbindelse med sosiale arrangementer med oss selv eller våre kunder. Normalt sett er det innenfor å levere inn kvitteringer for ulike sosiale formål. Det gjøres på den administrative Slack-kanalen.
 
+Husk at kvitteringen er bare gyldig hvis en kan oppgi navn på de en er sosial med, og hvilket selskap de jobber i.
+
 Er det tvil om hva som er innenfor eller ikke så kan en spørre :-)
 
 ### Betingelser for utgiftsrefusjon
@@ -196,6 +198,7 @@ Ansatte kan få velferdspermisjon med lønn i inntil 12 arbeidsdager i året nå
 * Alvorlig sykdom i arbeidstakers nærmeste familie
 * Dødsfall i nærmeste familie eller hos andre som har stått en nær
 * Permisjon til å delta i begravelse
+* Flyttedag
 * Oppfølging av barn i forbindelse med innleggelse eller behandling ved helseinstitusjon
 * Dersom begge foreldre er i arbeid gis det permisjon til tilvenning av barn i ny barnehage/SFO/barnepasser i inntil tre dager. Retten gjelder for én av de foresatte, men dagene kan deles.
 * Én dags permisjon for å følge barn til første skoledag i grunnskolen
