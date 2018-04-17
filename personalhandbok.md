@@ -99,7 +99,7 @@ Utbetalingsdato er 15. hver måned. Din faste månedslønn er årslønnen din de
 Feriepenger utbetales 15. juni basert på ditt feriepengegrunnlag. Dette kan du se på fjorårets lønns- og trekksoppgave. I juni vil du bli trukket for 5 uker ferie.
 
 ### Fastlønn, provisjon og bonus
-Fastlønnen din blir bestemt av hvilken modell du er på. Lønnsmodellen er beskrevet i et separat dokument. [Du kan finne det her](https://www.array.no/betingelser)
+Fastlønnen din blir bestemt av hvilken modell du er på. Lønnsmodellen er beskrevet i et separat dokument. [Du kan finne det her](https://www.apparat.no/betingelser)
 
 Eksempel på en lønnsutbetaling:  
 Du har 40.000kr i fast månedslønn, og har omsatt for 150 000kr sist måned. Du har en provisjonsprosent på 7%. Du vil da motta ytterligere 10 500kr i provisjon:

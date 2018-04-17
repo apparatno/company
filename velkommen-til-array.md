@@ -59,7 +59,7 @@ Administrasjon (ZZZZ sett inn info)
 ## Dine oppgaver
 |Frist|Ting som må gjøres|
 |---|---|
-|Snarest|[Joine Slack med din Apparat.no-epostadresse](https://join.slack.com/t/Arrayas/signup)|
+|Snarest|[Joine Slack med din Apparat.no-epostadresse](https://apparatno.slack.com/join/signup)|
 |1 mnd før oppstart|Ta kontakt med oss for bestilling av mobil og PC|
 |1 mnd før oppstart|Gi beskjed til daglig tjener hvilken 4-sifret adgangskode du ønsker på brikken din|
 |14 dager før oppstart|Gi beskjed til administrativt hvilken konto du ønsker å få utbetalt lønnen til|

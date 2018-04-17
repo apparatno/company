@@ -1,4 +1,4 @@
-![](./img/arraytext.png)
+<img src="./img/LOGOTYPE ORG SORT-HVIT.png" width="400" />
 
 > https://www.apparat.no
 
@@ -53,11 +53,11 @@ Vi tror helhjertet på at teknologi kan bidra til et bedre samfunn med økt livs
 <br />
 <br />
 
-<img src="./img/array.png" width="200" />
+<img src="./img/LOGOTYPE-ORG-SIRKEL-132-132.png" width="132" />
 
 <br />
 <br />
 
 :phone: +47 97 97 97 57  
-:computer: [arrayno.slack.com](https://join.slack.com/t/arrayno/shared_invite/enQtMjgyOTY0NjA2Mzg5LWU3OWI0ZjAzNTUwMTI0ZDc4YTMwZGUxNjZiODczNzI0YmRhYzJmZWZjNzBkMTU4YzMxZDU0MDRiMjVmYWI0NjM)  
-:fax: kontakt@array.no
+:computer: [apparatno.slack.com](https://join.slack.com/t/apparatno/shared_invite/enQtMjgyOTY0NjA2Mzg5LWU3OWI0ZjAzNTUwMTI0ZDc4YTMwZGUxNjZiODczNzI0YmRhYzJmZWZjNzBkMTU4YzMxZDU0MDRiMjVmYWI0NjM)
+:fax: kontakt@apparat.no
