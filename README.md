@@ -1,14 +1,14 @@
-![](./img/arraytext.png)
+<img src="./img/LOGOTYPE ORG SORT-HVIT.png" width="400" />
 
-> https://www.array.no
+> https://www.apparat.no
 
-Array er et litt annerledes IT-selskap. Vår filosofi er å gjøre din bedrift og dine ansatte bedre gjennom å dele kunnskap, gode råd og skape et miljø for faglig utvikling.
+Apparat er et litt annerledes IT-selskap. Vår filosofi er å gjøre din bedrift og dine ansatte bedre gjennom å dele kunnskap, gode råd og skape et miljø for faglig utvikling.
 
 Våre ansatte er dyktige fagfolk med stor grad av nysgjerrighet og skaperglede. Vi er også svært opptatt av at våre ansatte skal jobbe i et selskap for fremtiden, hvor lønnen er rettferdig, ordningene er de beste i bransjen og hvor det meste av informasjon er fritt tilgjengelig for alle.
 
 ## :book: Kunnskap
 
-I vår bransje er kunnskap og fag en av de viktigste faktorene for å lykkes - både for bedriften, og for den enkelte. I Array står kunnskap i sentrum, og vi oppfordrer til å delta på relevante kurs og konferanser hvor de nå enn måtte være.
+I vår bransje er kunnskap og fag en av de viktigste faktorene for å lykkes - både for bedriften, og for den enkelte. I Apparat står kunnskap i sentrum, og vi oppfordrer til å delta på relevante kurs og konferanser hvor de nå enn måtte være.
 
 ## :gift: Deling
 
@@ -16,7 +16,7 @@ Kunnskap er best anlagt når den deles med andre. Vi oppfordrer våre ansatte ti
 
 ## :sparkles: Nyskapning
 
-Vi tror helhjertet på at teknologi kan bidra til et bedre samfunn med økt livskvalitet. For å kontinuerlig jobbe med dette som veiledende filosofi, nytter det ikke å gro fast i gamle rutiner. I Array har vi en grobunn for å skissere, prøve, fikse, designe, mekke, bygge, og løfte idéer frem og se om de har livets rett.
+Vi tror helhjertet på at teknologi kan bidra til et bedre samfunn med økt livskvalitet. For å kontinuerlig jobbe med dette som veiledende filosofi, nytter det ikke å gro fast i gamle rutiner. I Apparat har vi en grobunn for å skissere, prøve, fikse, designe, mekke, bygge, og løfte idéer frem og se om de har livets rett.
 
 > _Hvordan kan vi løse problemer dersom vi fortsetter å tenke de samme tankene som skapte problemene?_ -Albert Einstein
 
@@ -50,14 +50,10 @@ Vi tror helhjertet på at teknologi kan bidra til et bedre samfunn med økt livs
 * Vi tør å utfordre deg
 * Vi bryr oss om deg og dine kunder
 
-<br />
-<br />
 
-<img src="./img/array.png" width="200" />
+<img src="./img/LOGOTYPE-ORG-SIRKEL-132-132.png" width="132" />
 
-<br />
-<br />
 
 :phone: +47 97 97 97 57  
-:computer: [arrayno.slack.com](https://join.slack.com/t/arrayno/shared_invite/enQtMjgyOTY0NjA2Mzg5LWU3OWI0ZjAzNTUwMTI0ZDc4YTMwZGUxNjZiODczNzI0YmRhYzJmZWZjNzBkMTU4YzMxZDU0MDRiMjVmYWI0NjM)  
-:fax: kontakt@array.no
+:computer: [apparatno.slack.com](https://join.slack.com/t/apparatno/shared_invite/enQtMjgyOTY0NjA2Mzg5LWU3OWI0ZjAzNTUwMTI0ZDc4YTMwZGUxNjZiODczNzI0YmRhYzJmZWZjNzBkMTU4YzMxZDU0MDRiMjVmYWI0NjM)
+:fax: kontakt@apparat.no
