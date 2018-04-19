@@ -1,4 +1,4 @@
-<img src="./img/LOGOTYPE ORG SORT-HVIT.png" width="400" />
+<img src="./img/LOGOTYPE-ORG-SORT-HVIT.png" width="400" />
 
 > https://www.apparat.no
 
