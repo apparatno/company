@@ -22,7 +22,7 @@ Dette er modellen for de som jobber direkte med kunder og på prosjektbasis, og 
 
 ### Salgsrettet arbeid
 
-Salg har en litt annerledes modell, som ikke skiller seg veldig fra produksjon - men som har litt andre forutsetninger. Dette er for de som arbeider bredt mot mange kunder samtidig, og gjerne gir arbeid nedover til produksjon. Lønnen her er fast, med en lavere provisjon basert på omsetningsmål for stillingen.
+Salg har en litt annerledes modell, som ikke skiller seg veldig fra produksjon - men som har litt andre forutsetninger. Dette er for de som arbeider bredt mot mange kunder samtidig, og gjerne gir arbeid nedover til produksjon. Lønnen her er fast, med en lavere provisjon basert på mål for dekningsbidrag for stillingen.
 
 > [Les mer om hvordan salgsmodellen fungerer her](lonnsmodell-salg.md).
 
