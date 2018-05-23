@@ -1,3 +1,5 @@
+[⬅️ Tilbake til lønnsmodellen](lonnsmodell.md)
+
 # Lønnsmodell for salg
 
 Salg og salgsrettet arbeid er et viktig bidrag i bedriften. Det gir oss arbeid internt, og bidrar til å holde en stabil oppdragsmengde. For å beregne lønn for salg knytter vi målene for dekningsbidrag direkte til provisjonsleddet. Fastlønnen vil være den samme for hvert trinn, mens etterhvert som en stiger i lønnsgradene så vil en få økt forventning til dekningsbidraget en skaper, samtidig som provisjonen øker noe for hvert steg.
@@ -46,3 +48,5 @@ Et annet eksempel kan være dersom en skal gjennomføre en produksjon av en rekl
 <br>Provisjon: `250 000 kr * 4%` ➡️ `12 500 kr`
 <br>
 <br>Din månedslønn: `50 000 kr + 12 500 kr` ➡️ `62 500 kr` 🎉 🎉
+
+[⬅️ Tilbake til lønnsmodellen](lonnsmodell.md)

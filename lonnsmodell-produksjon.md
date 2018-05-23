@@ -1,3 +1,5 @@
+[⬅️ Tilbake til lønnsmodellen](lonnsmodell.md)
+
 # Lønnsmodell for produksjon
 
 Våre tre modeller skiller seg noe fra hverandre. "Nivå 1" er vår innslagslønn. Her vil du normalt sett havne hvis liten erfaring, kommer rett fra skole eller på annet vis er det en normalt ville karakterisert som junior.
@@ -85,3 +87,5 @@ Månedslønn: `41 666 kr`
 <br>Provisjon: `75 000 kr * 7%` ➡️ `5 250 kr`
 <br>
 <br>Din månedslønn: `41 666 kr + 5 250 kr` ➡️ `~46 900 kr` 🎉 🎉
+
+[⬅️ Tilbake til lønnsmodellen](lonnsmodell.md)
