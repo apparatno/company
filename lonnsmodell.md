@@ -18,13 +18,13 @@ Kundeprosjekter er alltid knyttet til en timepris, og det er denne timeprisen du
 
 Dette er modellen for de som jobber direkte med kunder og på prosjektbasis, og gjerne ett prosjekt av gangen. Typisk vil dette være modellen for utviklere, testere og andre som jobber med produksjon eller utvikling av tjenester.
 
-> [Les mer om hvordan produksjonsmodellen fungerer her](lonnsmodell-produksjon.md).
+> [Les mer om hvordan produksjonsmodellen fungerer her](https://github.com/apparatno/company/blob/master/lonnsmodell-produksjon.md).
 
 ### Salgsrettet arbeid
 
 Salg har en litt annerledes modell, som ikke skiller seg veldig fra produksjon - men som har litt andre forutsetninger. Dette er for de som arbeider bredt mot mange kunder samtidig, og gjerne gir arbeid nedover til produksjon. Lønnen her er fast, med en lavere provisjon basert på mål for dekningsbidrag for stillingen.
 
-> [Les mer om hvordan salgsmodellen fungerer her](lonnsmodell-salg.md).
+> [Les mer om hvordan salgsmodellen fungerer her](https://github.com/apparatno/company/blob/master/lonnsmodell-salg.md).
 
 ## Fellesbelønning
 
