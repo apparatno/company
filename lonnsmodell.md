@@ -10,13 +10,11 @@ Provisjonsleddet gjelder fra første fakturerte krone - ingen terskel. Vi synes 
 
 ## Våre modeller
 
-### Produksjon
+### IT
 
-_Utviklere, testere, produksjon eller utvikling av tjenester_
+Dette er modellen for programvareutviklere
 
-Dette er modellen for de som jobber direkte med kunder og på prosjektbasis, og gjerne ett prosjekt av gangen. Typisk vil dette være modellen for utviklere, testere og andre som jobber med produksjon eller utvikling av tjenester.
-
-> [Les mer om hvordan produksjonsmodellen fungerer her](lonnsmodell-produksjon.md).
+> [Les mer om hvordan IT-modellen fungerer her](lonnsmodell-produksjon.md).
 
 ### Salgsrettet arbeid
 

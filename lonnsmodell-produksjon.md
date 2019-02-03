@@ -1,64 +1,34 @@
 [⬅️ Tilbake til lønnsmodellen](lonnsmodell.md)
 
-# Lønnsmodell for produksjon
+# Lønnsmodell for IT
 
-Våre tre modeller skiller seg noe fra hverandre. "Nivå 1" er vår innslagslønn. Her vil du normalt sett havne hvis liten erfaring, kommer rett fra skole eller på annet vis er det en normalt ville karakterisert som junior.
+Lønn består av fastlønn og provisjon, og følger en fastsatt, trinnvis økning. Fastlønn øker med 5000kr og provisjon øker med 1% hvert år. Man går opp minst 1 trinn i året.
 
-"Nivå 2" er vår modell som tilsvarer det en gjerne vil kalle senior. Her skal de aller fleste i selskapet ligge. Lønnen gir en stabilt høy fastlønn, og et romslig provisjonsledd. Mållønnen vil ligge en del høyere enn for "Nivå 1". Det stilles også høyere krav til deg her, og en skal normalt sett kunne navigere seg fint oppover på stigen.
+Mållønn er etter alle praktiske formål den totale lønnen din. Denne er utgangspunktet for beregning av pensjon og skatt.
 
-Den siste modellen vår er "Nivå 3". Her vil individer som utmerker seg som eksepsjonelle ofte ligge. Fastlønnen her er konstant, og provisjonen blir viktigere enn før. Det stilles også krav til deg for at du skal beholde plassen din i denne lønnsmodellen. Dersom du ikke lenger passer inn her så kan du rykke tilbake til "Nivå 2".
+Her følger et utsnitt av det overnevnte trinnvise oppbygningen:
 
-## Nivå 1
-
-Denne modellen begynner på kr 380 000, og med en provisjonsandel på 5%. For hvert ledd i denne modellen øker fastlønnen med kr 10 000, og provisjonsandelen øker med 0,33%. Dette betyr at du vil stige mye i lønn for hvert ledd slik at de med den laveste lønnen i selskapet skal ha den største stigningen.
-
-Provisjonen for denne modellen er regnet ut av en årlig antatt omsetning på kr. 1 400 000.
-
-| Index | Fastlønn                    | Provisjon           | Mållønn    |
-| ----- | --------------------------- | ------------------- | ---------- |
-| 0     | 380 000 kr                  | 5,00 %              | 450 000 kr |
-| 1     | 390 000 kr                  | 5,33 %              | 464 620 kr |
-| 2     | 400 000 kr                  | 5,66 %              | 479 240 kr |
-| 3     | 410 000 kr                  | 6,00 %              | 493 860 kr |
-| 4     | 420 000 kr                  | 6,33 %              | 508 480 kr |
-| 5     | 430 000 kr                  | 6,66 %              | 523 100 kr |
-| 6     | 440 000 kr                  | 7,00 %              | 537 720 kr |
-| 7     | 450 000 kr                  | 7,33 %              | 552 340 kr |
-| 8     | 460 000 kr                  | 7,66 %              | 566 960 kr |
-| ...   | ...                         | ...                 | ...        |
-| N     | 380 000 kr + N \* 10.000 kr | 5,00 % + N \* 0,33% | -          |
-
-## Nivå 2
-
-Det er viktig å merke seg at dette er en annen modell enn "Nivå 1" i den form av at den stiller høyere krav til deg som ansatt, og den betaler vesentlig bedre. Vi har her en startlønn på kr 500 000 på nederste leddet, og den faste lønnen øker med kr 5 000 for hvert ledd. Samtidig vil provisjonen din bli viktigere for deg, og du øker med 1% for hvert ledd du klatrer. Startprovisjonen er 7,00 %. Vi regner dette ut i fra en antatt omsetning på kr. 1 500 000 i året.
-
-| Index | Fastlønn                   | Provisjon     | Mållønn    |
-| ----- | -------------------------- | ------------- | ---------- |
-| 0     | 500 000 kr                 | 7 %           | 605 000 kr |
-| 1     | 505 000 kr                 | 8 %           | 625 000 kr |
-| 2     | 510 000 kr                 | 9 %           | 645 000 kr |
-| 3     | 515 000 kr                 | 10 %          | 665 000 kr |
-| 4     | 520 000 kr                 | 11 %          | 685 000 kr |
-| 5     | 525 000 kr                 | 12 %          | 705 000 kr |
-| 6     | 530 000 kr                 | 13 %          | 725 000 kr |
-| 7     | 535 000 kr                 | 14 %          | 745 000 kr |
-| 8     | 540 000 kr                 | 15 %          | 765 000 kr |
-| ...   | ...                        | ...           | ...        |
-| N     | 500 000 kr + N \* 5 000 kr | 7 % + N \* 1% | -          |
-
-## Nivå 3
-
-Her vil det ligge et fåtall ansatte. Typisk må du være særskilt dyktig, veldig ettertraktet som utvikler, anerkjent
-foredragsholder eller på annet vis være av stor betydning for selskapet for å ligge her. Modellen har en fast årslønn, men vil øke provisjonen for hvert ledd. Fastlønnen er kr 600 000, og en starter med 15% provisjon. For hvert ledd øker provisjonsleddet med 1%.
-
-| Index | Fastlønn   | Provisjon      | Mållønn    |
-| ----- | ---------- | -------------- | ---------- |
-| 0     | 600 000 kr | 15 %           | 840 000 kr |
-| 1     | 600 000 kr | 16 %           | 856 000 kr |
-| 2     | 600 000 kr | 17 %           | 872 000 kr |
-| 3     | 600 000 kr | 18 %           | 888 000 kr |
-| ...   | ...        | ...            | ...        |
-| N     | 600 000 kr | 15 % + N \* 1% | -          |
+| Trinn | Fastlønn   | Provisjon | Mållønn    |
+| ----- | ---------- | --------- | ---------- |
+| 1     | 465 000 kr | 0 %       | 465 000 kr |
+| 2     | 470 000 kr | 1 %       | 488 860 kr |
+| 3     | 475 000 kr | 2 %       | 512 720 kr |
+| 4     | 480 000 kr | 3 %       | 536 580 kr |
+| 5     | 485 000 kr | 4 %       | 560 440 kr |
+| 6     | 490 000 kr | 5 %       | 584 300 kr |
+| 7     | 495 000 kr | 6 %       | 608 160 kr |
+| 8     | 500 000 kr | 7 %       | 632 020 kr |
+| 9     | 505 000 kr | 8 %       | 655 880 kr |
+| 10    | 510 000 kr | 9 %       | 679 740 kr |
+| 11    | 515 000 kr | 10 %      | 703 600 kr |
+| 12    | 520 000 kr | 11 %      | 727 460 kr |
+| 13    | 525 000 kr | 12 %      | 751 320 kr |
+| 14    | 530 000 kr | 13 %      | 775 180 kr |
+| 15    | 535 000 kr | 14 %      | 799 040 kr |
+| 16    | 540 000 kr | 15 %      | 822 900 kr |
+| 17    | 545 000 kr | 16 %      | 846 760 kr |
+| 18    | 550 000 kr | 17 %      | 870 620 kr |
+| ...   | ...        | ...       | ...        |
 
 # Beregning av lønn
 
