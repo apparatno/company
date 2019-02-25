@@ -4,27 +4,27 @@
 
 Hos Apparat skal du ha en god og rettferdig lønn. Vi mener det er viktig at lønnen passer til deg, og at du skal ha noe konkret å strekke deg etter.
 
-Lønn består av fastlønn og provisjon, og følger en fastsatt, trinnvis økning. Fastlønn øker med 5000kr og provisjon øker med 1% hvert år. Man går opp minst 1 trinn i året.
+Lønn består av fastlønn og provisjon, og følger en fastsatt, trinnvis økning. Fastlønn øker med 5 000 kr og provisjon øker med 1% hvert år. Man går opp minst ett trinn i året.
 
 Provisjonsleddet gjelder fra første fakturerte krone - ingen terskel. Vi synes det er mest rettferdig at du tjener penger når selskapet gjør det. På den måten deler vi på det hele tiden. I tillegg gir det deg enkel oversikt, og du kan lett regne ut lønnen din hver måned basert på hvor mange timer du har jobbet.
 
 ## Våre modeller
 
-### IT
+### Konsulenter
 
-Dette er modellen for programvareutviklere
+Modellen for konsulenter, kreatører, designere osv - her får du provisjon for hver omsatte krone.
 
-> [Les mer om hvordan IT-modellen fungerer her](lonnsmodell-produksjon.md).
+> [Les mer om hvordan lønnen for konsulenter fungerer](lonnsmodell-produksjon.md).
 
 ### Salgsrettet arbeid
 
-Salg har en litt annerledes modell, som ikke skiller seg veldig fra produksjon - men som har litt andre forutsetninger. Dette er for de som arbeider bredt mot mange kunder samtidig, og gjerne gir arbeid nedover til produksjon. Lønnen her er fast, med en lavere provisjon basert på mål for dekningsbidrag for stillingen.
+Salg har litt høyere fastlønn, og får provisjon av dekningsbidraget for sitt salgsarbeid.
 
-> [Les mer om hvordan salgsmodellen fungerer her](lonnsmodell-salg.md).
+> [Les mer om hvordan salgsmodellen fungerer](lonnsmodell-salg.md).
 
 ## Fellesbelønning
 
-Foruten din egen lønn, så vil du få en ekstra påskjønnelse hvis selskapet gjør det bra. Apparat ønsker å dele ut 15% av sitt overskudd til de ansatte. Dette blir delt ut flatt, og det spiller ingen rolle om du står på den nederste modellen eller den øverste - alle får likt. De som har begynt samme året vil få 1/12 bonus for hver måned de har jobbet i Apparat.
+Foruten din egen lønn, så vil du få en ekstra påskjønnelse hvis selskapet gjør det bra. Apparat deler ut 15% av sitt overskudd til de ansatte. Dette blir delt ut flatt, og det spiller ingen rolle om du står på den nederste modellen eller den øverste - alle får likt. De som har begynt samme året vil få 1/12 bonus for hver måned de har jobbet i Apparat.
 
 Se personalhåndboken for mer detaljer her.
 
