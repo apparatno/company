@@ -1,4 +1,4 @@
-[⬅️ Tilbake til lønnsmodellen](lonnsmodell.md)
+[⬅ Tilbake til lønnsmodellen](lonnsmodell.md)
 
 # Lønnsmodell for salg
 
@@ -34,19 +34,19 @@ Konsulent 1, 2, 3, 4 og 5 gir et samlet dekningsbidrag på kr. 2 500 000. Dette 
 I vårt eksempel tenker vi oss en standard snittmåned basert på summen over, som gir et dekningsbidrag på kr. 200 000.
 
 **Eksempel dekningsbidrag 200 000 kr**
-<br>Månedslønn: `600 000 kr / 12 måneder` ➡️ `50 000 kr`
+<br>Månedslønn: `600 000 kr / 12 måneder` --> `50 000 kr`
 <br>Dekn.bidrag: `200 000 kr`
-<br>Provisjon: `200 000 kr * 4%` ➡️ `8 000 kr`
+<br>Provisjon: `200 000 kr * 4%` --> `8 000 kr`
 <br>
-<br>Din månedslønn: `50 000 kr + 8 000 kr` ➡️ `58 000 kr` 🎉 🎉
+<br>Din månedslønn: `50 000 kr + 8 000 kr` --> `58 000 kr`
 
 Et annet eksempel kan være dersom en skal gjennomføre en produksjon av en reklamefilm til en verdi av kr 500 000. Denne krever bruk av intern kompetanse, samt innkjøp av eksterne tjenester for kamera, lyd, grafikk o.l. Dersom en bruker 100 000 kr på internt salg, og ytterligere 150 000 kr på innkjøp av tjenester for andre produksjonsmidler, så vil det totale dekningsbidraget for dette oppdraget være kr 250 000.
 
 **Eksempel dekningsbidrag 250 000 kr**
-<br>Månedslønn: `600 000 kr / 12 måneder` ➡️ `50 000 kr`
+<br>Månedslønn: `600 000 kr / 12 måneder` --> `50 000 kr`
 <br>Dekn.bidrag: `250 000 kr`
-<br>Provisjon: `250 000 kr * 4%` ➡️ `12 500 kr`
+<br>Provisjon: `250 000 kr * 4%` --> `12 500 kr`
 <br>
-<br>Din månedslønn: `50 000 kr + 12 500 kr` ➡️ `62 500 kr` 🎉 🎉
+<br>Din månedslønn: `50 000 kr + 12 500 kr` --> `62 500 kr`
 
-[⬅️ Tilbake til lønnsmodellen](lonnsmodell.md)
+[⬅ Tilbake til lønnsmodellen](lonnsmodell.md)
