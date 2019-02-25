@@ -88,7 +88,29 @@ https://www.arbeidstilsynet.no/tema/ergonomi/arbeid-ved-dataskjerm/synsundersoki
 
 ## Lønn, timeføring, betingelser og sykdom
 ### Arbeidstid
-Det er normalt 7,5 arbeidstimer i en arbeidsdag, og lønsj er ikke betalt. Dersom du har en oppdragsgiver som betaler lønsj vil du også få betalt lønsj. Vår kjernetid er mellom kl 09.30 og kl 14.30, men det må sees på mer som en rettesnor enn en regel. Vi er opptatt av at alle ansatte skal være fleksible med arbeidsforholdene rundt seg. Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi at en tilpasser seg dette.
+Det er normalt 7,5 arbeidstimer i en arbeidsdag, og lønsj er ikke betalt. Dersom du har en oppdragsgiver som betaler lønsj vil du også få betalt lønsj. 
+
+### Fleksitid
+
+Det er fleksibel arbeidstid i Apparat, såkalt fleksitid. Vår kjernetid er mellom kl 09.30 og kl 14.30, men det må sees på mer som en rettesnor enn en regel. Vi er opptatt av at alle ansatte skal være fleksible med arbeidsforholdene rundt seg. Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi at en tilpasser seg dette.
+
+### Overtid
+Det er generelt forbud mot overtid i Apparat. Fleksitidsordningen gjør at du kan justere timene dine etter eget behov, eller tilpasse timene slik at det passer inn med en kunde. Det forventes stor fleksibilitet, og det gis stor fleksibilitet.
+
+Det er adgang for å avtale overtid med den enkelte ansatte, og eventuell avspasering som følge av overtiden skal avtales eksplisitt.
+
+I de tilfeller hvor overtid er avtalt, så beregnes overtid der hvor det er fakturert mer enn 100% ute hos kunde.
+
+* arbeid over 9 timer per dag gir overtid
+* arbeid over 40 timer per uke gir overtid
+* overtid kompenseres med 40% på fastlønnen
+* timelønn beregnes slik: fastønn / 1950
+* all overtid skal avklares på forhånd
+* all bruk av avspasering skal avtales
+* overtid kan byttes i avspasering 1:1, og en skal fortsatt ha 40% overtidsbetalt
+* pålagt overtid vil aldri finne sted i Apparat med mindre en kunde krever det, og betaler for det - det utløses direkte på lønnen i så fall
+* har en under 100% fakturering hos kunde vil det aldri utløse overtid, da antas det at man har benyttet seg av fleksitidsordningen
+* provisjon kommer alltid på toppen, og gir ikke overtidsbetalt med mindre timeprisen øker ute hos kunde
 
 ### Skatt og skattekort
 Ditt skattekort blir hentet elektronisk. Dersom vi ikke får tak i ditt skattekort elektronisk vil vi be om et manuelt skattekort. Dersom det ikke er mulig å skaffe et skattekort er vi nødt til å trekke deg 50% i skatt for de månedene hvor du ikke har levert skattekort.
@@ -188,9 +210,20 @@ Det anbefales at en holder seg normale "Codes of conduct"
 
 ## Generell informasjon
 ### Medarbeider- og utviklingssamtale
-Alle ansatte skal ha medarbeidersamtale to ganger i året, oppfølgingssamtaler ikke medregnet. Disse samtalene skal dekke det som normalt er med for å sikre medbestemmelse, ansvarsområder, hvordan den ansatte utvikler seg i selskapet og så videre.
+Alle ansatte skal ha medarbeidersamtale minst en gang i året, oppfølgingssamtaler ikke medregnet. Disse samtalene skal dekke det som normalt er med for å sikre medbestemmelse, ansvarsområder, lønn, arbeidsmiljø og så videre.
 
 Samtalen bør vare rundt en time og ha et fast format som ivaretar interessene til arbeidstaker.
+
+### Utviklingssamtale
+Alle skal følges opp individuelt i såkalte utviklingssamtaler. Hver enkelt skal følges opp hver tredje måned, gjerne over en lønsj, hvor følgende temaer skal tas opp:
+* Personlig utvikling
+* Trivsel - hvordan går det hjemme, trives du på jobb, i oppdrag etc
+* Fremtidsplaner
+* Faglig utvikling
+* Oppdrag og kunder
+* Eventuelt
+
+Disse samtalene skal ikke handle om lønn, og skal ikke være en medarbeidersamtale. Det skal skrives et referat som skal godkjennes av begge parter.
 
 ### Permisjoner
 Ansatte kan få velferdspermisjon med lønn i inntil 12 arbeidsdager i året når det finnes viktige velferdsgrunner.
@@ -208,12 +241,15 @@ Ansatte kan få velferdspermisjon med lønn i inntil 12 arbeidsdager i året nå
 Vi skal være fleksible med disse ordningene, og vi kan gi hele og halve dager. Arbeidsmiljøloven gir også noen rettigheter til redusert arbeidstid i visse tilfeller.
 
 ## Avslutning av Arbeidsforholdet
-TDB
+
+### Frivillig avslutning av arbeidsforhold
+Det kan tilbys frivillig fratredelsesordning dersom arbeidsforhold ikke lenger kan fortsette.
+
 ### Oppsigelse
-TDB
-### Advarsel
-TDB
+Arbeidsgiver har rett til å si opp arbeidstaker etter §15-7 i Arbeidsmiljøloven.
+
 ### Avskjed
-TDB
+Arbeidsgiver har rett til å avskjedige en arbeidstaker etter §15-14 i Arbeidsmiljøloven. Som et midlertidig tiltak kan suspensjon vurderes.
+
 ### Attest
-TDB
+Den ansatte har rett på en attest etter §15-15 i Arbeidsmiljøloven som beskriver arbeidstakers oppgaver, stilling, varighet på ansettelsen og så videre.
