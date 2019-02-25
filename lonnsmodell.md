@@ -2,33 +2,29 @@
 
 ## Prinsipper
 
-Hos Apparat skal du ha en god og rettferdig lønn. Vi mener det er viktig at lønnen passer til deg, og at du skal ha noe konkret å strekke deg etter. Samtidig er lønnen delvis prestasjonsbasert, slik at du skal ha en egeninteresse av å jobbe for kunder og på betalte prosjekter.
+Hos Apparat skal du ha en god og rettferdig lønn. Vi mener det er viktig at lønnen passer til deg, og at du skal ha noe konkret å strekke deg etter.
 
-Våre modeller er formelbaserte hybrider, og har en stor grad av fastlønn - samt en god andel provisjon. Det er en ulik andel forventet provisjon for hver modell, og har du f.eks. 10% provisjon så vil du få 10% av alt du omsetter - måned for måned.
+Lønn består av fastlønn og provisjon, og følger en fastsatt, trinnvis økning. Fastlønn øker med 5 000 kr og provisjon øker med 1% hvert år. Man går opp minst ett trinn i året.
 
 Provisjonsleddet gjelder fra første fakturerte krone - ingen terskel. Vi synes det er mest rettferdig at du tjener penger når selskapet gjør det. På den måten deler vi på det hele tiden. I tillegg gir det deg enkel oversikt, og du kan lett regne ut lønnen din hver måned basert på hvor mange timer du har jobbet.
 
-Alle skal ha en mållønn, som er lønnen vi beregner pensjonen din etter. Mållønnen er lønnen vi sammen skal jobbe for å oppnå. Dette er en avtale mellom deg og Apparat. Finner vi ikke arbeid til deg ute hos kunder eller på kundeprosjekter inne hos oss, så vil vi finne et internprosjekt til deg som kan passe.
-
-Kundeprosjekter er alltid knyttet til en timepris, og det er denne timeprisen du vil forholde deg til. Internprosjekter er litt annerledes, og utregningen er litt avhengig av hvilket type internprosjekt det er. Et strategisk viktig internprosjekt er en type internprosjekt som Apparat selv finansierer. Slike internprosjekter kan f.eks. være et produkt Apparat ønsker å utvikle, eller en nyskapning vi vil satse på. Andre typer internprosjekter kan være noe du ønsker å utforske, eller en nyskapning du ønsker å jobbe med. For strategisk viktige internprosjekter vil timeprisen normalt ligge rundt det en kundepris ligger på, mens for andre prosjekter vil det settes en lavere timepris på rundt 75% av normal kundepris.
-
 ## Våre modeller
 
-### Produksjon
+### Konsulenter
 
-Dette er modellen for de som jobber direkte med kunder og på prosjektbasis, og gjerne ett prosjekt av gangen. Typisk vil dette være modellen for utviklere, testere og andre som jobber med produksjon eller utvikling av tjenester.
+Modellen for konsulenter, kreatører, designere osv - her får du provisjon for hver omsatte krone.
 
-> [Les mer om hvordan produksjonsmodellen fungerer her](https://github.com/apparatno/company/blob/master/lonnsmodell-produksjon.md).
+> [Les mer om hvordan lønnen for konsulenter fungerer](lonnsmodell-produksjon.md).
 
 ### Salgsrettet arbeid
 
-Salg har en litt annerledes modell, som ikke skiller seg veldig fra produksjon - men som har litt andre forutsetninger. Dette er for de som arbeider bredt mot mange kunder samtidig, og gjerne gir arbeid nedover til produksjon. Lønnen her er fast, med en lavere provisjon basert på mål for dekningsbidrag for stillingen.
+Salg har litt høyere fastlønn, og får provisjon av dekningsbidraget for sitt salgsarbeid.
 
-> [Les mer om hvordan salgsmodellen fungerer her](https://github.com/apparatno/company/blob/master/lonnsmodell-salg.md).
+> [Les mer om hvordan salgsmodellen fungerer](lonnsmodell-salg.md).
 
 ## Fellesbelønning
 
-Foruten din egen lønn, så vil du få en ekstra påskjønnelse hvis selskapet gjør det bra. Apparat ønsker å dele ut 15% av sitt overskudd til de ansatte. Dette blir delt ut flatt, og det spiller ingen rolle om du står på den nederste modellen eller den øverste - alle får likt. De som har begynt samme året vil få 1/12 bonus for hver måned de har jobbet i Apparat.
+Foruten din egen lønn, så vil du få en ekstra påskjønnelse hvis selskapet gjør det bra. Apparat deler ut 15% av sitt overskudd til de ansatte. Dette blir delt ut flatt, og det betyr ingenting hva du tjener - alle får likt. De som har begynt samme året vil få 1/12 bonus for hver måned de har jobbet i Apparat.
 
 Se personalhåndboken for mer detaljer her.
 
