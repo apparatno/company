@@ -24,7 +24,7 @@ Salg har litt høyere fastlønn, og får provisjon av dekningsbidraget for sitt 
 
 ## Fellesbelønning
 
-Foruten din egen lønn, så vil du få en ekstra påskjønnelse hvis selskapet gjør det bra. Apparat deler ut 15% av sitt overskudd til de ansatte. Dette blir delt ut flatt, og det spiller ingen rolle om du står på den nederste modellen eller den øverste - alle får likt. De som har begynt samme året vil få 1/12 bonus for hver måned de har jobbet i Apparat.
+Foruten din egen lønn, så vil du få en ekstra påskjønnelse hvis selskapet gjør det bra. Apparat deler ut 15% av sitt overskudd til de ansatte. Dette blir delt ut flatt, og det betyr ingenting hva du tjener - alle får likt. De som har begynt samme året vil få 1/12 bonus for hver måned de har jobbet i Apparat.
 
 Se personalhåndboken for mer detaljer her.
 
