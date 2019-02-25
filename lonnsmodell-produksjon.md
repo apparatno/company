@@ -23,6 +23,8 @@ Her følger et utsnitt av det overnevnte trinnvise oppbygningen:
 | ...   | ...                        | ...       | ...        |	
 | N     | 465 000 kr + N \* 5 000 kr | N %       | -          |
 
+Maksimalt kan en oppnå 17%.
+
 # Beregning av lønn
 
 Hvordan blir dette i praksis? La oss se på noen tall. Du ligger på den midterst modellens første trinn og har en fastlønn på 500.000kr, og en provisjonssats på 7%. Måneden før stod du for en omsetning på kr. 150.000. Du får provisjon fra første krone, og provisjonen er alltid etterbetalt.
