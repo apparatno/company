@@ -1,3 +1,12 @@
+<!--
+Apparat company repository (c) by Håkon Nilsen, et.al.
+
+Apparat company repository is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+-->
 # Apparat AS
 
 ## HAUGESUND, 26.03.2018
