@@ -1,4 +1,13 @@
-<img src="./img/LOGOTYPE-ORG-SORT-HVIT.png" width="400" />
+<!--
+Apparat company repository (c) by Håkon Nilsen, et.al.
+
+Apparat company repository is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+-->
+<img src="http://static.apparat.no/apparat-logo-original-black-white.png" width="400" />
 
 > https://www.apparat.no
 
@@ -52,7 +61,7 @@ Vi tror helhjertet på at teknologi kan bidra til et bedre samfunn med økt livs
 
 <hr />
 
-<img src="./img/LOGOTYPE-ORG-SIRKEL-132-132.png" width="132" />
+<img src="http://static.apparat.no/apparat-logo-circle-grey-transparent.png" width="132" />
 
 :phone: +47 97 97 97 57  
 :computer: [apparatno.slack.com](https://join.slack.com/t/apparatno/shared_invite/enQtMjgyOTY0NjA2Mzg5LWU3OWI0ZjAzNTUwMTI0ZDc4YTMwZGUxNjZiODczNzI0YmRhYzJmZWZjNzBkMTU4YzMxZDU0MDRiMjVmYWI0NjM)  
