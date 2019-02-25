@@ -1,11 +1,12 @@
-[licence]: # (<WORK> (c) by <AUTHOR(S)>)
-[licence]: # ()
-[licence]: # (<WORK> is licensed under a)
-[licence]: # (Creative Commons Attribution 4.0 International License.)
-[licence]: # ()
-[licence]: # (You should have received a copy of the license along with this)
-[licence]: # (work. If not, see <http://creativecommons.org/licenses/by/4.0/>.)
+<!--
+Apparat company repository (c) by Håkon Nilsen, et.al.
 
+Apparat company repository is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+-->
 [⬅ Tilbake til lønnsmodellen](lonnsmodell.md)
 
 # Lønnsmodell for konsulenter
