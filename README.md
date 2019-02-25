@@ -52,7 +52,7 @@ Vi tror helhjertet på at teknologi kan bidra til et bedre samfunn med økt livs
 
 <hr />
 
-<img src="http://static.apparat.no/apparat-logo-circle-132-132.png" width="132" />
+<img src="http://static.apparat.no/apparat-logo-circle-grey-transparent.png" width="132" />
 
 :phone: +47 97 97 97 57  
 :computer: [apparatno.slack.com](https://join.slack.com/t/apparatno/shared_invite/enQtMjgyOTY0NjA2Mzg5LWU3OWI0ZjAzNTUwMTI0ZDc4YTMwZGUxNjZiODczNzI0YmRhYzJmZWZjNzBkMTU4YzMxZDU0MDRiMjVmYWI0NjM)  
