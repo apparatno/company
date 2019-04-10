@@ -16,7 +16,7 @@ Det er fint med gode ordninger, og vi er også nødt til å holde en viss kontro
 Allikevel er det slik at vi har en fleksitidsordning i Apparat, og den åpner for lengre og kortere arbeidsdager etter hvordan det måtte passe for den enkelte, eller dersom arbeidets art krever det. Mer om hvordan arbeidstid, overtid, fleksitid henger sammen kan leses her:
 https://www.infotjenester.no/artikler/dette-maa-du-vite-om-fleksitid/
 
-Kort fortalt vil det være lov å flekse som du selv vil i en normalmåned, akkurat sånn som før, men om en jobber mer pga. arbeidsmengde, så skal det utløse overtid etter reglene hos Arbeidstilsynet og Infotjenester.
+Kort fortalt vil det være lov å flekse som du selv vil i en normalmåned, men om en jobber mer pga. arbeidsmengde, så skal det utløse overtid etter reglene hos Arbeidstilsynet og Infotjenester.
 
 Siden alt dette er ganske mye å forstå og ta innover seg så kan det kortes ned til følgende praktiske regler:
 
