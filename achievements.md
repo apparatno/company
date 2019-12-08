@@ -6,7 +6,7 @@ Vi skiller på Achievements som gjelder Apparat som helhet og Achievements for h
 
 Achievements for Apparat følges av alle, og alle tar del i belønningen det utløser å ha nådd målet.
 
-Achievements for hver enkelt ansatt følges opp av den ansatte og hans nærmeste leder, typisk på medarbeidersamtaler eller lignende. Apparat har definert noen standard Achievements som alle ansatte kan jobbe mot, men vi oppfordrer også hver enkelt ansatt å komme opp med egne Achievements som han kan jobbe målrettet med sammen med sin leder.
+Achievements for hver enkelt ansatt følges opp av den ansatte og nærmeste leder, typisk på medarbeidersamtaler eller lignende. Apparat har definert noen standard Achievements som alle ansatte kan jobbe mot, men vi oppfordrer også hver enkelt ansatt å komme opp med egne Achievements som man kan jobbe målrettet med sammen med sin leder.
 
 ## Belønninger
 
@@ -20,9 +20,9 @@ Dette er ekstraordinære Achievements som er av spesiell betydning og viktighet 
 
 ## Gold Achievements
 
-Dette er ekstraordinære Achievements som er av spesiell betydning for en enkelt ansatt. Disse utløser en belønning for den ansatte, men også en liten feiring av den ansatte fra alle andre. Gold Achievements er satt opp og avtalt mellom den ansatte og hans nærmeste leder, og blir annonsert til alle i selskapet (i motsetning til vanlige achievements som er mer private mellom den ansatte og hans leder).
+Dette er ekstraordinære Achievements som er av spesiell betydning for en enkelt ansatt. Disse utløser en belønning for den ansatte, men også en liten feiring av den ansatte fra alle andre. Gold Achievements er satt opp og avtalt mellom den ansatte og nærmeste leder, og blir annonsert til alle i selskapet (i motsetning til vanlige achievements som er mer private mellom den ansatte og nærmeste leder).
 
-Slike Achievements krever betydelig mer av den ansatte for å oppnå, sett i forhold til den ansattes utgangspunkt. For eksempel, om han synes det er utfordrende å presentere fremfor forsamlinger, kan en Gold Achievement være å holde et 30 minutters foredrag på en meetup eller konferanse. Grunnen til at vi vil at disse målene skal følges av alle ansatte i Apparat, er for det første at det skal følge litt press med et slikt mål (på en god måte!), og for det andre at alle skal være med å feire når målet oppnås, nettopp fordi det er et betydelig mål.
+Slike Achievements krever betydelig mer av den ansatte for å oppnå, sett i forhold til den ansattes utgangspunkt. For eksempel, om personen synes det er utfordrende å presentere fremfor forsamlinger, kan en Gold Achievement være å holde et 30 minutters foredrag på en meetup eller konferanse. Grunnen til at vi vil at disse målene skal følges av alle ansatte i Apparat, er for det første at det skal følge litt press med et slikt mål (på en god måte!), og for det andre at alle skal være med å feire når målet oppnås, nettopp fordi det er et betydelig mål.
 
 Det er ikke nødvendig å ha en Gold Achievement gående til enhver tid, men vi oppfordrer alle til å prøve på det. Man kan kun ha én om gangen.
 
@@ -34,7 +34,7 @@ Vi jobber med å kunne se Apparat sine Achievements live på nettsiden vår. For
 
 Forhåpentligvis får vi også til en Slack-bot som kan spore statusen på achievements og annonsere når det er oppnådd.
 
-Oppfordrer også alle til å følge opp Achievements sammen når vi samles til lunsjer, fredagspilser og andre sammenkomster.
+Oppfordrer også alle til å følge opp Achievements sammen når dere samles til lunsjer, fredagspilser og andre sammenkomster.
 
 ### Liste over Achievements
 
