@@ -7,6 +7,7 @@ Creative Commons Attribution 4.0 International License.
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 -->
+
 # Apparat AS
 
 ## HAUGESUND, 26.03.2018
@@ -35,6 +36,7 @@ Styrets leder alene skal ha signaturrett i selskapet.
 ### § 6 GENERALFORSAMLING
 
 Den ordinære generalforsamlingen skal behandle:
+
 1. Godkjennelse av årsregnskapet og årsberetningen, herunder utdeling av utbytte.
 2. Andre saker som etter loven eller vedtektene hører under generalforsamlingen.
 3. Generalforsamling kan holdes på egnet sted utenfor Haugesund kommune

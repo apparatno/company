@@ -7,6 +7,7 @@ Creative Commons Attribution 4.0 International License.
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 -->
+
 # Lønnsmodellen i Apparat
 
 ## Prinsipper
@@ -33,11 +34,11 @@ Alle medarbeidere vil bli vurdert av en gruppe i selskapet med ansvar for å pla
 
 I Apparat vurderes de ansatte etter fire kriterier
 
-* etterlevelse av verdiene våre - kunnskap, deling og nyskapning
-* kultur og sosialt
-* egenutvikling
-* leveransegrad
+- etterlevelse av verdiene våre - kunnskap, deling og nyskapning
+- kultur og sosialt
+- egenutvikling
+- leveransegrad
 
-Dette er Apparat sin måte å fortelle de ansatte hva vi verdsetter hos dem. Det er ikke noe kjekt å ha uklare mål, eller å være usikker på hva som forventes av en. 
+Dette er Apparat sin måte å fortelle de ansatte hva vi verdsetter hos dem. Det er ikke noe kjekt å ha uklare mål, eller å være usikker på hva som forventes av en.
 
 Vi vil aldri sette folk direkte opp mot hverandre, og vurderingen er strengt konfidensiell mellom vurderingskomitèen/ledelsen og den ansatte. Dette er et verktøy du kan bruke for å lykkes i Apparat.

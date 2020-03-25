@@ -7,6 +7,7 @@ Creative Commons Attribution 4.0 International License.
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 -->
+
 [⬅ Tilbake til lønnsmodellen](lonnsmodell.md)
 
 # Lønnsmodell for konsulenter
@@ -17,19 +18,19 @@ Mållønn er etter alle praktiske formål den totale lønnen din. Denne er utgan
 
 Her følger et utsnitt av det overnevnte trinnvise oppbygningen:
 
-| Trinn | Fastlønn                   | Provisjon | Mållønn    |	
-| ----- | -------------------------- | --------- | ---------- |	
-| ...   | ...                        | ...       | ...        |	
-| 7     | 500 000 kr                 | 7 %       | 605 000 kr |	
-| 8     | 505 000 kr                 | 8 %       | 625 000 kr |	
-| 9     | 510 000 kr                 | 9 %       | 645 000 kr |	
-| 10    | 515 000 kr                 | 10 %      | 665 000 kr |	
-| 11    | 520 000 kr                 | 11 %      | 685 000 kr |	
-| 12    | 525 000 kr                 | 12 %      | 705 000 kr |	
-| 13    | 530 000 kr                 | 13 %      | 725 000 kr |	
-| 14    | 535 000 kr                 | 14 %      | 745 000 kr |	
-| 15    | 540 000 kr                 | 15 %      | 765 000 kr |	
-| ...   | ...                        | ...       | ...        |	
+| Trinn | Fastlønn                   | Provisjon | Mållønn    |
+| ----- | -------------------------- | --------- | ---------- |
+| ...   | ...                        | ...       | ...        |
+| 7     | 500 000 kr                 | 7 %       | 605 000 kr |
+| 8     | 505 000 kr                 | 8 %       | 625 000 kr |
+| 9     | 510 000 kr                 | 9 %       | 645 000 kr |
+| 10    | 515 000 kr                 | 10 %      | 665 000 kr |
+| 11    | 520 000 kr                 | 11 %      | 685 000 kr |
+| 12    | 525 000 kr                 | 12 %      | 705 000 kr |
+| 13    | 530 000 kr                 | 13 %      | 725 000 kr |
+| 14    | 535 000 kr                 | 14 %      | 745 000 kr |
+| 15    | 540 000 kr                 | 15 %      | 765 000 kr |
+| ...   | ...                        | ...       | ...        |
 | N     | 465 000 kr + N \* 5 000 kr | N %       | -          |
 
 Maksimalt kan en oppnå 17%.

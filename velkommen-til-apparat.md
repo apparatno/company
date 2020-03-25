@@ -7,6 +7,7 @@ Creative Commons Attribution 4.0 International License.
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 -->
+
 # Velkommen til Apparat AS
 
 Du er nå del av et selskap som er står for åpenhet, kunnskap, deling og
@@ -36,39 +37,43 @@ Mentor (YYYY sett inn info)
 Administrasjon (ZZZZ sett inn info)
 
 ## Daglig tjener sine plikter
-|Frist|Ting som må gjøres|
-|---|---|
-|Snarest|Informere alle i Apparat om deg|
-|Snarest|Sende deg velkomstpakke på mail som inneholder følgende:<br><ul><li>Dette dokumentet</li><li>CV-maler</li><li>Sende over “Ansatteverdiene”</li><li>Vår “Bli kjent”-guide (Valve handbook)</li>|
-|Snarest|Ta kontakt med deg for påmelding til kommende<br>Apparat-arrangementer og -turer|
-|Oppstart|Trykke opp ditt visittkort|
-|Oppstart|Etablere din profil på våre hjemmesider - gjerne før oppstart|
-|Oppstart|Sende omtale av ansettelsen til media|
-|Oppstart|Overlevere adgangsbrikke til kontorene våre|
-|Oppstart|Skaffe mobiltelefon og PC til deg|
+
+| Frist    | Ting som må gjøres                                                                                                                                                                             |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Snarest  | Informere alle i Apparat om deg                                                                                                                                                                |
+| Snarest  | Sende deg velkomstpakke på mail som inneholder følgende:<br><ul><li>Dette dokumentet</li><li>CV-maler</li><li>Sende over “Ansatteverdiene”</li><li>Vår “Bli kjent”-guide (Valve handbook)</li> |
+| Snarest  | Ta kontakt med deg for påmelding til kommende<br>Apparat-arrangementer og -turer                                                                                                               |
+| Oppstart | Trykke opp ditt visittkort                                                                                                                                                                     |
+| Oppstart | Etablere din profil på våre hjemmesider - gjerne før oppstart                                                                                                                                  |
+| Oppstart | Sende omtale av ansettelsen til media                                                                                                                                                          |
+| Oppstart | Overlevere adgangsbrikke til kontorene våre                                                                                                                                                    |
+| Oppstart | Skaffe mobiltelefon og PC til deg                                                                                                                                                              |
 
 ## Administrativt sine oppgaver
-|Frist|Ting som må gjøres|
-|---|---|
-|Snarest|Melde deg inn Norges beste pensjonsordning og forsikringsordning. Dette skal være operativt til den dagen du begynner|
-|Før oppstart|Etablere deg i lønnssystemet - innhente skattekort|
-|Ved oppstart|Sende mail/ringe til Frende for å legge deg inn i yrkesskadeforsikring med fritidsforsikring og reiseforsikring|
-|Ved oppstart|Legge deg inn i pensjonsordningen i bedriftsbanken|
+
+| Frist        | Ting som må gjøres                                                                                                    |
+| ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Snarest      | Melde deg inn Norges beste pensjonsordning og forsikringsordning. Dette skal være operativt til den dagen du begynner |
+| Før oppstart | Etablere deg i lønnssystemet - innhente skattekort                                                                    |
+| Ved oppstart | Sende mail/ringe til Frende for å legge deg inn i yrkesskadeforsikring med fritidsforsikring og reiseforsikring       |
+| Ved oppstart | Legge deg inn i pensjonsordningen i bedriftsbanken                                                                    |
 
 ## Mentor sine oppgaver
-|Frist|Ting som må gjøres|
-|---|---|
-|Fra nå til oppstart|Være tilgjengelig for deg og holde kontakten med deg frem til din første arbeidsdag|
-|Snarest|Sørge for at det etableres kontakt med kunder som kan passe for deg|
-|Ca 2 mnd før oppstart|Planlegge og kalle deg inn til møte for å prate om aktuelle caser og kunder|
-|Ca 1 mnd før oppstart|Planlegge og kalle deg inn til møte om muligheter|
-|Ved oppstart|Sette deg inn i rutinene i Apparat: timeføring, reiseregninger, utlegg, egenmeldingsskjema ved sykdom, HMS-rutiner, ansvarsforhold og avvikshåndtering|
-|Ved oppstart|Sette opp fagplan for deg|
+
+| Frist                 | Ting som må gjøres                                                                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Fra nå til oppstart   | Være tilgjengelig for deg og holde kontakten med deg frem til din første arbeidsdag                                                                    |
+| Snarest               | Sørge for at det etableres kontakt med kunder som kan passe for deg                                                                                    |
+| Ca 2 mnd før oppstart | Planlegge og kalle deg inn til møte for å prate om aktuelle caser og kunder                                                                            |
+| Ca 1 mnd før oppstart | Planlegge og kalle deg inn til møte om muligheter                                                                                                      |
+| Ved oppstart          | Sette deg inn i rutinene i Apparat: timeføring, reiseregninger, utlegg, egenmeldingsskjema ved sykdom, HMS-rutiner, ansvarsforhold og avvikshåndtering |
+| Ved oppstart          | Sette opp fagplan for deg                                                                                                                              |
 
 ## Dine oppgaver
-|Frist|Ting som må gjøres|
-|---|---|
-|Snarest|[Joine Slack med din Apparat.no-epostadresse](https://apparatno.slack.com/join/signup)|
-|1 mnd før oppstart|Ta kontakt med oss for bestilling av mobil og PC|
-|1 mnd før oppstart|Gi beskjed til daglig tjener hvilken 4-sifret adgangskode du ønsker på brikken din|
-|14 dager før oppstart|Gi beskjed til administrativt hvilken konto du ønsker å få utbetalt lønnen til|
+
+| Frist                 | Ting som må gjøres                                                                     |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| Snarest               | [Joine Slack med din Apparat.no-epostadresse](https://apparatno.slack.com/join/signup) |
+| 1 mnd før oppstart    | Ta kontakt med oss for bestilling av mobil og PC                                       |
+| 1 mnd før oppstart    | Gi beskjed til daglig tjener hvilken 4-sifret adgangskode du ønsker på brikken din     |
+| 14 dager før oppstart | Gi beskjed til administrativt hvilken konto du ønsker å få utbetalt lønnen til         |
