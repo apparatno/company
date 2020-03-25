@@ -31,38 +31,37 @@ Vi tror helhjertet på at teknologi kan bidra til et bedre samfunn med økt livs
 
 ## Ansatteløftene
 
-* Vi skal ha det morsomt
-* Vi behandler alle med respekt - hverandre, kunder og konkurrenter
-* Vi opptrer hjelpende og støttende
-* Alles meninger er viktige og blir hørt
-* Vi bryr oss
-* Vi jobber etter mål som alle tar del i
+- Vi skal ha det morsomt
+- Vi behandler alle med respekt - hverandre, kunder og konkurrenter
+- Vi opptrer hjelpende og støttende
+- Alles meninger er viktige og blir hørt
+- Vi bryr oss
+- Vi jobber etter mål som alle tar del i
 
 ## Ansatteverdier
 
-* **Kunnskap i sentrum** - betydelige avsetninger til fagutvikling
-* **Gadgetkonto** - vi setter av penger til hver ansatt hvert år for utstyr
-* **Spill og aktiviteter** - våre lokaler skal være en kreativ boltreplass
-* **Vi skal lede på kultur** - alt vi gjør skal bygge mot en positiv og inkluderende kultur
-* **Sosiale støtteordninger** - belønninger til ansatte som bidrar positivt
-* **Helse** - vi sponser treningstilbud og idrett
-* **Hobbyer** - vi ønsker å tilby våre lokaler til lokale arrangementer, fra vinklubb til hackathons
-* **Familie** - vi inkluderer de ansattes familier på turer og sosiale arrangement
+- **Kunnskap i sentrum** - betydelige avsetninger til fagutvikling
+- **Gadgetkonto** - vi setter av penger til hver ansatt hvert år for utstyr
+- **Spill og aktiviteter** - våre lokaler skal være en kreativ boltreplass
+- **Vi skal lede på kultur** - alt vi gjør skal bygge mot en positiv og inkluderende kultur
+- **Sosiale støtteordninger** - belønninger til ansatte som bidrar positivt
+- **Helse** - vi sponser treningstilbud og idrett
+- **Hobbyer** - vi ønsker å tilby våre lokaler til lokale arrangementer, fra vinklubb til hackathons
+- **Familie** - vi inkluderer de ansattes familier på turer og sosiale arrangement
 
 ## Kundeløftene
 
-* Vi leverer den høye kvaliteten vi lover
-* Vi leverer på tiden og til avtalt pris
-* Vi opptrer profesjonelt og med integritet
-* Vi inkluderer deg i vår familie
-* Vi er alltid faglig oppdatert
-* Vi tør å utfordre deg
-* Vi bryr oss om deg og dine kunder
+- Vi leverer den høye kvaliteten vi lover
+- Vi leverer på tiden og til avtalt pris
+- Vi opptrer profesjonelt og med integritet
+- Vi inkluderer deg i vår familie
+- Vi er alltid faglig oppdatert
+- Vi tør å utfordre deg
+- Vi bryr oss om deg og dine kunder
 
 <hr />
 
 <img src="http://static.apparat.no/apparat-logo-circle-grey-transparent.png" width="132" />
 
-:phone: +47 97 97 97 57  
-:computer: [apparatno.slack.com](https://join.slack.com/t/apparatno/shared_invite/enQtMjgyOTY0NjA2Mzg5LWU3OWI0ZjAzNTUwMTI0ZDc4YTMwZGUxNjZiODczNzI0YmRhYzJmZWZjNzBkMTU4YzMxZDU0MDRiMjVmYWI0NjM)  
+:phone: +47 97 97 97 57
 :fax: kontakt@apparat.no
