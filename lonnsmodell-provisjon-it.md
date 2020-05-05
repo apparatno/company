@@ -19,12 +19,16 @@ Det er to varianter av denne modellen:
 
 <b>Alternativ 1:</b>
 
-400.000 kr i årlig garantilønn, og 50% provisjon<br/>
+* Årlig garantilønn: 400.000 kr
+* Provisjonssats: 50%
+
 Vi kaller denne 50/400
 
 <b>Alternativ 2:</b>
 
-600.000 kr i årlig garantilønn, og 40% provisjon<br/>
+* Årlig garantilønn: 600.000 kr
+* Provisjonssats: 40%
+
 Vi kaller denne 40/600
 
 Alternativ 2 gir i tillegg noen ekstra rettigheter:
