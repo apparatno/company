@@ -20,11 +20,17 @@ Provisjonsleddet gjelder fra første fakturerte krone - ingen terskel. Vi synes 
 
 ## Våre modeller
 
-### Konsulenter
+### Konsulenter (utdatert)
 
 Modellen for konsulenter, kreatører, designere osv - her får du provisjon for hver omsatte krone.
 
 > [Les mer om hvordan lønnen for konsulenter fungerer](lonnsmodell-produksjon.md).
+
+### Konsluenter innen IT
+
+Modellen for IT-ansatte som er ute i konsulentoppdrag
+
+> [Les mer om hvordan lønnen for IT-konsulenter fungerer](lonnsmodell-provisjon-it.md).
 
 ### Salgsrettet arbeid
 
