@@ -31,7 +31,7 @@ Alternativ 2 gir i tillegg noen ekstra rettigheter:
  - 90% av lønn<sup>*</sup> ved bruk av egenmelding
  - 90% av lønn<sup>*</sup> ved foreldrepermisjon
  
-<sup>*dette skal regnes ut som din snittlønn på siste normale lønning.</sup>
+<sup>*dette skal regnes ut fra din daglige snittlønn på siste normale lønning.</sup>
 
 ## Hva er provisjon
 
