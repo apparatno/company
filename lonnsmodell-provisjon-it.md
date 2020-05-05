@@ -10,7 +10,7 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 
 [⬅ Tilbake til lønnsmodellen](lonnsmodell.md)
 
-# Lønnsmodell for konsulenter (provisjon)
+# Lønnsmodell for IT-konsulenter (provisjon)
 
 Lønn består av en garantilønn og provisjon. Garantilønnen er du sikret hver måned, mens provisjonen er et resultat av 
 din eksterne omsetning. Denne omsetningen skal du vite om og den skal være tydelig.
