@@ -17,19 +17,20 @@ din eksterne omsetning. Denne omsetningen skal du vite om og den skal være tyde
 
 Det er to varianter av denne modellen:
 
-Alternativ 1:
-400.000 kr i årlig garantilønn, og 50% provisjon
+<b>Alternativ 1:</b>
+
+400.000 kr i årlig garantilønn, og 50% provisjon<br/>
 Vi kaller denne 50/400
 
 Alternativ 2:
-600.000 kr i årlig garantilønn, og 40% provisjon
+600.000 kr i årlig garantilønn, og 40% provisjon<br/>
 Vi kaller denne 40/600
 
 Alternativ 2 gir i tillegg noen ekstra rettigheter:
  - 90% av lønn<sup>*</sup> ved bruk av egenmelding
  - 90% av lønn<sup>*</sup> ved foreldrepermisjon
  
-<sup><sup>*dette skal regnes ut som din snittlønn på siste normale lønning.</sup></sup>
+<sup>*dette skal regnes ut som din snittlønn på siste normale lønning.</sup>
 
 ## Definisjon av garantilønn
 
@@ -38,6 +39,7 @@ Garantilønn er det minste du skal ha hver måned, og er 1/12-del av den årlige
 etterskuddsvis for å passe med provisjonsmodellen. 
 
 ### Hvordan håndterer vi feriedager - eksempler
+
 Eksempel: du tar ut ferie fire uker i juli, og får provisjon i juli for arbeidet ditt i juni. Har du ikke provisjon i
 juni så får du garantilønn i juli. I august får du fratrekk for garantilønn i henhold til hvor mye ferie du tok ut i
 juli. Du får provisjon og garantilønn i august basert på de dagene du var i jobb i juli.
@@ -53,11 +55,13 @@ Protip: Juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare
 ## Hvordan regne ut lønn
 
 * Ved omsetning på f.eks. 150.000 kr
-  * 50/400: Høyeste av 75.000 kr og 33.333 kr
-  * 40/600: Høyeste av 60.000 kr og 50.000 kr
+  * 50/400: Høyeste av <u>75.000 kr</u> og 33.333 kr
+  * 40/600: Høyeste av <u>60.000 kr</u> og 50.000 kr
+  
 * Ved omsetning på f.eks. 80.000 kr
-  * 50/400: Høyeste av 40.000 kr og 33.333 kr
-  * 40/600: Høyeste av 32.000 kr og 50.000 kr  
+  * 50/400: Høyeste av <u>40.000</u> kr og 33.333 kr
+  * 40/600: Høyeste av 32.000 kr og <u>50.000 kr</u>
+    
 * Ved ingen omsetning i det hele tatt
   * 50/400: Betaler ut garantilønn 33.333 kr
   * 40/600: Betaler ut garantilønn 50.000 kr
