@@ -35,7 +35,8 @@ Alternativ 2 gir i tillegg noen ekstra rettigheter:
  - 90% av lønn<sup>*</sup> ved bruk av egenmelding
  - 90% av lønn<sup>*</sup> ved foreldrepermisjon
  
-<sup>*dette skal regnes ut fra din daglige snittlønn på siste normale lønning.</sup>
+> *dette skal regnes ut fra din daglige snittlønn på siste normale lønning, f.eks. ved å regne ut hva lønnen din
+> var måneden før, delt på antall arbeidsdager. På den måten bør det representere en faktisk daglig snittlønn.
 
 ## Hva er provisjon
 
@@ -65,12 +66,12 @@ Protip: Juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare
 ## Hvordan regne ut lønn
 
 * Ved omsetning på f.eks. 150.000 kr
-  * 50/400: Høyeste av <u>75.000 kr</u> og 33.333 kr
-  * 40/600: Høyeste av <u>60.000 kr</u> og 50.000 kr
+  * 50/400: Høyeste av <u>75.000 kr</u> og garantilønn 33.333 kr
+  * 40/600: Høyeste av <u>60.000 kr</u> og garantilønn 50.000 kr
   
 * Ved omsetning på f.eks. 80.000 kr
-  * 50/400: Høyeste av <u>40.000</u> kr og 33.333 kr
-  * 40/600: Høyeste av 32.000 kr og <u>50.000 kr</u>
+  * 50/400: Høyeste av <u>40.000</u> kr og garantilønn 33.333 kr
+  * 40/600: Høyeste av 32.000 kr og <u>garantilønn 50.000 kr</u>
     
 * Ved ingen omsetning i det hele tatt
   * 50/400: Betaler ut garantilønn 33.333 kr
