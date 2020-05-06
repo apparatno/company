@@ -43,7 +43,7 @@ Alternativ 2 gir i tillegg noen ekstra rettigheter:
 Vår fakturering ut mot våre kunder er inntektsgrunnlaget til både bedriften, og den ansatte. Det faktiske beløpet
 vi fakturerer våre kunder er det din provisjon skal regnes ut fra.
 
-## Hva er av garantilønn
+## Hva er garantilønn
 
 Garantilønn er det minste du skal ha hver måned, og er 1/12-del av den årlige garantilønnen din. 
 600.000 kr i garantilønn er altså 50.000 kr i måneden. Garantilønnen forkortes for feriedagene, men justert 
