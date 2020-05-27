@@ -34,16 +34,18 @@ Vi kaller denne 40/600
 Alternativ 2 gir i tillegg noen ekstra rettigheter:
  - 90% av lønn<sup>*</sup> ved bruk av egenmelding
  - 90% av lønn<sup>*</sup> ved foreldrepermisjon
+
+Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din.
  
 > *dette skal regnes ut fra din daglige snittlønn på siste normale lønning, f.eks. ved å regne ut hva lønnen din
 > var måneden før, delt på antall arbeidsdager. På den måten bør det representere en faktisk daglig snittlønn.
 
-## Hva er provisjon
+## Hva er provisjon?
 
 Vår fakturering ut mot våre kunder er inntektsgrunnlaget til både bedriften, og den ansatte. Det faktiske beløpet
 vi fakturerer våre kunder er det din provisjon skal regnes ut fra.
 
-## Hva er garantilønn
+## Hva er garantilønn?
 
 Garantilønn er det minste du skal ha hver måned, og er 1/12-del av den årlige garantilønnen din. 
 600.000 kr i garantilønn er altså 50.000 kr i måneden. Garantilønnen forkortes for feriedagene, men justert 
@@ -80,5 +82,9 @@ Protip: Juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare
 ## Hva med feriepenger, arbeidsgiveravgift og pensjon?
 
 Disse er arbeidsgivers ansvar, og dekkes av arbeidsgiver.
+
+## Kan jeg bytte modell?
+
+Du kan bytte modell en gang per 12 kalendermåneder.
 
 [⬅ Tilbake til lønnsmodellen](lonnsmodell.md)
