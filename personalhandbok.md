@@ -247,7 +247,8 @@ Det forventes at alle ansatte ivaretar sin faglige utvikling, og i Apparat ønsk
 ### Apparatdager
 
 Med mål om ca en gang i måneden gjennomfører vi en Apparatdag. Denne har som tema å gjøre oss bedre ved å lære noe, lage noe eller skape noe, for oss selv eller for andre. 
-Apparatdagene er et sosialt opplegg hvor vi 
+
+Apparatdagene er et sosialt opplegg hvor vi:
 * møtes på kontoret kl. 13
 * arbeider med noe konkret frem til kl. 17
 * vi spiser middag sammen
