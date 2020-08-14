@@ -262,11 +262,13 @@ Beløpet vil tilbakebetales, og også inntektsføres som vanlig inntekt som du m
 Alt fravær skal meldes i [Gustav](https://gustav.apparat.no), og skal i tillegg alltid informeres til nærmeste leder.
 
 ### Egenmelding
+
 I Apparat har vi 12 egenmeldingsdager (fra dato til dato) som kan benyttes enkeltvis eller sammenhengende. 
 Det er viktig at du passer på at kroppen får bli skikkelig frisk hvis du har blitt syk. 
 Har du brukt opp egenmeldingsdagene dine må du få sykemelding fra lege på vanlig vis etterpå.
 
 ### Egenmelding ved barn
+
 Egenmelding ved barn sykdom følger følgende oppsett
 * 10 dager for 1-2 barn
 * 15 dager for 3 eller flere barn
