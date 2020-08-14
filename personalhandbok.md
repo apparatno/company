@@ -92,7 +92,7 @@ Reiseforsikringen dekker:
 
 Les mer her: https://www.frende.no/forsikringer/reiseforsikring/
 
-### Helseforsikring
+#### Helseforsikring
 
 Vi har helseforsikring fra Frende. Vi har "Pluss"-forsikring. Denne forsikringen gir oss raskere tilgang til spesialister innenfor det private helsevesenet, og vil bidra til at de ansatte får raskere hjelp.
 
