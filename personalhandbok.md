@@ -92,6 +92,16 @@ Reiseforsikringen dekker:
 
 Les mer her: https://www.frende.no/forsikringer/reiseforsikring/
 
+### Helseforsikring
+
+Vi har helseforsikring fra Frende. Vi har "Pluss"-forsikring. Denne forsikringen gir oss raskere tilgang til spesialister innenfor det private helsevesenet, og vil bidra til at de ansatte får raskere hjelp.
+
+Vi har også tilgang til online lege gjennom mobilappen EYR, samt 24 årlige fysikalske behandlinger.
+
+Les mer her: [Frende Helseforsikring pluss](https://www.frende.no/bedrift/forsikringer/helseforsikring/)
+
+Det vi ikke har dekning for er "Topp"-varianten, men vi vil ved behov bistå den ansatte økonomisk med hjelp for den typen behandling "Topp" dekker. Ta kontakt med daglig leder, dette vil i så fall behandles strengt konfidensielt.
+
 #### Uføredekning og innskuddssikring
 
 Dersom du blir ufør er du dekket oppad til 2 millioner kroner. I tillegg gis du månedlige utbetalinger mens du er under vurdering for uførhet. Dette er normalt en periode hvor forsikringene ikke dekker deg. Vi har det produktet som heter Uføre pluss, som gir en del ekstragoder.
