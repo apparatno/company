@@ -236,13 +236,27 @@ I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om
 
 I Apparat dekker vi mobil og bredbånd. Vi oppfordrer til å være nøktern, og oppleves det som at en ber om refusjon for urimelig dyre tjenester så kan vi holde tilbake deler av summen.
 
+### Teknisk utstyr
+
+Teknisk utstyr - verktøyet vårt - skal inkludere følgende:
+
+* PC eller Mac forenlig med ditt behov
+* Mobiltelefon dekkes oppad til 10.000 kr annenhvert år
+  * Mer enn 10.000 kr trekkes fra på lønnen samme måned som kjøpet utføres
+* Tastatur, mus, headsett og annet perifært dekkes også
+
+Utover det rent personlige utstyret etterstreber Apparat å ha en teknisk infrastruktur som ivaretar god arbeidsflyt. Ønsker og behov meldes på samme måte som personlig utstyr.
+
+Foretrukket innkjøpsmetode er å melde behov til daglig tjener. Utlegg aksepteres også, men etter avtale.
+Utstyrsnivået skal være riktig, men nøkternt.
+
 ### Reiseregninger / refusjon egne utlegg
 
 Reiseregninger og refusjoner tas på den administrative Slack-kanalen, eller med daglig tjener.
 
 ### Lunsj-/kantineutgifter
 
-Vi har for øyeblikket ingen lønsjordning, men den er på vei. Vi ønsker at alle skal betale inn kr. 500, og deretter få dekket lønsjen sin uansett om de er ute hos kunde eller på kontoret vårt.
+Lunsjordningen i Apparat sine lokaler er slik at den maten Apparat har bekostet gir et månedlig lunsjtrekk på 450 kr. Ansatte som sitter ute hos kunder får et månedlig lønnspåslag på kr. 500.
 
 ### Refusjon av "diverse utlegg"/sosiale begivenheter
 
@@ -254,7 +268,7 @@ Er det tvil om hva som er innenfor eller ikke så kan en spørre :-)
 
 ### Betingelser for utgiftsrefusjon
 
-Utstyr du har behov for må du enten kjøpe selv og levere inn kvittering for. Er det noe du er i tvil om du får dekket, så tar du kontakt med daglig tjener eller spør på Slack. Alle har informasjonsplikt om hva de har kjøpt, og vi er åpne om hvilket utstyr/gadgets vi har kjøpt inn.
+Dersom du selv bekoster utstyr må du levere inn kvittering i utleggsmappen. Er det noe du er i tvil om du får dekket, så tar du kontakt med daglig tjener eller spør på Slack. Alle har informasjonsplikt om hva de har kjøpt, og vi er åpne om hvilket utstyr/gadgets vi har kjøpt inn.
 
 Andre typer utgifter du måtte ha kan du levere inn kvitteringer for dersom det er relatert til arbeidet ditt eller et sosialt arrangement i Apparat-regi.
 
