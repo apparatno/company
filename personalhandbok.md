@@ -50,8 +50,7 @@ Vår pensjon er fra første krone, og er som følger:
 - 7% fra 0 G til 7,1 G
 - 16% fra 7,1 G til 12 G
 
-En G endrer seg årlig, og du kan se hva det er her:
-https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden
+En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden).
 
 ### Forsikringer
 
@@ -59,7 +58,7 @@ Vi har mange forsikringer.
 Faktisk har vi alle forsikringene vi kunne få tak i. 
 Det oppfordres til at hver enkelt setter seg inn i forsikringene - kontrakter og detaljer kan gis ved forespørsel.
 
-Øvrig informasjon eller betingelser kan du finne her: https://www.frende.no
+Øvrig informasjon eller betingelser kan [du finne her](https://www.frende.no).
 
 #### Yrkesskadeforsikring
 
@@ -79,7 +78,7 @@ Forsikringssummer:
 - Erstatning ektefelle/samboer = 15 G
 - - BarneErstatning
 
-Les mer her: https://www.frende.no/bedrift/yrkesskadeforsikring-og-fritidsulykke/
+[Les mer her](https://www.frende.no/bedrift/yrkesskadeforsikring-og-fritidsulykke/)
 
 #### Reiseforsikring med familiedekning
 
@@ -95,7 +94,7 @@ Reiseforsikringen dekker:
 - Reisegods
 - Ansvar og rettshjelp
 
-Les mer her: https://www.frende.no/forsikringer/reiseforsikring/
+[Les mer her](https://www.frende.no/forsikringer/reiseforsikring/)
 
 #### Helseforsikring
 
@@ -112,8 +111,8 @@ Ta kontakt med daglig leder, dette vil i så fall behandles strengt konfidensiel
 
 #### Bedriftshelsetjeneste
 
-I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. Hver enkelt kan bestille en helsekontroll her:
-https://www.volvat.no/tjenester/helsekontroll-bedrift/
+I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
+[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
 
 Den er årlig, og dekkes av selskapet. [Se her for å se hvordan lønnen påvirkes av et slikt besøk](#lønn-ved-besøk-til-lege-og-kiropraktor).
 
@@ -128,13 +127,13 @@ Som en del av pakken har vi også innskuddssikring, som betyr at dersom du blir 
 innbetalingene til din pensjonsordning for deg frem til du fyller 67 år. 
 Dette er en del av uføreforsikringen, og kan leses mer om der.
 
-Les mer her: https://www.frende.no/forsikringer/uforeforsikring/
+[Les mer her](https://www.frende.no/forsikringer/uforeforsikring/)
 
 #### Gruppelivforsikring
 
 Du har en livsforsikring på 2 millioner kroner som tilfaller dine nærmeste som et engangsbeløp dersom du skulle falle fra mens du jobber i Apparat.
 
-Les mer her: https://www.frende.no/forsikringer/dodsfallsforsikring/
+[Les mer her](https://www.frende.no/forsikringer/dodsfallsforsikring/)
 
 #### Ansvarsforsikring og innbo
 
@@ -144,8 +143,7 @@ Selskapet er dekket av ansvarsforsikring oppad til 50 millioner kroner, samt at 
 
 Det er anledning for å få dekket kostnad for databriller. 
 Vilkårene er at øyelege eller optiker bekrefter ditt behov for en slik brille. 
-Informasjon og vilkår finnes på Arbeidstilsynets hjemmesider:
-https://www.arbeidstilsynet.no/tema/ergonomi/arbeid-ved-dataskjerm/synsundersoking-og-databriller/
+[Informasjon og vilkår finnes på Arbeidstilsynets hjemmesider](https://www.arbeidstilsynet.no/tema/ergonomi/arbeid-ved-dataskjerm/synsundersoking-og-databriller/).
 
 ## Lønn, timeføring, betingelser og sykdom
 
@@ -313,7 +311,8 @@ og i Apparat ønsker vi å tilrettelegge for dette gjennom mange ulike aktivitet
 
 Med mål om ca en gang i måneden gjennomfører vi en Apparatdag. 
 Denne har som tema å gjøre oss bedre ved å lære noe, lage noe eller skape noe, for oss selv eller for andre. 
-Apparatdagene er et sosialt opplegg hvor vi 
+
+Apparatdagene er et sosialt opplegg hvor vi:
 * møtes på kontoret kl. 13
 * arbeider med noe konkret frem til kl. 17
 * vi spiser middag sammen
@@ -372,7 +371,7 @@ Du fører halv dag for reisen ned til Roma, og to fulle dager for resten av ture
 ### Bilgodtgjørelse/bilutgifter
 
 I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om forhåndsgodkjennelse. 
-Det gis dekning for kilometer og bompenger etter Skatteetatens satser: https://www.skatteetaten.no/satser/bilgodtgjorelse-kilometergodtgjorelse/
+Det gis dekning for kilometer og bompenger etter [Skatteetatens satser](https://www.skatteetaten.no/satser/bilgodtgjorelse-kilometergodtgjorelse/).
 
 ### Bredbånd hjemmekontor
 
