@@ -291,7 +291,7 @@ I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om
 ### Bredbånd hjemmekontor
 
 I Apparat dekker vi mobil og bredbånd. Vi oppfordrer til å være nøktern, og oppleves det som at en ber om refusjon for urimelig dyre tjenester så kan vi holde tilbake deler av summen.
-Mobilabonnement dekkes av Apparat, og bredbånd holder en selv - begrenset til kr. 500 per måned.
+Alle skal ha bedriftsabonnement på mobil, og mobil betales av Apparat direkte. Apparat dekker bredbånd opp til 500 kr per måned. Man holder selv abonnement og får refundert i etterkant.
 
 ### Teknisk utstyr
 
