@@ -20,26 +20,15 @@ Denne personalhåndboken er Apparat sin måte å beskrive ordningene vi har. Her
 
 Apparat AS er et IT-selskap med fokus på åpenhet, kunnskap, deling og nyskapning. Åpenhet er grunnen til at du leser dette dokumentet åpent på internett, og ikke på et lukket område. Det er ingen hemmeligheter her - vi er stolte av det vi har å tilby!
 
-### Personalpolitikk
-
 ### Utførelse av personalansvaret
 
 Alle henvendelser vedrørende ditt arbeidsforhold skal primært tas med daglig tjener (eller person som snakker for tjener). Dersom det haster eller av andre grunner ikke passer å prate med daglig tjener, kan du prate med en av partnerne i selskapet.
-
-## Arbeidsforholdet
 
 ### Skriftlig ansettelsesavtale
 
 Alle ansatte i selskapet har krav på en ansettelsesavtale. Denne avtalen skal beskrive ditt arbeidsforhold, prøvetid, betingelser som lønn, forsikring, ansvar, arbeidstid og så videre.
 
-### Bedriftshelsetjeneste
-
-I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. Hver enkelt kan bestille en helsekontroll her:
-https://www.volvat.no/tjenester/helsekontroll-bedrift/
-
-Den er årlig, og dekkes av selskapet. Du får 1,5 arbeidstimer dekket for å delta på denne.
-
-- Kommer: Behandlingsavtale i det private helsevesenet.
+## Pensjon, forsikring og andre sosiale ordninger
 
 ### Obligatorisk Tjenestepensjon (OTP)
 
@@ -102,6 +91,13 @@ Les mer her: [Frende Helseforsikring pluss](https://www.frende.no/bedrift/forsik
 
 Det vi ikke har dekning for er "Topp"-varianten, men vi vil ved behov bistå den ansatte økonomisk med hjelp for den typen behandling "Topp" dekker. Ta kontakt med daglig leder, dette vil i så fall behandles strengt konfidensielt.
 
+#### Bedriftshelsetjeneste
+
+I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. Hver enkelt kan bestille en helsekontroll her:
+https://www.volvat.no/tjenester/helsekontroll-bedrift/
+
+Den er årlig, og dekkes av selskapet. Du får 1,5 arbeidstimer dekket for å delta på denne.
+
 #### Uføredekning og innskuddssikring
 
 Dersom du blir ufør er du dekket oppad til 2 millioner kroner. I tillegg gis du månedlige utbetalinger mens du er under vurdering for uførhet. Dette er normalt en periode hvor forsikringene ikke dekker deg. Vi har det produktet som heter Uføre pluss, som gir en del ekstragoder.
@@ -135,6 +131,10 @@ Det er normalt 7,5 arbeidstimer i en arbeidsdag, og lønsj er ikke betalt. Derso
 
 Det er fleksibel arbeidstid i Apparat, såkalt fleksitid. Vår kjernetid er mellom kl 09.30 og kl 14.30, men det må sees på mer som en rettesnor enn en regel. Vi er opptatt av at alle ansatte skal være fleksible med arbeidsforholdene rundt seg. Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi at en tilpasser seg dette.
 
+### Lønn ved legebesøk
+
+Vi fører legebesøk som arbeidstid, men uten provisjon for de som har det. Det vil ikke bli trukket i fast- eller garantilønn for slikt.
+
 ### Overtid
 
 Det er generelt forbud mot overtid i Apparat. Fleksitidsordningen gjør at du kan justere timene dine etter eget behov, eller tilpasse timene slik at det passer inn med en kunde. Det forventes stor fleksibilitet, og det gis stor fleksibilitet.
@@ -165,6 +165,7 @@ Ditt skattekort blir hentet elektronisk. Dersom vi ikke får tak i ditt skatteko
 Utbetalingsdato er 15. hver måned. Din faste månedslønn er årslønnen din delt på 12. Har du i tillegg provisjonsbasert inntekt vil du få din oppgitte % av omsetningen din sist måned utbetalt.
 
 Feriepenger utbetales 15. juni basert på ditt feriepengegrunnlag. Dette kan du se på fjorårets lønns- og trekksoppgave. I juni vil du bli trukket for 5 uker ferie.
+Feriepengene består av 12 % av bruttolønnen din for forrige år. Se ferieloven for mer informasjon.
 
 ### Fastlønn, provisjon og bonus
 
@@ -191,7 +192,7 @@ De som er på oppsigelse har ingen rett til bonus.
 
 ### Timeføring
 
-Vi fører timer i vårt timeark i vårt Drive. Vi har månedslig timerapportering i selskapet. Det er frist på innlevering siste dag i måneden, og denne må vi opprettholde.
+Vi fører timer i vårt timeark i Apparat Drive. Vi har månedlig timerapportering i selskapet. Det er frist på innlevering siste dag i måneden, og denne må vi opprettholde.
 
 ### Overtidsmat
 
@@ -231,9 +232,7 @@ Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker v
 
 Lønn under sykemelding skal være en snittlønn (se Altinn for prinsipper rundt dette), men begrenset oppad til 6G. De lønnsmodellene som dekker over 6G har det spesielt oppgitt.
 
-## Ferie
-
-### Ferie og ferietid
+## Ferie og ferietid
 
 Du har rett på fem uker ferie i selskapet. Ferien skal fortrinnsvis følge norsk fellesferie, og spesielt følge oppdragsgivers ønsker. Utover det tar du ferie når du måtte ønske.
 
@@ -243,9 +242,32 @@ Dersom du jobber de dagene du har Apparat-fri gis du 25% ekstra på fastlønnen 
 
 Vi jobber heller ikke julaften eller nyttårsaften.
 
-### Feriepenger
+## Faglig utvikling
 
-Vi utbetaler feriepenger 15. juni. Feriepengene består av 12 % av bruttolønnen din for forrige år. Se ferieloven for mer informasjon.
+Det forventes at alle ansatte ivaretar sin faglige utvikling, og i Apparat ønsker vi å tilrettelegge for dette gjennom mange ulike aktiviteter og støtteordninger.
+
+### Apparatdager
+
+Med mål om ca en gang i måneden gjennomfører vi en Apparatdag. Denne har som tema å gjøre oss bedre ved å lære noe, lage noe eller skape noe, for oss selv eller for andre. 
+Apparatdagene er et sosialt opplegg hvor vi 
+* møtes på kontoret kl. 13
+* arbeider med noe konkret frem til kl. 17
+* vi spiser middag sammen
+* etter middag oppfordres folk til å bli værende, men dette er ikke obligatorisk.
+
+Apparatdagene er ansattestyrte, og det etterstrebes et variert og spennende innhold på disse dagene. Det gis kompensasjon for den obligatoriske delen.
+
+### Konferanse
+
+Konferanse er en meget god måte å få god læring komprimert på få dager. Aller helst anbefaler vi våre ansatte å reise til utlandet om mulig, for å skape et godt faglig nettverk utenfor sine normale kretser. Konferanser er lønnet med fast- og garantilønn, men gis ikke provisjon. Det forventes også at man bestiller tidlig og nøkternt. Det er hvert enkelt sitt ansvar å besørge en fornuftig faglig plan, og at denne ivaretas gjennom en slik konferanse. Det er samtidig mulig for nærmeste leder å si nei dersom den faglige utviklingen ikke er vist sterk nok, eller at det passer dårlig i forhold til selskapets eller kundens behov.
+
+### Kurs og meetups
+
+Apparat har sin egen Meetup - [Apparat dev & design](https://www.meetup.com/Apparat/) - og her skal alle Meetups som arrangeres av oss, som holdes i våre lokaler eller som vi sponser. Det er svært positivt å delta på Meetups og å holde Meetups. Det samme gjelder naturligvis for kurs.
+
+### Faglig utvikling ellers
+
+Vi ønsker at alle skal være sitt eget ansvar bevisst - din faglige utvikling er Apparat helt avhengig av, og selskapet vil tilrettelegge for dette i så stor grad som mulig der vi kan. Har du andre idéer eller ønsker til faglig utvikling for deg eller oss som selskap, så oppfordres du til å gi beskjed om dette på Slack for å skape en god diskusjon.
 
 ## Reiser og reisegodtgjørelse, refusjon av andre utlegg
 
