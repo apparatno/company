@@ -158,7 +158,7 @@ Feriepenger utbetales 15. juni basert på ditt feriepengegrunnlag. Dette kan du 
 
 ### Fastlønn, provisjon og bonus
 
-Fastlønnen din blir bestemt av hvilken modell du er på. Lønnsmodellen er beskrevet i et separat dokument. [Du kan finne det her](https://www.apparat.no/betingelser)
+Fastlønnen din blir bestemt av hvilken modell du er på. Lønnsmodellen er beskrevet i et separat dokument. [Du kan finne dem her](https://www.github.com/apparatno/company)
 
 Eksempel på en lønnsutbetaling:  
 Du har 40.000kr i fast månedslønn, og har omsatt for 150 000kr sist måned. Du har en provisjonsprosent på 7%. Du vil da motta ytterligere 10 500kr i provisjon:
@@ -185,7 +185,7 @@ Vi fører timer i vårt timeark i vårt Drive. Vi har månedslig timerapporterin
 
 ### Overtidsmat
 
-Du står fritt til å kjøpe overtidsmat hvis du ska jobbe mer enn tre timer over vanlig arbeidstid. Her oppfordres det til å være nøktern. U
+Du står fritt til å kjøpe overtidsmat hvis du ska jobbe mer enn tre timer over vanlig arbeidstid. Lovverket tillater et måltid oppad til kr. 200 per dag.
 
 ### Avtaler og tilbud
 
@@ -193,9 +193,33 @@ Alle ansatte har rett til å benytte seg av selskapets avtale med Volvat om hels
 
 I tillegg dekker Apparat treningstilbud. Dette er ikke skattefritt i Norge, og tilbudet er derfor begrenset til å være en lønnsytelse. Dersom en ønsker å få dekket trening på treningssenter så skal det leveres inn bilag på dette. Beløpet vil tilbakebetales, og også inntektsføres som vanlig inntekt som du må skatte for.
 
-### Egenmelding/sykemelding
+## Sykemeldinger og sykdomsrelatert fravær
 
+Alt fravær skal meldes i [Gustav](https://gustav.apparat.no), og skal i tillegg alltid informeres til nærmeste leder.
+
+### Egenmelding
 I Apparat har vi 12 egenmeldingsdager (fra dato til dato) som kan benyttes enkeltvis eller sammenhengende. Det er viktig at du passer på at kroppen får bli skikkelig frisk hvis du har blitt syk. Har du brukt opp egenmeldingsdagene dine må du få sykemelding fra lege på vanlig vis etterpå.
+
+### Egenmelding ved barn
+Egenmelding ved barn sykdom følger følgende oppsett
+* 10 dager for 1-2 barn
+* 15 dager for 3 eller flere barn
+* 20/30 dager dersom man har aleneomsorgen
+* 10 ekstra dager dersom barna har kronisk sykdom eller funksjonshemning
+
+Dette gjelder ut året barnet fyller 12 år, eller til 18 år ved kronisk sykdom/funksjonshemning, og arbeidstaker kan bruke egenmelding etter fire ukers ansettelse.
+
+[Detaljert informasjon finnes her](https://www.infotjenester.no/artikler/egenmelding-sykt-barn/)
+
+### Sykemelding
+
+Ved sykemelding følger dette vanlig praksis i forhold til Folketrygdloven. Se følgende ressurser om temaet:
+* [Folketrygdloven Del 4, kapittel 8 - Sykepenger](https://lovdata.no/dokument/NL/lov/1997-02-28-19/KAPITTEL_5-4-2#%C2%A78-24)
+* [Folketrygdloven Del 2, kapittel 9 - Stønad ved barns og andre nærståendes sykdom](https://lovdata.no/dokument/NL/lov/1997-02-28-19/KAPITTEL_5-5-2#%C2%A79-5)
+
+Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker vi å tilrettelegge for en mest mulig rettferdig ordning.
+
+Lønn under sykemelding skal være en snittlønn (se Altinn for prinsipper rundt dette), men begrenset oppad til 6G. De lønnsmodellene som dekker over 6G har det spesielt oppgitt.
 
 ## Ferie
 
@@ -235,6 +259,7 @@ I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om
 ### Bredbånd hjemmekontor
 
 I Apparat dekker vi mobil og bredbånd. Vi oppfordrer til å være nøktern, og oppleves det som at en ber om refusjon for urimelig dyre tjenester så kan vi holde tilbake deler av summen.
+Mobilabonnement dekkes av Apparat, og bredbånd holder en selv - begrenset til kr. 500 per måned.
 
 ### Teknisk utstyr
 
