@@ -131,9 +131,9 @@ Det er normalt 7,5 arbeidstimer i en arbeidsdag, og lønsj er ikke betalt. Derso
 
 Det er fleksibel arbeidstid i Apparat, såkalt fleksitid. Vår kjernetid er mellom kl 09.30 og kl 14.30, men det må sees på mer som en rettesnor enn en regel. Vi er opptatt av at alle ansatte skal være fleksible med arbeidsforholdene rundt seg. Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi at en tilpasser seg dette.
 
-### Lønn ved legebesøk
+### Lønn ved besøk til lege og kiropraktor
 
-Vi fører legebesøk som arbeidstid, men uten provisjon for de som har det. Det vil ikke bli trukket i fast- eller garantilønn for slikt.
+Vi fører besøk til lege og kiropraktor som arbeidstid, men uten provisjon for de som har det. Det vil ikke bli trukket i fast- eller garantilønn for slikt.
 
 ### Overtid
 
