@@ -244,7 +244,7 @@ Det er frist på innlevering siste dag i måneden, og denne må vi opprettholde.
 
 ### Overtidsmat
 
-Du står fritt til å kjøpe overtidsmat hvis du ska jobbe mer enn tre timer over vanlig arbeidstid. 
+Du står fritt til å kjøpe overtidsmat hvis du skal jobbe mer enn tre timer over vanlig arbeidstid. 
 Lovverket tillater et måltid oppad til kr. 200 per dag.
 
 ### Avtaler og tilbud
