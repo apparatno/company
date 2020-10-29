@@ -177,7 +177,7 @@ I de tilfeller hvor overtid er avtalt, så beregnes overtid der hvor det er fakt
 - arbeid over 9 timer per dag gir overtid
 - arbeid over 40 timer per uke gir overtid
 - overtid kompenseres med 40% på fastlønnen
-- timelønn beregnes slik: fastønn / 1950
+- timelønn beregnes slik: fastlønn / 1950
 - all overtid skal avklares på forhånd
 - all bruk av avspasering skal avtales
 - overtid kan byttes i avspasering 1:1, og en skal fortsatt ha 40% overtidsbetalt
