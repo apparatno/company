@@ -13,11 +13,11 @@ Vi har ikke noe hierarki.
 Vi har ikke en chain of command som traverserer et tre av ledere
 som alle må involveres i hver bidige beslutning som må tas.
 
-Istedet har vi en _daglig gleder_.
+Istedet har vi en _daglig tjener_.
 
-## Daglig gleder
+## Daglig tjener
 
-Det er ikke tilfeldig at _daglig gleder_
+Det er ikke tilfeldig at _daglig tjener_
 høres ut som _daglig leder_
 for det er hva det er.
 Samtidig er det også hva det _ikke_ er.
@@ -28,7 +28,7 @@ og bestemmer hva alle andre må gjøre.
 Derimot er vår daglige gleder nøyaktig det;
 en gledesspreder i dagligdagen for å gjøre det lettere
 for den enkelte å fokusere på å gjøre jobben sin.
-Daglig gleder er den personen i Apparat du kan forholde deg til
+Daglig tjener er den personen i Apparat du kan forholde deg til
 når det gjelder alle de kjedelige tingene;
 lønn, skattekort, innkjøp av utstyr osv.
 
@@ -36,6 +36,8 @@ lønn, skattekort, innkjøp av utstyr osv.
 
 Å ha en flat organisasjonsstruktur betyr noe for
 beslutningsprosesser og kommunikasjon.
+
+# Du kan påvirke Apparat
 
 Alle i Apparat har en stemme som de oppfordres til å bruke.
 Ideer til produkter, forandringer i lokalene,
