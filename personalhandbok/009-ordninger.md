@@ -41,7 +41,7 @@ Forsikringssummer:
 - Fritidsulykke uførhet = 22 G
 - Fritidsulykke død = 15 G
 - Erstatning ektefelle/samboer = 15 G
-- - BarneErstatning
+  - BarneErstatning
 
 [Les mer her](https://www.frende.no/bedrift/yrkesskadeforsikring-og-fritidsulykke/)
 
