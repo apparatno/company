@@ -16,8 +16,8 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 
 Denne personalhåndboken er Apparat sin måte å beskrive ordningene vi har. 
 Her bør ting være godt beskrevet og alt skal være dekket. 
-Personalhåndboken skal leve på Github og være offentlig tilgjengelig. 
-Vi oppfordrer til å sende inn pull requests dersom det er ønskelig å gjøre endringer, har forslag til forbedringer, 
+Personalhåndboken skal leve på [Github](https://github.com/apparatno/company/blob/master/personalhandbok.md) og være offentlig tilgjengelig. 
+Vi oppfordrer til å sende inn pull requests dersom man ønsker å gjøre endringer, har forslag til forbedringer, 
 ønsker mer utfyllende informasjon eller trenger å beskrive noe som ikke står her fra før.
 
 ### Vår organisasjon
@@ -26,10 +26,31 @@ Apparat AS er et IT-selskap med fokus på åpenhet, kunnskap, deling og nyskapni
 Åpenhet er grunnen til at du leser dette dokumentet åpent på internett, og ikke på et lukket område. 
 Det er ingen hemmeligheter her - vi er stolte av det vi har å tilby!
 
+#### Daglig tjener
+
+Håkon Nilsen er daglig tjener i Apparat.
+
+#### Partnerne
+
+Partnerne, altså ledergruppen i Apparat er gruppen av individer som eier Apparat. Partnerskapet er en effekt av dette eierskapet, og er de som arbeider for å bedre hverdagen til alle i Apparat. 
+
+Partnerne:
+- Håkon Nilsen
+- Ricco Førgaard
+- Eirik Årdal
+- Eirik Heldal
+
+#### Verneombud
+
+Lasse Michelsen er vårt verneombud. 
+Verneombudet er representanten de ansatte kan gå til om der er noen brudd på Arbeidsmiljøloven eller HMS-bestemmelsene våre. 
+
 ### Utførelse av personalansvaret
 
 Alle henvendelser vedrørende ditt arbeidsforhold skal primært tas med daglig tjener (eller person som snakker for tjener).
 Dersom det haster eller av andre grunner ikke passer å prate med daglig tjener, kan du prate med en av partnerne i selskapet.
+
+## Arbeidsforholdet
 
 ### Skriftlig ansettelsesavtale
 
@@ -106,8 +127,20 @@ Vi har også tilgang til online lege gjennom mobilappen EYR, samt 24 årlige fys
 
 Les mer her: [Frende Helseforsikring pluss](https://www.frende.no/bedrift/forsikringer/helseforsikring/)
 
-Det vi ikke har dekning for er "Topp"-varianten, men vi vil ved behov bistå den ansatte økonomisk med hjelp for den typen behandling "Topp" dekker. 
+Det vi ikke har dekning for er "Topp"-varianten, men vi vil ved behov bistå den ansatte økonomisk med hjelp for den typen behandling "Topp" dekker, for eksempel behandling hos psykolog. 
 Ta kontakt med daglig leder, dette vil i så fall behandles strengt konfidensielt.
+
+Selv om forsikringen er solgt igjennom Frende er det Storebrand som står for selve helseforsikringen. Enkleste måte å bruke forsikringen på er ved å laste ned [appen til Storebrand](http://storebrand.no/privat/forsikring/helseforsikring/slik-bruker-du-forsikringen) og logge inn med BankID eller BankID på mobil der.
+Polisenummer kan fås fra daglig tjener.
+
+Forsikringen dekker blant annet... (med forbehold om at man må sjekke forsikringsbeviset for fullstendig og riktig ordlyd)
+- Utgifter til operasjoner ved privat sykehus
+- Utgifter til legespesialist etter henvisning fra lege
+- Behandlingsgaranti på 10 virkedager for undersøkelse/behandling
+- Psykologisk førstehjelp på 10 virkedager
+- Fysikalsk behandling på inntil 24 behandlinger per kalenderår. 
+
+Alt dog ved forhåndsgodkjenning av forsikringsselskapet. 
 
 #### Bedriftshelsetjeneste
 
@@ -195,9 +228,10 @@ Dersom det ikke er mulig å skaffe et skattekort er vi nødt til å trekke deg 5
 
 ### Utbetaling av lønn og feriepenger
 
-Utbetalingsdato er 15. hver måned. 
-Din faste månedslønn er årslønnen din delt på 12. 
-Har du i tillegg provisjonsbasert inntekt vil du få din oppgitte % av omsetningen din sist måned utbetalt.
+Utbetalingsdato er den 15. hver måned. 
+Dersom du har fastlønn er din månedslønn årslønnen din delt på 12. 
+Har du provisjonsbasert inntekt vil du få din oppgitte % av omsetningen din sist måned utbetalt.
+Det vil si at dersom du er på en provisjonsmodell vil du ikke få utbetalt lønn den første måneden du er ansatt, ettersom lønn beregnes av din omsetning inneværende måned. 
 
 Feriepenger utbetales 15. juni basert på ditt feriepengegrunnlag. 
 Dette kan du se på fjorårets lønns- og trekksoppgave. 
@@ -205,20 +239,90 @@ I juni vil du bli trukket for 5 uker ferie.
 Feriepengene består av 12 % av bruttolønnen din for forrige år. 
 Se ferieloven for mer informasjon.
 
-### Fastlønn, provisjon og bonus
+### Lønn
 
-Fastlønnen din blir bestemt av hvilken modell du er på. 
-Lønnsmodellen er beskrevet i et separat dokument. [Du kan finne dem her](https://www.github.com/apparatno/company)
+Lønn for ansatte i Media avdeling er fastlønn. 
 
-Eksempel på en lønnsutbetaling:  
-Du har 40.000kr i fast månedslønn, og har omsatt for 150 000kr sist måned. 
-Du har en provisjonsprosent på 7%. 
-Du vil da motta ytterligere 10 500kr i provisjon:
+Lønnen for IT-konsulenter blir bestemt av hvilken av 3 lønnsmodeller man er på; fastlønn, eller provisjonsmodellene 40/600 eller 50/400. 
+Du kan bytte modell maks en gang per 12 kalendermåneder. 
 
-`40 000 + 10 500 = 50 500 kr`
+#### Fastlønn
 
-Har du ikke hatt omsetning forrige måned vil du ikke få provisjon.
+*Media avdeling*
+Fastlønn er eneste tilgjengelige modell for ansatte i media avdelingen, og er basert på grunnbeløpet i folketrygden (G). Hvor mange G dette gjelder er avhengig av den ansattes senioritet og rolle.  
 
+*Teknologi avdeling*
+Fastlønn er tilgjengelig for senior IT-konsulenter, og er satt til 8G. 
+
+En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden).
+
+Ansatte med fastlønn får lønn for inneværende måned. Det vil si at om du begynner å jobbe for Apparat med fastlønn i januar, vil du få første lønning 15. januar.
+
+
+#### Provisjon
+
+For ansatte på provisjonsmodellene består lønn av en garantilønn og provisjon.
+
+*Garantilønn*: selv om du er på en provisjonsmodell er du sikret en viss sum hver måned uansett om du er i oppdrag eller ikke. Denne kan dog bli påvirket av visse hendelser, for eksempel ved egenmelding, ferie og legetimer. Kalles også basislønn. 
+*Provisjon*: Provisjon er et resultat av din eksterne omsetning. Denne omsetningen skal du vite om og den skal være tydelig. Det faktiske beløpet vi fakturerer våre kunder er det din provisjon skal regnes ut fra. I tillegg kan provisjon komme internt fra Apparat ved spesielle anledninger, for eksempel for Apparatdager da alle på provisjonsmodell får 750 kr i timen. 
+
+Provisjonslønn blir betalt på etterskudd. Det vil si at om du begynner å arbeide for Apparat i januar på provisjonslønn, vil du få første utbetaling den 15. februar.
+
+Det er to varianter av denne modellen, 40/600 og 50/400.
+
+##### 50/400
+
+*Garantilønn*: 400 000 kr i året, altså 33 333 kr i måneden. 
+*Provisjon*: 50%
+
+**Eksempel på en månedslønn**
+Omsetning: 150 000 kr
+Din provisjon: 50% av 150 000 kr = 75 000 kr. 
+Garantilønn: 33 333 kr. 
+Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 75 000 kr. 
+
+##### 40/600
+
+*Garantilønn*: 600 000 kr i året, altså 50 000 kr i måneden. 
+*Provisjon*: 40%
+*Ekstra rettigheter*: Denne modellen gir i tillegg noen ekstra rettigheter:
+ - 90% av lønn* ved bruk av egenmelding
+ - 90% av lønn* ved foreldrepermisjon
+
+*dette skal regnes ut fra din daglige snittlønn på siste normale lønning, f.eks. ved å regne ut hva lønnen din var måneden før, delt på antall arbeidsdager. På den måten bør det representere en faktisk daglig snittlønn.
+
+ Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din. 
+
+
+**Eksempel på en månedslønn**
+Omsetning: 150 000 kr
+Din provisjon: 40% av 150 000 kr = 60 000 kr. 
+Garantilønn: 50 000 kr. 
+Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 60 000 kr. 
+
+
+##### Bytte mellom provisjon og fastlønn
+Man kan bytte maks en gang per 12 måneder. Man kan ikke bytte midt inni en kalendermåned, men kan bytte når som helst i løpet av året ellers, så lenge det er minst 12 måneder siden sist. 
+
+Dersom man bytter mellom provisjon og fastlønnsmodeller må man huske på at der er en forskjell mellom de to modelltypene på når man får lønning, som kan bli litt rart i byttet.
+
+**Eksempel dersom man bytter fra provisjon til fastlønn**
+Om du bytter fra provisjon til fastlønn fra og med mars måned, så vil man få siste provisjonslønning den 15. mars, men man vil også få første fastlønn 15. mars. 
+
+**Eksempel dersom man bytter fra fastlønn til provisjon**
+Om du bytter fra fastlønn til provisjon fra og med mars måned, så vil man få siste fastlønn den 15. februar, men man vil ikke få første provisjonslønning før 15. april. 
+
+
+##### Hvordan håndterer vi feriedager - eksempler
+Eksempel: du tar ut ferie fire uker i juli, og får provisjon i juli for arbeidet ditt i juni. Har du ikke provisjon i juni så får du garantilønn i juli. I august får du fratrekk for garantilønn i henhold til hvor mye ferie du tok ut i juli. Du får provisjon og garantilønn i august basert på de dagene du var i jobb i juli.
+
+Eksempel: du tar ut ferie to uker i juli og to uker i august. Du får da et naturlig opphold i provisjonsopptjeningen i begge disse månedene. I begge månedene vil garantilønnen din bli redusert med det tilsvarende for hver feriedag du tok ut.
+
+Bortsett fra dette fratrekket har man garantilønnen fra første måned.
+
+Protip: I juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare på feriepengene.
+
+#### Bonus
 I tillegg til lønnen din så deler Apparat ut en årlig bonus. 
 Den består av 15% av overskuddet for inneværende år, og blir delt ut likt blant alle ansatte. 
 Har du nettopp begynt i selskapet vil du få 1/12 bonus for hver måned du har jobbet.
@@ -289,18 +393,18 @@ Se følgende ressurser om temaet:
 Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker vi å tilrettelegge for en mest mulig rettferdig ordning.
 
 Lønn under sykemelding skal være en snittlønn (se Altinn for prinsipper rundt dette), men begrenset oppad til 6G. 
-De lønnsmodellene som dekker over 6G har det spesielt oppgitt.
+De med fastlønn får stort sett dekket sin lønn, mens de på provisjonsmodell er det avhengig av hvilken modell de har. Se mer info under de ulike modellene.
 
 ## Ferie og ferietid
 
-Du har rett på fem uker ferie i selskapet. 
+Du har rett på fem uker ferie i Apparat. 
 Ferien skal fortrinnsvis følge norsk fellesferie, og spesielt følge oppdragsgivers ønsker. 
 Utover det tar du ferie når du måtte ønske.
 
 I tillegg til de 25 ordinære feriedagene har du også Apparat-fri med lønn mandag, tirsdag og onsdag før skjærtorsdag i påskeuken, 
 samt Apparat-fri med lønn i romjulen, med mindre oppdragsgiver trenger at du arbeider disse dagene.
 
-Dersom du jobber de dagene du har Apparat-fri gis du 25% ekstra på fastlønnen din for de dagene.
+Dersom du jobber de dagene du har Apparat-fri gis du 25% ekstra på fastlønnen din for de dagene (dersom du er på fastlønnsmodell).
 
 Vi jobber heller ikke julaften eller nyttårsaften.
 
@@ -312,20 +416,23 @@ og i Apparat ønsker vi å tilrettelegge for dette gjennom mange ulike aktivitet
 ### Apparatdager
 
 Med mål om ca en gang i måneden gjennomfører vi en Apparatdag. 
-Denne har som tema å gjøre oss bedre ved å lære noe, lage noe eller skape noe, for oss selv eller for andre. 
+Denne har som tema å gjøre oss bedre ved å lære noe, lage noe eller skape noe, for oss selv eller for andre. Apparatdager skal være en kombinasjon av læring og sosialt, men trenger ikke være direkte relevant for Apparat som selskap. 
 
 Apparatdagene er et sosialt opplegg hvor vi:
 * møtes på kontoret kl. 13
 * arbeider med noe konkret frem til kl. 17
-* vi spiser middag sammen
-* etter middag oppfordres folk til å bli værende, men dette er ikke obligatorisk.
+* Etter kl 17 oppfordres folk til å spise middag sammen og bli værende til noe sosialt også etterpå, men dette er ikke obligatorisk
 
 Apparatdagene er ansattestyrte, og det etterstrebes et variert og spennende innhold på disse dagene. 
-Det gis kompensasjon for den obligatoriske delen.
+Det gis kompensasjon for den obligatoriske delen. For ansatte med fast lønn teller de obligatoriske timene som arbeidstid, og for ansatte på provisjonslønn gir hver time 750 kr (ganger % du har i provisjon). 
+
+For mer informasjon eller ideer til fremtidige apparatdager, kontakt general for apparatdager, Ricco Førgaard. 
 
 ### Konferanse
 
 Konferanse er en meget god måte å få god læring komprimert på få dager. 
+Apparat oppfordrer sine ansatte til å reise på minst en konferanse i året. 
+Apparat dekker hotell, reise og konferansebillett - med forutsetning at man bor rimelig og nøkternt. 
 Aller helst anbefaler vi våre ansatte å reise til utlandet om mulig, for å skape et godt faglig nettverk utenfor sine normale kretser. 
 Konferanser er lønnet med fast- og garantilønn, men gis ikke provisjon. 
 Det forventes også at man bestiller tidlig og nøkternt. 
@@ -335,7 +442,7 @@ eller at det passer dårlig i forhold til selskapets eller kundens behov.
 
 ### Kurs og meetups
 
-Apparat har sin egen Meetup - [Apparat dev & design](https://www.meetup.com/Apparat/) - og her skal alle Meetups som arrangeres av oss, 
+Apparat har sin egen Meetup - [Apparat dev & design](https://www.meetup.com/Apparat/) - og her skal man legge til alle Meetups som arrangeres av oss, 
 som holdes i våre lokaler eller som vi sponser. 
 Det er svært positivt å delta på Meetups og å holde Meetups. 
 Det samme gjelder naturligvis for kurs.
@@ -375,14 +482,6 @@ Du fører halv dag for reisen ned til Roma, og to fulle dager for resten av ture
 I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om forhåndsgodkjennelse. 
 Det gis dekning for kilometer og bompenger etter [Skatteetatens satser](https://www.skatteetaten.no/satser/bilgodtgjorelse-kilometergodtgjorelse/).
 
-### Bredbånd hjemmekontor
-
-I Apparat dekker vi mobil og bredbånd. 
-Vi oppfordrer til å være nøktern, og oppleves det som at en ber om refusjon for urimelig dyre tjenester så kan vi holde tilbake deler av summen.
-Alle skal ha bedriftsabonnement på mobil, og mobil betales av Apparat direkte. 
-Apparat dekker bredbånd opp til 500 kr per måned. 
-Man holder selv abonnement og får refundert i etterkant.
-
 ### Teknisk utstyr
 
 Teknisk utstyr - verktøyet vårt - skal inkludere følgende:
@@ -398,6 +497,15 @@ Utover det rent personlige utstyret etterstreber Apparat å ha en teknisk infras
 Foretrukket innkjøpsmetode er å melde behov til daglig tjener. 
 Utlegg aksepteres også, men etter avtale.
 Utstyrsnivået skal være riktig, men nøkternt.
+
+### Mobilabonnement
+Alle ansatte får bedriftsabonnement på mobil, og mobil betales av Apparat direkte. 
+Mobiltjenester vil bli trukket fra på lønnen. 
+
+### Bredbånd hjemmekontor
+
+Apparat dekker bredbånd opp til 500 kr per måned. 
+Man holder selv abonnement og får refundert i etterkant.
 
 ### Reiseregninger / refusjon egne utlegg
 
@@ -439,7 +547,7 @@ Samtalen bør vare rundt en time og ha et fast format som ivaretar interessene t
 ### Utviklingssamtale
 
 Alle skal følges opp individuelt i såkalte utviklingssamtaler. 
-Hver enkelt skal følges opp hver tredje måned, gjerne over en lønsj, hvor følgende temaer skal tas opp:
+Hver enkelt skal følges opp hver tredje måned, gjerne over en lunsj, hvor følgende temaer skal tas opp:
 
 - Personlig utvikling
 - Trivsel - hvordan går det hjemme, trives du på jobb, i oppdrag etc
@@ -473,7 +581,7 @@ Arbeidsmiljøloven gir også noen rettigheter til redusert arbeidstid i visse ti
 
 ### Frivillig avslutning av arbeidsforhold
 
-Det kan tilbys frivillig fratredelsesordning dersom arbeidsforhold ikke lenger kan fortsette.
+Det kan tilbys frivillig fratredelsesordning dersom arbeidsforholdet ikke lenger kan fortsette.
 
 ### Oppsigelse
 
