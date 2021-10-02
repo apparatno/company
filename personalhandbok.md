@@ -109,6 +109,9 @@ Les mer her: [Frende Helseforsikring pluss](https://www.frende.no/bedrift/forsik
 Det vi ikke har dekning for er "Topp"-varianten, men vi vil ved behov bistå den ansatte økonomisk med hjelp for den typen behandling "Topp" dekker. 
 Ta kontakt med daglig leder, dette vil i så fall behandles strengt konfidensielt.
 
+Selv om forsikringen er solgt igjennom Frende er det Storebrand som står for selve helseforsikringen. Enkleste måte å bruke forsikringen på er ved å laste ned appen til Storebrand fra [denne linken](http://storebrand.no/privat/forsikring/helseforsikring/slik-bruker-du-forsikringen) og logge inn med BankID eller BankID på mobil der.
+Polisenummer kan fås fra daglig leder.
+
 #### Bedriftshelsetjeneste
 
 I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
