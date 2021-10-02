@@ -32,6 +32,8 @@ Modellen for IT-ansatte som er ute i konsulentoppdrag
 
 > [Les mer om hvordan lønnen for IT-konsulenter fungerer](lonnsmodell-provisjon-it.md).
 
+> [Les mer om fastlønn for IT-konsulenter](lonnsmodell-fastlonn-it.md)
+
 ### Salgsrettet arbeid
 
 Salg har litt høyere fastlønn, og får provisjon av dekningsbidraget for sitt salgsarbeid.
