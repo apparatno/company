@@ -142,6 +142,10 @@ Forsikringen dekker blant annet... (med forbehold om at man må sjekke forsikrin
 
 Alt dog ved forhåndsgodkjenning av forsikringsselskapet. 
 
+Selv om forsikringen er solgt igjennom Frende er det Storebrand som står for selve helseforsikringen. Enkleste måte å bruke forsikringen på er ved å laste ned appen til Storebrand fra [denne linken](http://storebrand.no/privat/forsikring/helseforsikring/slik-bruker-du-forsikringen) og logge inn med BankID eller BankID på mobil der.
+Polisenummer kan fås fra daglig leder.
+
+
 #### Bedriftshelsetjeneste
 
 I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
@@ -171,6 +175,7 @@ Du har en livsforsikring på 2 millioner kroner som tilfaller dine nærmeste som
 #### Ansvarsforsikring og innbo
 
 Selskapet er dekket av ansvarsforsikring oppad til 50 millioner kroner, samt at vi har forsikring på utstyret vårt.
+
 
 ### Databriller
 
