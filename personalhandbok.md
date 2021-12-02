@@ -231,7 +231,7 @@ Dersom det ikke er mulig å skaffe et skattekort er vi nødt til å trekke deg 5
 Utbetalingsdato er den 15. hver måned. 
 Dersom du har fastlønn er din månedslønn årslønnen din delt på 12. 
 Har du provisjonsbasert inntekt vil du få din oppgitte % av omsetningen din sist måned utbetalt.
-Det vil si at dersom du er på en provisjonsmodell vil du ikke få utbetalt lønn den første måneden du er ansatt, ettersom lønn beregnes av din omsetning inneværende måned. 
+Det vil si at dersom du er på en provisjonsmodell vil du ikke få utbetalt lønn den første måneden du er ansatt, ettersom lønn beregnes av din omsetning forrige måned. 
 
 Feriepenger utbetales 15. juni basert på ditt feriepengegrunnlag. 
 Dette kan du se på fjorårets lønns- og trekksoppgave. 
@@ -267,6 +267,7 @@ For ansatte på provisjonsmodellene består lønn av en garantilønn og provisjo
 *Provisjon*: Provisjon er et resultat av din eksterne omsetning. Denne omsetningen skal du vite om og den skal være tydelig. Det faktiske beløpet vi fakturerer våre kunder er det din provisjon skal regnes ut fra. I tillegg kan provisjon komme internt fra Apparat ved spesielle anledninger, for eksempel for Apparatdager da alle på provisjonsmodell får 750 kr i timen. 
 
 Provisjonslønn blir betalt på etterskudd. Det vil si at om du begynner å arbeide for Apparat i januar på provisjonslønn, vil du få første utbetaling den 15. februar.
+Garantilønnen kobles til provisjonslønnen, og er etterskuddsvis på samme måte.
 
 Det er to varianter av denne modellen, 40/600 og 50/400.
 
@@ -317,8 +318,6 @@ Om du bytter fra fastlønn til provisjon fra og med mars måned, så vil man få
 Eksempel: du tar ut ferie fire uker i juli, og får provisjon i juli for arbeidet ditt i juni. Har du ikke provisjon i juni så får du garantilønn i juli. I august får du fratrekk for garantilønn i henhold til hvor mye ferie du tok ut i juli. Du får provisjon og garantilønn i august basert på de dagene du var i jobb i juli.
 
 Eksempel: du tar ut ferie to uker i juli og to uker i august. Du får da et naturlig opphold i provisjonsopptjeningen i begge disse månedene. I begge månedene vil garantilønnen din bli redusert med det tilsvarende for hver feriedag du tok ut.
-
-Bortsett fra dette fratrekket har man garantilønnen fra første måned.
 
 Protip: I juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare på feriepengene.
 
