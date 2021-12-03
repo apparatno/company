@@ -142,10 +142,6 @@ Forsikringen dekker blant annet... (med forbehold om at man må sjekke forsikrin
 
 Alt dog ved forhåndsgodkjenning av forsikringsselskapet. 
 
-Selv om forsikringen er solgt igjennom Frende er det Storebrand som står for selve helseforsikringen. Enkleste måte å bruke forsikringen på er ved å laste ned appen til Storebrand fra [denne linken](http://storebrand.no/privat/forsikring/helseforsikring/slik-bruker-du-forsikringen) og logge inn med BankID eller BankID på mobil der.
-Polisenummer kan fås fra daglig leder.
-
-
 #### Bedriftshelsetjeneste
 
 I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
@@ -346,7 +342,7 @@ De som er på oppsigelse har ingen rett til bonus.
 
 ### Timeføring
 
-Vi fører timer i vårt timeark i Apparat Drive. 
+Vi fører timer i [Kronos](https://kronos.apparat.no/). 
 Vi har månedlig timerapportering i selskapet. 
 Det er frist på innlevering siste dag i måneden, og denne må vi opprettholde.
 
