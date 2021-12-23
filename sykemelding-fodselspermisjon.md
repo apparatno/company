@@ -46,7 +46,7 @@ av lønn for den lovtildelte foreldrepermisjonen, for den ansatte i Apparat, uan
 Dvs at om man tar mer permisjon enn det man får støtte til fra NAV, må man fremdeles ta denne ulønnet. 
 
 Det vil si at hvis ansatt er fødende mor vil det si opp til 3 + 15 + (x av 16) uker, og hvis ansatt er far/medmor
-vil det si 15 + (x av 16) uker, disse tallene kan endre seg om staten endrer reglene rundt tildeling av foreldrepermisjon. 
+vil det si 2 + 15 + (x av 16) uker, disse tallene kan endre seg om staten endrer reglene rundt tildeling av foreldrepermisjon. 
 Se NAV sine sider om foreldrepermisjon for oppdatert informasjon om foreldrekvoter og antall uker osv.
 
 Apparat jobber med å undersøke hvordan det vil fungere i praksis å forskuttere hele lønna i permisjonsperioden, men 
