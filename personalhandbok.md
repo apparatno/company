@@ -293,7 +293,7 @@ Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 75 000 kr.
  
 *dette skal regnes ut fra din daglige snittlønn på siste normale lønning, f.eks. ved å regne ut hva lønnen din var måneden før, delt på antall arbeidsdager. På den måten bør det representere en faktisk daglig snittlønn.
 
-[Les mer om sykemelding og permisjon her](https://github.com/apparatno/company/blob/master/sykemelding-fodselspermisjon.md)
+> [Les mer om sykemelding og permisjon her](sykemelding-fodselspermisjon.md)
 
 Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din. 
 
