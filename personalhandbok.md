@@ -244,7 +244,8 @@ Se ferieloven for mer informasjon.
 
 Lønn for ansatte i Media avdeling er fastlønn. 
 
-Lønnen for IT-konsulenter blir bestemt av hvilken av 3 lønnsmodeller man er på; fastlønn, eller provisjonsmodellene 40/600 eller 50/400. 
+Lønnen for IT-konsulenter blir bestemt av hvilken av 3 lønnsmodeller man er på; fastlønn, eller provisjonsmodellene 40/6G eller 50/4G. En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden).
+
 Du kan bytte modell maks en gang per 12 kalendermåneder. 
 
 #### Fastlønn
@@ -254,8 +255,6 @@ Fastlønn er eneste tilgjengelige modell for ansatte i media avdelingen, og er b
 
 *Teknologi avdeling*
 Fastlønn er tilgjengelig for senior IT-konsulenter, og er satt til 8G. 
-
-En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden).
 
 Ansatte med fastlønn får lønn for inneværende måned. Det vil si at om du begynner å jobbe for Apparat med fastlønn i januar, vil du få første lønning 15. januar.
 
@@ -270,37 +269,31 @@ For ansatte på provisjonsmodellene består lønn av en garantilønn og provisjo
 Provisjonslønn blir betalt på etterskudd. Det vil si at om du begynner å arbeide for Apparat i januar på provisjonslønn, vil du få første utbetaling den 15. februar.
 Garantilønnen kobles til provisjonslønnen, og er etterskuddsvis på samme måte.
 
-Det er to varianter av denne modellen, 40/600 og 50/400.
+Det er to varianter av denne modellen, 50/4G og 40/6G.
 
-##### 50/400
+##### 50/4G
 
-*Garantilønn*: 400 000 kr i året, altså 33 333 kr i måneden. 
+*Garantilønn*: 4G i året, altså 37 160 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden)) 
 *Provisjon*: 50%
 
 **Eksempel på en månedslønn**
-Omsetning: 150 000 kr
-Din provisjon: 50% av 150 000 kr = 75 000 kr. 
-Garantilønn: 33 333 kr. 
-Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 75 000 kr. 
+Omsetning: 180 000 kr
+Din provisjon: 50% av 180 000 kr = 90 000 kr. 
+Garantilønn: 37 160 kr. 
+Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 90 000 kr. 
 
-##### 40/600
+##### 40/6G
 
-*Garantilønn*: 600 000 kr i året, altså 50 000 kr i måneden. 
+*Garantilønn*: 6G i året, altså 55 740 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden)) 
 *Provisjon*: 40%
-*Ekstra rettigheter*: Denne modellen gir i tillegg noen ekstra rettigheter:
- - 90% av lønn* ved bruk av egenmelding
- - 90% av lønn* ved foreldrepermisjon
 
-*dette skal regnes ut fra din daglige snittlønn på siste normale lønning, f.eks. ved å regne ut hva lønnen din var måneden før, delt på antall arbeidsdager. På den måten bør det representere en faktisk daglig snittlønn.
-
- Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din. 
-
+Denne modellen gir også 100 % lønn (snitt siste 3 måneder) ved bruk av egenmelding og ved foreldrepermisjon. De fulle beløpene utbetales av arbeidsgiver. Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din.
 
 **Eksempel på en månedslønn**
-Omsetning: 150 000 kr
-Din provisjon: 40% av 150 000 kr = 60 000 kr. 
-Garantilønn: 50 000 kr. 
-Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 60 000 kr. 
+Omsetning: 180 000 kr
+Din provisjon: 40% av 180 000 kr = 72 000 kr. 
+Garantilønn: 55 740 kr. 
+Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 72 000 kr. 
 
 
 ##### Bytte mellom provisjon og fastlønn
