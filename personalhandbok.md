@@ -503,11 +503,6 @@ Man holder selv abonnement og får refundert i etterkant.
 
 Reiseregninger og refusjoner tas på den administrative Slack-kanalen, eller med daglig tjener.
 
-### Lunsj-/kantineutgifter
-
-Lunsjordningen i Apparat sine lokaler er slik at den maten Apparat har bekostet gir et månedlig lunsjtrekk på 450 kr. 
-Ansatte som sitter ute hos kunder får et månedlig lønnspåslag på kr. 500.
-
 ### Refusjon av "diverse utlegg"/sosiale begivenheter
 
 Som et utgangspunkt er vi rause med å dekke mat og drikke i forbindelse med sosiale arrangementer med oss selv eller våre kunder. 
