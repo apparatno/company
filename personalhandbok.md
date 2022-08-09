@@ -273,28 +273,27 @@ Det er to varianter av denne modellen, 50/4G og 40/6G.
 
 ##### 50/4G
 
-*Garantilønn*: 4G i året, altså 37 160 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden)) 
+*Garantilønn*: 4G i året, altså 37 160 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden))   
 *Provisjon*: 50%
 
 **Eksempel på en månedslønn**
-Omsetning: 180 000 kr
-Din provisjon: 50% av 180 000 kr = 90 000 kr. 
-Garantilønn: 37 160 kr. 
+Omsetning: 180 000 kr.  
+Din provisjon: 50% av 180 000 kr = 90 000 kr.  
+Garantilønn: 37 160 kr.  
 Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 90 000 kr. 
 
 ##### 40/6G
 
-*Garantilønn*: 6G i året, altså 55 740 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden)) 
+*Garantilønn*: 6G i året, altså 55 740 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden))  
 *Provisjon*: 40%
 
 Denne modellen gir også 100 % lønn (snitt siste 3 måneder) ved bruk av egenmelding og ved foreldrepermisjon. De fulle beløpene utbetales av arbeidsgiver. Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din.
 
 **Eksempel på en månedslønn**
-Omsetning: 180 000 kr
-Din provisjon: 40% av 180 000 kr = 72 000 kr. 
-Garantilønn: 55 740 kr. 
+Omsetning: 180 000 kr.  
+Din provisjon: 40% av 180 000 kr = 72 000 kr.  
+Garantilønn: 55 740 kr.  
 Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 72 000 kr. 
-
 
 ##### Bytte mellom provisjon og fastlønn
 Man kan bytte maks en gang per 12 måneder. Man kan ikke bytte midt inni en kalendermåned, men kan bytte når som helst i løpet av året ellers, så lenge det er minst 12 måneder siden sist. 
