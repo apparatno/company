@@ -75,36 +75,69 @@ En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/no/NAV+
 
 ### Forsikringer
 
-Vi har mange forsikringer. 
-Faktisk har vi alle forsikringene vi kunne få tak i. 
-Det oppfordres til at hver enkelt setter seg inn i forsikringene - kontrakter og detaljer kan gis ved forespørsel.
+Vi har mange forsikringer. Faktisk har vi alle forsikringene vi kunne få tak i, og vi er totalkunde hos Gjensidige. Det oppfordres til at hver enkelt setter seg inn i forsikringene. Kontrakter og detaljer kan gis ved forespørsel.
 
-Øvrig informasjon eller betingelser kan [du finne her](https://www.frende.no).
+Øvrig informasjon og betingelser [finner du her...](https://www.gjensidige.no/naringsliv/forsikring/){target="_blank"}
 
 #### Yrkesskadeforsikring
 
-Skulle du være uheldig i tjeneste er du dekket i henhold til norsk lov. 
-Dette er en obligatorisk forsikring arbeidsgiver må ha for sine arbeidstakere. 
-Denne forsikringen dekker både ulykke og sykdom, samt ulykke ved reise til og fra jobb.
+Skulle du være uheldig i tjeneste er du dekket gjennom vår yrkesskadeforsikring. Dette er en ulykkesforsikring som er pålagt gjennom norsk lov, og er gjeldende mens den ansatte utfører arbeid for Apparat.
 
-#### Fritidsulykkeforsikring
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/yrkesskade){target="_blank"}
 
-Vi har også en tilleggsforsikring som dekker deg dersom du har en ulykke utenfor jobben som medfører invaliditet, uførhet eller død.
+#### Fritidsulykkeforsikring (Annen ulykke og Annen sykdom)
+
+Annen ulykke og Annen sykdom dekker de ansattes behov utover lovens krav om yrkesskadeforsikring. Disse forsikringene inkludere ulykkesskade og sykdom som ikke er påført i arbeid.
 
 Forsikringssummer:
 
-- Fritidsulykke invaliditet = 4,5 G
-- Fritidsulykke uførhet = 22 G
-- Fritidsulykke død = 15 G
-- Erstatning ektefelle/samboer = 15 G
-- - BarneErstatning
+- Mènerstatning = 4,5 G
+- Tap i Fremtidig erverv = 22-30 G
+- Dødsfallerstatning = 15 G
+- Barnetillegg
+- Annen Sykdom = 22-30 G
 
-[Les mer her](https://www.frende.no/bedrift/yrkesskadeforsikring-og-fritidsulykke/)
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/annen-ulykke-og-annen-sykdom){target="_blank"}
+
+#### Behandlingsforsikring
+
+Denne forsikringen gir oss raskere tilgang til spesialister innenfor det private helsevesenet, enten det er fysioterapeut, psykolog, legespesialist eller operasjon, og vil bidra til at de ansatte får raskere hjelp.
+
+Vi har også fri tilgang til online lege gjennom mobilappen EYR, samt 24 årlige fysikalske behandlinger.
+
+Forsikringen dekker blant annet (med forbehold om at man må sjekke forsikringsbeviset for fullstendig og riktig ordlyd):
+- Utgifter til operasjoner ved privat sykehus
+- Utgifter til legespesialist etter henvisning fra lege
+- Fysikalsk behandling på inntil 24 behandlinger per kalenderår
+- Psykologisk førstehjelp
+- Behandlingsgaranti på 10 virkedager for undersøkelse/behandling
+
+Alt dog ved forhåndsgodkjenning av forsikringsselskapet. 
+
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/behandlingsforsikring){target="_blank"}
+
+#### Sykelønn
+
+Sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av folketrygden ved sykemelding. Ved hel eller delvis arbeidsuførhet dekker sykelønnsforsikringen ansattes lønn utover 6G. Utbetalingen starter etter karenstiden, og varer i inntil 364 dager.
+
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn){target="_blank"}
+
+#### Syk
+
+Sikrer de ansatte økonomisk trygghet i en periode med langvarig sykdom utover det første året, som dekkes gjennom Sykelønn. Syk er en serie av enkeltstående forsikringsdekninger som kommer til utbetaling etter avtalte tidspunkt. Dersom du blir varig ufør er du dekket oppad til 3 millioner kroner gjennom annen sykdom. I tillegg kommer utbetaling fra syk-dekning oppad til 10G fordelt på fire utbetalingstidspunkter.
+
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/syk){target="_blank"}
+
+#### Bedriftshelsetjeneste
+
+I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
+[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
+
+Den er årlig, og dekkes av selskapet. [Se her for å se hvordan lønnen påvirkes av et slikt besøk](#lønn-ved-besøk-til-lege-og-kiropraktor).
 
 #### Reiseforsikring med familiedekning
 
-Du har også reiseforsikring som er tilpasset deg og dine kjære. 
-Ektefelle/samboer er dekket på reise, sammen med barn som bor på samme adresse.
+Du har også reiseforsikring som er tilpasset deg og dine kjære. Reiseforsikringen gjelder hele året for den ansatte med familie på alle små og store ferie- og fritidsreiser på opptil 10 uker, både i inn- og utlandet.
 
 Reiseforsikringen dekker:
 
@@ -114,40 +147,9 @@ Reiseforsikringen dekker:
 - Reisesyke
 - Reisegods
 - Ansvar og rettshjelp
+- Videosamtaler med Eyr Online Lege
 
-[Les mer her](https://www.frende.no/forsikringer/reiseforsikring/)
-
-#### Helseforsikring
-
-Vi har helseforsikring fra Frende. 
-Vi har "Pluss"-forsikring. 
-Denne forsikringen gir oss raskere tilgang til spesialister innenfor det private helsevesenet, og vil bidra til at de ansatte får raskere hjelp.
-
-Vi har også tilgang til online lege gjennom mobilappen EYR, samt 24 årlige fysikalske behandlinger.
-
-Les mer her: [Frende Helseforsikring pluss](https://www.frende.no/bedrift/forsikringer/helseforsikring/)
-
-Det vi ikke har dekning for er "Topp"-varianten, men vi vil ved behov bistå den ansatte økonomisk med hjelp for den typen behandling "Topp" dekker, for eksempel behandling hos psykolog. 
-Ta kontakt med daglig leder, dette vil i så fall behandles strengt konfidensielt.
-
-Selv om forsikringen er solgt igjennom Frende er det Storebrand som står for selve helseforsikringen. Enkleste måte å bruke forsikringen på er ved å laste ned [appen til Storebrand](http://storebrand.no/privat/forsikring/helseforsikring/slik-bruker-du-forsikringen) og logge inn med BankID eller BankID på mobil der.
-Polisenummer kan fås fra daglig tjener.
-
-Forsikringen dekker blant annet... (med forbehold om at man må sjekke forsikringsbeviset for fullstendig og riktig ordlyd)
-- Utgifter til operasjoner ved privat sykehus
-- Utgifter til legespesialist etter henvisning fra lege
-- Behandlingsgaranti på 10 virkedager for undersøkelse/behandling
-- Psykologisk førstehjelp på 10 virkedager
-- Fysikalsk behandling på inntil 24 behandlinger per kalenderår. 
-
-Alt dog ved forhåndsgodkjenning av forsikringsselskapet. 
-
-#### Bedriftshelsetjeneste
-
-I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
-[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
-
-Den er årlig, og dekkes av selskapet. [Se her for å se hvordan lønnen påvirkes av et slikt besøk](#lønn-ved-besøk-til-lege-og-kiropraktor).
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/reiseforsikring-for-bedrifter/ferie-og-fritidsreise){target="_blank"}
 
 #### Uføredekning og innskuddssikring
 
