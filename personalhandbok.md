@@ -156,6 +156,12 @@ Du har en livsforsikring på 20G som tilfaller dine nærmeste som et engangsbel�
 
 [Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/gruppeliv)
 
+#### Ansatt Pluss
+
+Som ansatt i Apparat for du en del fordeler som privatkunde hos Gjenside, som inkl. gode betingelser på privat forsikring, sparing og pensjon, samt personlig rådgivning og oppfølging.
+
+[Les mer her...](https://www.gjensidige.no/privat/kundefordeler/ansattpluss)
+
 #### Forsikring av drift og verdier
 
 I tillegg til forsikringer for de ansatte har Apparat egen [ansvarsforsikring](https://www.gjensidige.no/naringsliv/forsikring/ansvar), [driftstapforsikring](https://www.gjensidige.no/naringsliv/forsikring/driftstapsforsikring) og [eiendelsforsikring](https://www.gjensidige.no/naringsliv/forsikring/eiendelsforsikring).
