@@ -59,6 +59,11 @@ Denne avtalen skal beskrive ditt arbeidsforhold, prøvetid, betingelser som løn
 
 ## Pensjon, forsikring og andre sosiale ordninger
 
+Det anbefales at alle ansatte laster ned app'en til Gjensidige for full oversikt over pensjon og forsikringer, samt digitalt reisekort og innmelding av skade:
+
+[iPhone/iPad](https://apps.apple.com/no/app/gjensidige/id374040427)
+[Android](https://play.google.com/store/apps/details?id=no.gjensidige.android)
+
 ### Obligatorisk Tjenestepensjon (OTP)
 
 Vi mener selv at vi har en veldig konkurransedyktig pensjonsordning. Vi har innskuddspensjon hos Gjensidige, og selv om du er på provisjonsmodell så innbetales pensjon hver måned automatisk basert på [a-meldingen din](https://www.gjensidige.no/naringsliv/pensjon-og-investering/a-meldingen-dette-betyr-ordningen-for-bedriften) for full løpende opptjening og utbytte.
@@ -90,11 +95,12 @@ Annen ulykke og Annen sykdom dekker de ansattes behov utover lovens krav om yrke
 
 Forsikringssummer:
 
-- Mènerstatning = 4,5 G
-- Tap i Fremtidig erverv = 22-30 G
-- Dødsfallerstatning = 15 G
+- Mènerstatning = 4,5G
+- Tap i Fremtidig erverv = 22-30G
+- Dødsfallerstatning = 15G
+- Annen Sykdom = 22-30G
 - Barnetillegg
-- Annen Sykdom = 22-30 G
+
 
 [Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/annen-ulykke-og-annen-sykdom)
 
@@ -124,7 +130,7 @@ Sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av f
 
 #### Syk
 
-Sikrer de ansatte økonomisk trygghet i en periode med langvarig sykdom utover det første året, som dekkes gjennom Sykelønn. Syk er en serie av enkeltstående forsikringsdekninger som kommer til utbetaling etter avtalte tidspunkt. Dersom du blir varig ufør er du dekket oppad til 3 millioner kroner gjennom annen sykdom. I tillegg kommer utbetaling fra syk-dekning oppad til 10G fordelt på fire utbetalingstidspunkter.
+Sikrer de ansatte økonomisk trygghet i en periode med langvarig sykdom utover det første året, som dekkes gjennom Sykelønn. Syk er en serie av enkeltstående forsikringsdekninger som kommer til utbetaling etter avtalte tidspunkt. Dersom du blir varig ufør er du dekket oppad til 30G gjennom annen sykdom. I tillegg kommer utbetaling fra syk-dekning oppad til 10G fordelt på fire utbetalingstidspunkter.
 
 [Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/syk)
 
@@ -146,7 +152,7 @@ Reiseforsikringen dekker:
 
 #### Gruppeliv (dødsfallsforsikring)
 
-Du har en livsforsikring på 2 millioner kroner som tilfaller dine nærmeste som et engangsbeløp dersom du skulle falle fra mens du jobber i Apparat.
+Du har en livsforsikring på 20G som tilfaller dine nærmeste som et engangsbeløp dersom du skulle falle fra mens du jobber i Apparat.
 
 [Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/gruppeliv)
 
