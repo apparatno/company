@@ -61,29 +61,28 @@ Denne avtalen skal beskrive ditt arbeidsforhold, prøvetid, betingelser som løn
 
 ### Obligatorisk Tjenestepensjon (OTP)
 
-Apparat AS har, såvidt vi vet, Bergens beste pensjonsordning. Kanskje også Norges beste. 
-Vår pensjon er i Frende og KLP. 
-Pensjonen din settes til din mållønn. 
-Er det store avvik vil vi gjøre justeringer, men dette må hver enkelt passe på - det går ikke automatisk.
+Vi mener selv at vi har en veldig konkurransedyktig pensjonsordning. Vi har innskuddspensjon hos Gjensidige, og selv om du er på provisjonsmodell så innbetales pensjon hver måned automatisk basert på [a-meldingen din](https://www.gjensidige.no/naringsliv/pensjon-og-investering/a-meldingen-dette-betyr-ordningen-for-bedriften) for full løpende opptjening og utbytte.
 
-Vår pensjon er fra første krone, og er som følger:
+Maks [uførepensjon med barnetillegg](https://www.gjensidige.no/naringsliv/pensjon-og-investering/innskuddspensjon/uforepensjon-i-innskuddspensjon) er inkludert.
 
-- 7% fra 0 G til 7,1 G
-- 16% fra 7,1 G til 12 G
+Vår pensjon er fra første krone, og er som følger:  
 
-En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden).
+- 6% fra 0G til 7,1G
+- 12% fra 7,1G til 12G
+
+[Les mer her...](https://www.gjensidige.no/naringsliv/pensjon-og-investering/innskuddspensjon)
 
 ### Forsikringer
 
 Vi har mange forsikringer. Faktisk har vi alle forsikringene vi kunne få tak i, og vi er totalkunde hos Gjensidige. Det oppfordres til at hver enkelt setter seg inn i forsikringene. Kontrakter og detaljer kan gis ved forespørsel.
 
-Øvrig informasjon og betingelser [finner du her...](https://www.gjensidige.no/naringsliv/forsikring/){target="_blank"}
+Øvrig informasjon og betingelser [finner du her...](https://www.gjensidige.no/naringsliv/forsikring/)
 
 #### Yrkesskadeforsikring
 
 Skulle du være uheldig i tjeneste er du dekket gjennom vår yrkesskadeforsikring. Dette er en ulykkesforsikring som er pålagt gjennom norsk lov, og er gjeldende mens den ansatte utfører arbeid for Apparat.
 
-[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/yrkesskade){target="_blank"}
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/yrkesskade)
 
 #### Fritidsulykkeforsikring (Annen ulykke og Annen sykdom)
 
@@ -97,43 +96,37 @@ Forsikringssummer:
 - Barnetillegg
 - Annen Sykdom = 22-30 G
 
-[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/annen-ulykke-og-annen-sykdom){target="_blank"}
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/annen-ulykke-og-annen-sykdom)
 
 #### Behandlingsforsikring
 
 Denne forsikringen gir oss raskere tilgang til spesialister innenfor det private helsevesenet, enten det er fysioterapeut, psykolog, legespesialist eller operasjon, og vil bidra til at de ansatte får raskere hjelp.
 
-Vi har også fri tilgang til online lege gjennom mobilappen EYR, samt 24 årlige fysikalske behandlinger.
+Vi har også fri tilgang til online lege gjennom mobilappen EYR, online mental helsehjelp, samt 24 årlige fysikalske behandlinger.
 
 Forsikringen dekker blant annet (med forbehold om at man må sjekke forsikringsbeviset for fullstendig og riktig ordlyd):
 - Utgifter til operasjoner ved privat sykehus
 - Utgifter til legespesialist etter henvisning fra lege
 - Fysikalsk behandling på inntil 24 behandlinger per kalenderår
-- Psykologisk førstehjelp
+- Psykologisk førstehjelp i tillegg til behandling hos psykolog (10 behandlinger per kalenderår)
+- Behandling av rus- og spillavhengighet
 - Behandlingsgaranti på 10 virkedager for undersøkelse/behandling
 
 Alt dog ved forhåndsgodkjenning av forsikringsselskapet. 
 
-[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/behandlingsforsikring){target="_blank"}
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/behandlingsforsikring)
 
 #### Sykelønn
 
-Sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av folketrygden ved sykemelding. Ved hel eller delvis arbeidsuførhet dekker sykelønnsforsikringen ansattes lønn utover 6G. Utbetalingen starter etter karenstiden, og varer i inntil 364 dager.
+Sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av folketrygden ved sykemelding. Ved hel eller delvis arbeidsuførhet dekker sykelønnsforsikringen ansattes lønn utover 6G i inntil 364 dager.
 
-[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn){target="_blank"}
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn)
 
 #### Syk
 
 Sikrer de ansatte økonomisk trygghet i en periode med langvarig sykdom utover det første året, som dekkes gjennom Sykelønn. Syk er en serie av enkeltstående forsikringsdekninger som kommer til utbetaling etter avtalte tidspunkt. Dersom du blir varig ufør er du dekket oppad til 3 millioner kroner gjennom annen sykdom. I tillegg kommer utbetaling fra syk-dekning oppad til 10G fordelt på fire utbetalingstidspunkter.
 
-[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/syk){target="_blank"}
-
-#### Bedriftshelsetjeneste
-
-I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
-[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
-
-Den er årlig, og dekkes av selskapet. [Se her for å se hvordan lønnen påvirkes av et slikt besøk](#lønn-ved-besøk-til-lege-og-kiropraktor).
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/syk)
 
 #### Reiseforsikring med familiedekning
 
@@ -149,31 +142,24 @@ Reiseforsikringen dekker:
 - Ansvar og rettshjelp
 - Videosamtaler med Eyr Online Lege
 
-[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/reiseforsikring-for-bedrifter/ferie-og-fritidsreise){target="_blank"}
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/reiseforsikring-for-bedrifter/ferie-og-fritidsreise)
 
-#### Uføredekning og innskuddssikring
-
-Dersom du blir ufør er du dekket oppad til 2 millioner kroner. 
-I tillegg gis du månedlige utbetalinger mens du er under vurdering for uførhet. 
-Dette er normalt en periode hvor forsikringene ikke dekker deg. 
-Vi har det produktet som heter Uføre pluss, som gir en del ekstragoder.
-
-Som en del av pakken har vi også innskuddssikring, som betyr at dersom du blir ufør så vil forsikringen din fortsette 
-innbetalingene til din pensjonsordning for deg frem til du fyller 67 år. 
-Dette er en del av uføreforsikringen, og kan leses mer om der.
-
-[Les mer her](https://www.frende.no/forsikringer/uforeforsikring/)
-
-#### Gruppelivforsikring
+#### Gruppeliv (dødsfallsforsikring)
 
 Du har en livsforsikring på 2 millioner kroner som tilfaller dine nærmeste som et engangsbeløp dersom du skulle falle fra mens du jobber i Apparat.
 
-[Les mer her](https://www.frende.no/forsikringer/dodsfallsforsikring/)
+[Les mer her...](https://www.gjensidige.no/naringsliv/forsikring/ansatte/gruppeliv)
 
-#### Ansvarsforsikring og innbo
+#### Forsikring av drift og verdier
 
-Selskapet er dekket av ansvarsforsikring oppad til 50 millioner kroner, samt at vi har forsikring på utstyret vårt.
+I tillegg til forsikringer for de ansatte har Apparat egen [ansvarsforsikring](https://www.gjensidige.no/naringsliv/forsikring/ansvar), [driftstapforsikring](https://www.gjensidige.no/naringsliv/forsikring/driftstapsforsikring) og [eiendelsforsikring](https://www.gjensidige.no/naringsliv/forsikring/eiendelsforsikring).
 
+### Bedriftshelsetjeneste
+
+I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
+[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
+
+Den er årlig, og dekkes av selskapet. [Se her for å se hvordan lønnen påvirkes av et slikt besøk](#lønn-ved-besøk-til-lege-og-kiropraktor).
 
 ### Databriller
 
@@ -386,8 +372,7 @@ Se følgende ressurser om temaet:
 
 Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker vi å tilrettelegge for en mest mulig rettferdig ordning.
 
-Lønn under sykemelding skal være en snittlønn (se Altinn for prinsipper rundt dette), men begrenset oppad til 6G. 
-De med fastlønn får stort sett dekket sin lønn, mens de på provisjonsmodell er det avhengig av hvilken modell de har. Se mer info under de ulike modellene.
+Ansatte i Apparat har full lønn under egen sykdom opp til 364 dager, og vår sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av folketrygden ved sykemelding.
 
 ## Ferie og ferietid
 
