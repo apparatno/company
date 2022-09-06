@@ -219,8 +219,6 @@ I de tilfeller hvor overtid er avtalt, så beregnes overtid der hvor det er fakt
 - har en under 100% fakturering hos kunde vil det aldri utløse overtid, da antas det at man har benyttet seg av fleksitidsordningen
 - provisjon kommer alltid på toppen, og gir ikke overtidsbetalt med mindre timeprisen øker ute hos kunde
 
-[Les mer om overtid og fleksitid her](https://github.com/apparatno/company/blob/master/overtid-fleksitid.md)
-
 ### Skatt og skattekort
 
 Ditt skattekort blir hentet elektronisk. 
