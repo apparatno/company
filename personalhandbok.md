@@ -61,8 +61,8 @@ Denne avtalen skal beskrive ditt arbeidsforhold, prøvetid, betingelser som løn
 
 Det anbefales at alle ansatte laster ned app'en til Gjensidige for full oversikt over pensjon og forsikringer, samt digitalt reisekort og innmelding av skade:
 
-[iPhone/iPad](https://apps.apple.com/no/app/gjensidige/id374040427)
-[Android](https://play.google.com/store/apps/details?id=no.gjensidige.android)
+- [iPhone/iPad](https://apps.apple.com/no/app/gjensidige/id374040427)
+- [Android](https://play.google.com/store/apps/details?id=no.gjensidige.android)
 
 ### Obligatorisk Tjenestepensjon (OTP)
 
