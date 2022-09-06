@@ -130,7 +130,7 @@ Sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av f
 
 #### Engangsutbetalinger ved langvarig sykdom (SYK)
 
-SYK er et produkt fra Gjensidige som sikrer de ansatte økonomisk trygghet i en periode med langvarig sykdom utover det første året (som dekkes gjennom Sykelønn). Består av en serie med enkeltstående forsikringsdekninger som kommer til utbetaling etter avtalte tidspunkt. Dersom du blir varig ufør er du dekket oppad til 30G gjennom Annen sykdom. I tillegg kommer utbetaling fra SYK-dekning oppad til 10G fordelt på fire utbetalingstidspunkter.
+SYK er et produkt fra Gjensidige som sikrer de ansatte økonomisk trygghet i en periode med langvarig sykdom utover det første året (som dekkes gjennom Sykelønn). Det består av en serie med enkeltstående forsikringsdekninger som kommer til utbetaling etter avtalte tidspunkt. Dersom du blir varig ufør er du dekket oppad til 30G gjennom Annen sykdom. I tillegg kommer utbetaling fra SYK-dekning oppad til 10G fordelt på fire utbetalingstidspunkter.
 
 [Les mer om SYK her](https://www.gjensidige.no/naringsliv/forsikring/ansatte/syk).
 
