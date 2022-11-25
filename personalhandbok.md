@@ -318,14 +318,14 @@ Den består av 15% av overskuddet for inneværende år, og blir delt ut likt bla
 Har du nettopp begynt i selskapet vil du få 1/12 bonus for hver måned du har jobbet.
 
 Eksempel på bonus:
-Selskapet går med 1 500 000 kr i overskudd. 
-Vi deler ut 15% av overskuddet, som tilsvarer 100 000 kr. 
-Det er 5 ansatte i selskapet som får 20 000 kr hver. 
+Selskapet går med 2 400 000 kr i overskudd. 
+Vi deler ut 15% av overskuddet, som tilsvarer 360 000 kr. 
+Det er 18 ansatte i selskapet som får 20 000 kr hver. 
 Bonus inkluderer ikke arbeidsgiveravgift, og gir heller ikke rett til sykepenger, pensjon eller lignende.
 
 Regnestykket blir da som følger:
 
-- `100 000 kr / 5 ansatte = 20 000 kr`
+- `360 000 kr / 18 ansatte = 20 000 kr`
 - Din utbetaling: `20 000 kr * 0.859 = 17 180 kr`
 
 De som er på oppsigelse har ingen rett til bonus.
