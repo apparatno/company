@@ -261,7 +261,7 @@ Ansatte med fastlønn får lønn for inneværende måned. Det vil si at om du be
 
 For ansatte på provisjonsmodellene består lønn av en garantilønn og provisjon.
 
-*Garantilønn*: selv om du er på en provisjonsmodell er du sikret en viss sum hver måned uansett om du er i oppdrag eller ikke. Denne kan dog bli påvirket av visse hendelser, for eksempel ved egenmelding, ferie og legetimer. Kalles også basislønn. 
+*Garantilønn*: selv om du er på en provisjonsmodell er du sikret en viss sum hver måned uansett om du er i oppdrag eller ikke. Denne kan dog bli påvirket av visse hendelser, for eksempel ved egenmelding, ferie og legetimer.
 *Provisjon*: Provisjon er et resultat av din eksterne omsetning. Denne omsetningen skal du vite om og den skal være tydelig. Det faktiske beløpet vi fakturerer våre kunder er det din provisjon skal regnes ut fra. I tillegg kan provisjon komme internt fra Apparat ved spesielle anledninger, for eksempel for Apparatdager da alle på provisjonsmodell får 750 kr i timen. 
 
 Provisjonslønn blir betalt på etterskudd. Det vil si at om du begynner å arbeide for Apparat i januar på provisjonslønn, vil du få første utbetaling den 15. februar.
