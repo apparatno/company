@@ -382,7 +382,7 @@ Se følgende ressurser om temaet:
 
 Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker vi å tilrettelegge for en mest mulig rettferdig ordning.
 
-Ansatte i Apparat har full lønn under egen sykdom opp til 364 dager, og vår sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av folketrygden ved sykemelding.
+Ansatte i Apparat har full lønn under egen sykdom opp til 364 dager, og vår [sykelønnsforsikring](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn) sikrer dekning av den delen av lønnen som ikke dekkes av NAV ved sykemelding. Hvis betingelser i forsikringen til formodning ikke innfris vil den ansatte falle tilbake på opptil [6G fra NAV](https://www.nav.no/sykepenger) etter arbeidsgiverperioden.
 
 ## Ferie og ferietid
 
