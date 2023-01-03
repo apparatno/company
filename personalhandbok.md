@@ -124,7 +124,7 @@ Alt dog ved forhåndsgodkjenning av forsikringsselskapet.
 
 #### Sykelønn
 
-Sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av folketrygden ved sykemelding. Ved hel eller delvis arbeidsuførhet dekker sykelønnsforsikringen ansattes lønn utover 6G i inntil 364 dager.
+Sykelønnsforsikring sikrer dekning av den delen av lønnen som ikke dekkes av folketrygden ved sykemelding. Ved hel eller delvis arbeidsuførhet dekker sykelønnsforsikringen ansattes lønn utover 6G i inntil 364 dager. Lønn utover 6G fordrer at vilkår i forsikringen innfris.
 
 [Les mer om sykelønn her](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn).
 
@@ -383,6 +383,8 @@ Se følgende ressurser om temaet:
 Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker vi å tilrettelegge for en mest mulig rettferdig ordning.
 
 Ansatte i Apparat har full lønn under egen sykdom opp til 364 dager, og vår [sykelønnsforsikring](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn) sikrer dekning av den delen av lønnen som ikke dekkes av NAV ved sykemelding. Hvis betingelser i forsikringen til formodning ikke innfris vil den ansatte falle tilbake på opptil [6G fra NAV](https://www.nav.no/sykepenger) etter arbeidsgiverperioden.
+
+Vi bruker [kapittel 8 i folketrygloven](https://www.nav.no/no/bedrift/oppfolging/sykmeldt-arbeidstaker/sykepenger/beregningsregler-for-sykepenger-fra-2019_kap) for beregning av lønn under sykdom.
 
 ## Ferie og ferietid
 
