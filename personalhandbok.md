@@ -166,13 +166,6 @@ Som ansatt i Apparat for du en del fordeler som privatkunde hos Gjenside, som in
 
 I tillegg til forsikringer for de ansatte har Apparat egen [ansvarsforsikring](https://www.gjensidige.no/naringsliv/forsikring/ansvar), [driftstapforsikring](https://www.gjensidige.no/naringsliv/forsikring/driftstapsforsikring) og [eiendelsforsikring](https://www.gjensidige.no/naringsliv/forsikring/eiendelsforsikring).
 
-### Bedriftshelsetjeneste
-
-I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
-[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
-
-Den er årlig, og dekkes av selskapet. [Se her for å se hvordan lønnen påvirkes av et slikt besøk](#lønn-ved-besøk-til-lege-og-kiropraktor).
-
 ### Databriller
 
 Det er anledning for å få dekket kostnad for databriller. 
@@ -193,10 +186,14 @@ Vår kjernetid er mellom kl 09.30 og kl 14.30, men det må sees på mer som en r
 Vi er opptatt av at alle ansatte skal være fleksible med arbeidsforholdene rundt seg. 
 Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi at en tilpasser seg dette.
 
-### Lønn ved besøk til lege og kiropraktor
+### Legebesøk, fysikalsk behandling og helsekontroll
 
-Vi fører besøk til lege og kiropraktor som arbeidstid, men uten provisjon for de som har det. 
-Det vil ikke bli trukket i fast- eller garantilønn for slikt.
+Det utbetales lønn for opptil én time til disse tingene, inkl. evt. reisetid. Overskytende tid må jobbes inn.
+
+I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat. 
+[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
+
+Den er årlig, og dekkes av selskapet.
 
 ### Overtid
 
