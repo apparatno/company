@@ -242,7 +242,7 @@ Se ferieloven for mer informasjon.
 
 Lønn for ansatte i Media avdeling er fastlønn. 
 
-Lønnen for IT-konsulenter blir bestemt av hvilken av 3 lønnsmodeller man er på; fastlønn, eller provisjonsmodellene 40/6G eller 50/4G. En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden).
+Lønnen for IT-konsulenter blir bestemt av hvilken av 3 lønnsmodeller man er på; fastlønn, eller provisjonsmodellene 40/6G eller 50/4G. En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/grunnbelopet).
 
 Du kan bytte modell maks en gang per 12 kalendermåneder. 
 
@@ -271,7 +271,7 @@ Det er to varianter av denne modellen, 50/4G og 40/6G.
 
 ##### 50/4G
 
-*Garantilønn*: 4G i året, altså 37 160 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden))   
+*Garantilønn*: 4G i året, altså 37 160 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))   
 *Provisjon*: 50%
 
 **Eksempel på en månedslønn**  
@@ -282,7 +282,7 @@ Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 90 000 kr.
 
 ##### 40/6G
 
-*Garantilønn*: 6G i året, altså 55 740 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/no/NAV+og+samfunn/Kontakt+NAV/Utbetalinger/Grunnbelopet+i+folketrygden))  
+*Garantilønn*: 6G i året, altså 55 740 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
 *Provisjon*: 40%
 
 Denne modellen gir også 100 % lønn (snitt siste 3 måneder) ved bruk av egenmelding og ved foreldrepermisjon. De fulle beløpene utbetales av arbeidsgiver. Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din.
