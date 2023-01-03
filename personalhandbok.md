@@ -545,7 +545,7 @@ Det skal skrives et referat som skal godkjennes av begge parter.
 
 ### Permisjoner
 
-Ansatte kan få velferdspermisjon med lønn i inntil 12 arbeidsdager i året når det finnes viktige velferdsgrunner.
+Ansatte kan få velferdspermisjon med lønn i inntil 12 arbeidsdager i året når det finnes viktige velferdsgrunner. For ansatte på provisjonsmodell er det garantilønn som ikke avkortes ved velferdspermisjon.
 
 - Alvorlig sykdom i arbeidstakers nærmeste familie
 - Dødsfall i nærmeste familie eller hos andre som har stått en nær
