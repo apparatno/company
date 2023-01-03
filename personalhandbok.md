@@ -482,7 +482,7 @@ Mobiltjenester vil bli trukket fra på lønnen.
 
 ### Bredbånd hjemmekontor
 
-Apparat dekker bredbånd opp til 500 kr per måned. 
+Apparat dekker bredbånd opp til 500 kr per måned per husstand. 
 Man holder selv abonnement og får refundert i etterkant.
 
 ### Reiseregninger / refusjon egne utlegg
