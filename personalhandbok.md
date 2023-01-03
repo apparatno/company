@@ -338,16 +338,6 @@ Det er frist på innlevering siste dag i måneden, og denne må vi opprettholde.
 Du står fritt til å kjøpe overtidsmat hvis du skal jobbe mer enn tre timer over vanlig arbeidstid. 
 Lovverket tillater et måltid oppad til kr. 200 per dag.
 
-### Avtaler og tilbud
-
-Alle ansatte har rett til å benytte seg av selskapets avtale med Volvat om helsekontroll. 
-Ta kontakt med daglig tjener eller på Slack for å få mer informasjon om hvordan en kan gå frem.
-
-I tillegg dekker Apparat treningstilbud. 
-Dette er ikke skattefritt i Norge, og tilbudet er derfor begrenset til å være en lønnsytelse. 
-Dersom en ønsker å få dekket trening på treningssenter så skal det leveres inn bilag på dette. 
-Beløpet vil tilbakebetales, og også inntektsføres som vanlig inntekt som du må skatte for.
-
 ## Sykemeldinger og sykdomsrelatert fravær
 
 Alt fravær skal meldes i [Huma](https://apparat.hu.ma/), og skal i tillegg alltid informeres til nærmeste leder.
