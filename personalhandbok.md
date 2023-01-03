@@ -353,7 +353,7 @@ Beløpet vil tilbakebetales, og også inntektsføres som vanlig inntekt som du m
 
 ## Sykemeldinger og sykdomsrelatert fravær
 
-Alt fravær skal meldes i [Gustav](https://gustav.apparat.no), og skal i tillegg alltid informeres til nærmeste leder.
+Alt fravær skal meldes i [Huma](https://apparat.hu.ma/), og skal i tillegg alltid informeres til nærmeste leder.
 
 ### Egenmelding
 
