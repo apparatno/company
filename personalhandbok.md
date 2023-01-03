@@ -66,14 +66,13 @@ Det anbefales at alle ansatte laster ned app'en til Gjensidige for full oversikt
 
 ### Obligatorisk Tjenestepensjon (OTP)
 
-Vi mener selv at vi har en veldig konkurransedyktig pensjonsordning. Vi har innskuddspensjon hos Gjensidige, og selv om du er på provisjonsmodell så innbetales pensjon hver måned automatisk basert på [a-meldingen din](https://www.gjensidige.no/naringsliv/pensjon-og-investering/a-meldingen-dette-betyr-ordningen-for-bedriften) for full løpende opptjening og utbytte.
+Vi har innskuddspensjon hos Gjensidige, og selv om du er på provisjonsmodell så innbetales pensjon hver måned automatisk basert på [a-meldingen din](https://www.gjensidige.no/naringsliv/pensjon-og-investering/a-meldingen-dette-betyr-ordningen-for-bedriften) for full løpende opptjening og utbytte.
 
 Maks [uførepensjon med barnetillegg](https://www.gjensidige.no/naringsliv/pensjon-og-investering/innskuddspensjon/uforepensjon-i-innskuddspensjon) er inkludert.
 
 Vår pensjon er fra første krone, og er som følger:  
 
-- 6% fra 0G til 7,1G
-- 12% fra 7,1G til 12G
+- 6% fra 0G til 12G
 
 [Les mer om pensjon her](https://www.gjensidige.no/naringsliv/pensjon-og-investering/innskuddspensjon).
 
@@ -500,7 +499,7 @@ Er det tvil om hva som er innenfor eller ikke så kan en spørre :-)
 
 ### Betingelser for utgiftsrefusjon
 
-Dersom du selv bekoster utstyr må du levere inn kvittering i utleggsmappen. 
+Dersom du selv bekoster utstyr må du levere inn kvittering i Tripletex. 
 Er det noe du er i tvil om du får dekket, så tar du kontakt med daglig tjener eller spør på Slack. 
 Alle har informasjonsplikt om hva de har kjøpt, og vi er åpne om hvilket utstyr/gadgets vi har kjøpt inn.
 
