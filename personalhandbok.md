@@ -486,12 +486,12 @@ Man holder selv abonnement og får refundert i etterkant.
 
 ### Reiseregninger / refusjon egne utlegg
 
-Reiseregninger og refusjoner tas på den administrative Slack-kanalen, eller med daglig tjener.
+Reiseregninger og refusjoner sendes inn via Tripletex.
 
 ### Refusjon av "diverse utlegg"/sosiale begivenheter
 
 Som et utgangspunkt er vi rause med å dekke mat og drikke i forbindelse med sosiale arrangementer med oss selv eller våre kunder. 
-Normalt sett er det innenfor å levere inn kvitteringer for ulike sosiale formål. Det gjøres på den administrative Slack-kanalen.
+Normalt sett er det innenfor å levere inn kvitteringer for ulike sosiale formål.
 
 Husk at kvitteringen er bare gyldig hvis en kan oppgi navn på de en er sosial med, og hvilket selskap de jobber i.
 
