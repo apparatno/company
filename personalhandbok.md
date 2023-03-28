@@ -378,10 +378,8 @@ Du har rett på fem uker ferie i Apparat.
 Ferien skal fortrinnsvis følge norsk fellesferie, og spesielt følge oppdragsgivers ønsker. 
 Utover det tar du ferie når du måtte ønske.
 
-I tillegg til de 25 ordinære feriedagene har du også Apparat-fri med lønn mandag, tirsdag og onsdag før skjærtorsdag i påskeuken, 
-samt Apparat-fri med lønn i romjulen, med mindre oppdragsgiver trenger at du arbeider disse dagene.
-
-Dersom du jobber de dagene du har Apparat-fri gis du 25% ekstra på fastlønnen din for de dagene (dersom du er på fastlønnsmodell).
+I tillegg til de 25 ordinære feriedagene har du også Apparat-fri tirsdag og onsdag før skjærtorsdag i påskeuken, 
+samt Apparat-fri romjulen, med mindre oppdragsgiver trenger at du arbeider disse dagene.
 
 Vi jobber heller ikke julaften eller nyttårsaften.
 
