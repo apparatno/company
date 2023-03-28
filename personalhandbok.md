@@ -281,8 +281,6 @@ Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 90 000 kr.
 *Garantilønn*: 6G i året, altså 55 740 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
 *Provisjon*: 40%
 
-Denne modellen gir også 100 % lønn (snitt siste 3 måneder) ved bruk av egenmelding og ved foreldrepermisjon. De fulle beløpene utbetales av arbeidsgiver. Disse ekstra rettighetene bortfaller hvis du sier opp stillingen din.
-
 **Eksempel på en månedslønn**  
 Omsetning: 180 000 kr.  
 Din provisjon: 40% av 180 000 kr = 72 000 kr.  
@@ -368,7 +366,7 @@ Se følgende ressurser om temaet:
 
 Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker vi å tilrettelegge for en mest mulig rettferdig ordning.
 
-Ansatte i Apparat har full lønn under egen sykdom opp til 364 dager, og vår [sykelønnsforsikring](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn) sikrer dekning av den delen av lønnen som ikke dekkes av NAV ved sykemelding. Hvis betingelser i forsikringen til formodning ikke innfris vil den ansatte falle tilbake på opptil [6G fra NAV](https://www.nav.no/sykepenger) etter arbeidsgiverperioden.
+Ansatte i Apparat har opptil 6G under egen sykdom i arbeidsgiverperioden, og vår [sykelønnsforsikring](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn) sikrer dekning av den delen av lønnen som ikke dekkes av NAV ved sykemelding, altså full lønn etter arbeidegiverperioden. Hvis betingelser i forsikringen til formodning ikke innfris vil den ansatte fortsette på opptil [6G fra NAV](https://www.nav.no/sykepenger) etter arbeidsgiverperioden.
 
 Vi bruker [kapittel 8 i folketrygloven](https://www.nav.no/no/bedrift/oppfolging/sykmeldt-arbeidstaker/sykepenger/beregningsregler-for-sykepenger-fra-2019_kap) for beregning av lønn under sykdom.
 
