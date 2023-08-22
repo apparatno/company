@@ -56,3 +56,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+      - name: Trigger revalidation of personalhandbok pages at apparat.no
+        env:
+          SECRET: ${{ secrets.VERCEL_REVALIDATE_SECRET }}
+        run: ./.github/workflows/revalidate.sh
+        shell: bash
