@@ -91,7 +91,7 @@ Garantilønnen kobles til provisjonslønnen, og er etterskuddsvis på samme måt
 
 Det er to varianter av denne modellen, 50/4G og 40/6G.
 
-> ***50/4G***
+> **50/4G**
 > 
 > _Garantilønn_: 4G i året, altså 39 540 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
 > _Provisjon_: 50%
@@ -102,7 +102,7 @@ Det er to varianter av denne modellen, 50/4G og 40/6G.
 > Garantilønn: 39 540 kr.  
 > Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 90 000 kr.
 > 
-> ***40/6G***
+> **40/6G**
 > 
 > _Garantilønn_: 6G i året, altså 59 310 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
 > _Provisjon_: 40%
@@ -113,7 +113,7 @@ Det er to varianter av denne modellen, 50/4G og 40/6G.
 > Garantilønn: 59 310 kr.  
 > Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 72 000 kr.
 
-##### Bytte mellom provisjon og fastlønn
+**Bytte mellom provisjon og fastlønn**
 
 Man kan bytte maks en gang per 12 måneder. Man kan ikke bytte midt inni en kalendermåned, men kan bytte når som helst i løpet av året ellers, så lenge det er minst 12 måneder siden sist.
 
@@ -125,7 +125,7 @@ Om du bytter fra provisjon til fastlønn fra og med mars måned, så vil man få
 **Eksempel dersom man bytter fra fastlønn til provisjon**
 Om du bytter fra fastlønn til provisjon fra og med mars måned, så vil man få siste fastlønn den 15. februar, men man vil ikke få første provisjonslønning før 15. april.
 
-##### Hvordan håndterer vi feriedager - eksempler
+**Hvordan håndterer vi feriedager - eksempler**
 
 Eksempel: du tar ut ferie fire uker i juli, og får provisjon i juli for arbeidet ditt i juni. Har du ikke provisjon i juni så får du garantilønn i juli. I august får du fratrekk for garantilønn i henhold til hvor mye ferie du tok ut i juli. Du får provisjon og garantilønn i august basert på de dagene du var i jobb i juli.
 
