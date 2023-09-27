@@ -24,7 +24,7 @@ Du fører halv dag for reisen ned til Roma, og to fulle dager for resten av ture
 ### Bilgodtgjørelse/bilutgifter
 
 I de tilfeller hvor det er nødvendig å benytte seg av egen bil skal det bes om forhåndsgodkjennelse.
-Det gis dekning for kilometer og bompenger etter [Skatteetatens satser](https://www.skatteetaten.no/satser/bilgodtgjorelse-kilometergodtgjorelse/).
+Det gis dekning for kilometer og bompenger etter [**Skatteetatens satser**](https://www.skatteetaten.no/satser/bilgodtgjorelse-kilometergodtgjorelse/).
 
 ### Teknisk utstyr
 

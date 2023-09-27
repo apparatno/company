@@ -7,7 +7,7 @@
 
 Denne personalhåndboken er Apparat sin måte å beskrive ordningene vi har.
 Her bør ting være godt beskrevet og alt skal være dekket.
-Personalhåndboken skal leve på [Github](https://github.com/apparatno/company/blob/master/personalhandbok.md) og være offentlig tilgjengelig.
+Personalhåndboken skal leve på [**Github**](https://github.com/apparatno/company/blob/master/personalhandbok.md) og være offentlig tilgjengelig.
 Vi oppfordrer til å sende inn pull requests dersom man ønsker å gjøre endringer, har forslag til forbedringer,
 ønsker mer utfyllende informasjon eller trenger å beskrive noe som ikke står her fra før.
 

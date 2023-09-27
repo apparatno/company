@@ -33,7 +33,7 @@ eller at det passer dårlig i forhold til selskapets eller kundens behov.
 
 ### Kurs og meetups
 
-Apparat har sin egen Meetup - [Apparat dev & design](https://www.meetup.com/Apparat/) - og her skal man legge til alle Meetups som arrangeres av oss,
+Apparat har sin egen Meetup - [**Apparat dev & design**](https://www.meetup.com/Apparat/) - og her skal man legge til alle Meetups som arrangeres av oss,
 som holdes i våre lokaler eller som vi sponser.
 Det er svært positivt å delta på Meetups og å holde Meetups.
 Det samme gjelder naturligvis for kurs.

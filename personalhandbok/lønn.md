@@ -17,7 +17,7 @@ Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi
 Det utbetales lønn for opptil én time til disse tingene, inkl. evt. reisetid. Overskytende tid må jobbes inn.
 
 I Apparat AS har vi frivillig bedriftshelsetjeneste gjennom Volvat.
-[Hver enkelt kan bestille en helsekontroll her](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
+[**Hver enkelt kan bestille en helsekontroll her**](https://www.volvat.no/tjenester/helsekontroll-bedrift/)
 
 Den er årlig, og dekkes av selskapet.
 
@@ -65,7 +65,7 @@ Se ferieloven for mer informasjon.
 
 Lønn for ansatte i Media avdeling er fastlønn.
 
-Lønnen for IT-konsulenter blir bestemt av hvilken av 3 lønnsmodeller man er på; fastlønn, eller provisjonsmodellene 40/6G eller 50/4G. En G endrer seg årlig, og du kan [se hva det er her](https://www.nav.no/grunnbelopet).
+Lønnen for IT-konsulenter blir bestemt av hvilken av 3 lønnsmodeller man er på; fastlønn, eller provisjonsmodellene 40/6G eller 50/4G. En G endrer seg årlig, og du kan [**se hva det er her**](https://www.nav.no/grunnbelopet).
 
 Du kan bytte modell maks en gang per 12 kalendermåneder.
 
@@ -93,7 +93,7 @@ Det er to varianter av denne modellen, 50/4G og 40/6G.
 
 > **50/4G**
 > 
-> _Garantilønn_: 4G i året, altså 39 540 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
+> _Garantilønn_: 4G i året, altså 39 540 kr i måneden ([**se gjeldende grunnbeløp**](https://www.nav.no/grunnbelopet))  
 > _Provisjon_: 50%
 > 
 > **Eksempel på en månedslønn**  
@@ -104,7 +104,7 @@ Det er to varianter av denne modellen, 50/4G og 40/6G.
 > 
 > **40/6G**
 > 
-> _Garantilønn_: 6G i året, altså 59 310 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
+> _Garantilønn_: 6G i året, altså 59 310 kr i måneden ([**se gjeldende grunnbeløp**](https://www.nav.no/grunnbelopet))  
 > _Provisjon_: 40%
 > 
 > **Eksempel på en månedslønn**  
@@ -154,7 +154,7 @@ De som er på oppsigelse har ingen rett til bonus.
 
 ### Timeføring
 
-Vi fører timer i [Kronos](https://kronos.apparat.no/).
+Vi fører timer i [**Kronos**](https://kronos.apparat.no/).
 Vi har månedlig timerapportering i selskapet.
 Det er frist på innlevering siste dag i måneden, og denne må vi opprettholde.
 
