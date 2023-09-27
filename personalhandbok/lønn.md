@@ -91,27 +91,27 @@ Garantilønnen kobles til provisjonslønnen, og er etterskuddsvis på samme måt
 
 Det er to varianter av denne modellen, 50/4G og 40/6G.
 
-##### 50/4G
-
-_Garantilønn_: 4G i året, altså 39 540 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
-_Provisjon_: 50%
-
-**Eksempel på en månedslønn**  
-Omsetning: 180 000 kr.  
-Din provisjon: 50% av 180 000 kr = 90 000 kr.  
-Garantilønn: 39 540 kr.  
-Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 90 000 kr.
-
-##### 40/6G
-
-_Garantilønn_: 6G i året, altså 59 310 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
-_Provisjon_: 40%
-
-**Eksempel på en månedslønn**  
-Omsetning: 180 000 kr.  
-Din provisjon: 40% av 180 000 kr = 72 000 kr.  
-Garantilønn: 59 310 kr.  
-Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 72 000 kr.
+> ***50/4G***
+> 
+> _Garantilønn_: 4G i året, altså 39 540 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
+> _Provisjon_: 50%
+> 
+> **Eksempel på en månedslønn**  
+> Omsetning: 180 000 kr.  
+> Din provisjon: 50% av 180 000 kr = 90 000 kr.  
+> Garantilønn: 39 540 kr.  
+> Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 90 000 kr.
+> 
+> ***40/6G***
+> 
+> _Garantilønn_: 6G i året, altså 59 310 kr i måneden ([se gjeldende grunnbeløp](https://www.nav.no/grunnbelopet))  
+> _Provisjon_: 40%
+> 
+> **Eksempel på en månedslønn**  
+> Omsetning: 180 000 kr.  
+> Din provisjon: 40% av 180 000 kr = 72 000 kr.  
+> Garantilønn: 59 310 kr.  
+> Du får: høyeste av provisjon eller garantilønn, i dette tilfellet 72 000 kr.
 
 ##### Bytte mellom provisjon og fastlønn
 
