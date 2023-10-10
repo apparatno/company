@@ -34,7 +34,7 @@ fi
 token=${base64_header}.${base64_payload}.${base64_signature}
 
 # trigger revalidation of personalhandbok
-curl --fail-with-body https://apparat-no-simonhalvorsen.vercel.app/api/revalidateEmployeeHandbook \
+curl --fail-with-body https://apparatno.vercel.app/api/revalidateEmployeeHandbook \
   -H "Authorization: Bearer $token"
 
 if [ $? -ne 0 ]; then
