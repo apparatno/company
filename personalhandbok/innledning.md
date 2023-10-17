@@ -1,6 +1,4 @@
 
-# Personalhåndbok Apparat AS
-
 ## Innledning
 
 ### Formål med personalhåndboken
