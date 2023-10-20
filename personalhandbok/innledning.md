@@ -32,7 +32,7 @@ Partnerne:
 
 #### Verneombud
 
-Bjørn Herting er vårt verneombud.
+Simon Halvorsen er vårt verneombud.
 Verneombudet er representanten de ansatte kan gå til om der er noen brudd på Arbeidsmiljøloven eller HMS-bestemmelsene våre.
 
 ### Utførelse av personalansvaret
