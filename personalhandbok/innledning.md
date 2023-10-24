@@ -33,7 +33,7 @@ Partnerne:
 
 #### Verneombud
 
-Simon Halvorsen er vårt verneombud.
+Lasse Michelsen er vårt verneombud.
 Verneombudet er representanten de ansatte kan gå til om der er noen brudd på Arbeidsmiljøloven eller HMS-bestemmelsene våre.
 
 ### Utførelse av personalansvaret
