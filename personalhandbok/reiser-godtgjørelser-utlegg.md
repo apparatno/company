@@ -6,20 +6,20 @@ For tjenestereiser, f.eks. reiser til konferanse, møter eller lignende, så fø
 Normalt sett regnes ikke reisetid som arbeidstid, men her er reglerverket både komplisert og i endring. Vi ønsker å gjøre
 det lettere for oss i Apparat ved å komme med noen eksempler og forenklinger.
 
-**Eksempel - du må i møte i Oslo:**
-Flyet vårt går fra Flesland kl. 08.00 fredag morgen, og vi er tilbake kl. 15 samme dag. Vi fører full dag.
-
-**Eksempel - konferanse i USA:**
-Reise til konferanse i utlandet hvor reisetiden er lang hver vei, gir full dag hver vei, samt full dag de dagene en er på konferansen.
-De andre dagene kan en ikke regne som arbeidstid.
-Reiser en bort 1. juni, og går på konferanse 2., 3. og 4. juni, har noen dager fri, og reiser hjem igjen 8. juni,
-så skal det regnes full dag for 1. - 4. juni, samt 8. juni. Dagene 5., 6. og 7. juni regnes ikke som arbeidstid.
-
-**Eksempel - møte i Roma:**
-Du må på en todagers tjenestereise til Roma, og reiser ned dagen før for å ha god tid.
-Møtet varer hele første dagen, og litt ut i neste dag.
-Du reiser hjem etter lønsj andre dag.
-Du fører halv dag for reisen ned til Roma, og to fulle dager for resten av turen.
+> **Eksempel - du må i møte i Oslo:**
+> Flyet vårt går fra Flesland kl. 08.00 fredag morgen, og vi er tilbake kl. 15 samme dag. Vi fører full dag.
+> 
+> **Eksempel - konferanse i USA:**
+> Reise til konferanse i utlandet hvor reisetiden er lang hver vei, gir full dag hver vei, samt full dag de dagene en er på konferansen.
+> De andre dagene kan en ikke regne som arbeidstid.
+> Reiser en bort 1. juni, og går på konferanse 2., 3. og 4. juni, har noen dager fri, og reiser hjem igjen 8. juni,
+> så skal det regnes full dag for 1. - 4. juni, samt 8. juni. Dagene 5., 6. og 7. juni regnes ikke som arbeidstid.
+> 
+> **Eksempel - møte i Roma:**
+> Du må på en todagers tjenestereise til Roma, og reiser ned dagen før for å ha god tid.
+> Møtet varer hele første dagen, og litt ut i neste dag.
+> Du reiser hjem etter lønsj andre dag.
+> Du fører halv dag for reisen ned til Roma, og to fulle dager for resten av turen.
 
 ### Bilgodtgjørelse/bilutgifter
 
