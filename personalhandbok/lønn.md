@@ -130,8 +130,8 @@ Dersom man bytter mellom provisjon og fastlønnsmodeller må man huske på at de
 > Eksempel: du tar ut ferie fire uker i juli, og får provisjon i juli for arbeidet ditt i juni. Har du ikke provisjon i juni så får du garantilønn i juli. I august får du fratrekk for garantilønn i > henhold til hvor mye ferie du tok ut i juli. Du får provisjon og garantilønn i august basert på de dagene du var i jobb i juli.
 > 
 > Eksempel: du tar ut ferie to uker i juli og to uker i august. Du får da et naturlig opphold i provisjonsopptjeningen i begge disse månedene. I begge månedene vil garantilønnen din bli redusert med > det tilsvarende for hver feriedag du tok ut.
- 
-Protip: I juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare på feriepengene.
+> 
+> Protip: I juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare på feriepengene.
 
 #### Bonus
 
