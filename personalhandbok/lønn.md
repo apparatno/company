@@ -119,18 +119,18 @@ Man kan bytte maks en gang per 12 måneder. Man kan ikke bytte midt inni en kale
 
 Dersom man bytter mellom provisjon og fastlønnsmodeller må man huske på at der er en forskjell mellom de to modelltypene på når man får lønning, som kan bli litt rart i byttet.
 
-**Eksempel dersom man bytter fra provisjon til fastlønn**
-Om du bytter fra provisjon til fastlønn fra og med mars måned, så vil man få siste provisjonslønning den 15. mars, men man vil også få første fastlønn 15. mars.
-
-**Eksempel dersom man bytter fra fastlønn til provisjon**
-Om du bytter fra fastlønn til provisjon fra og med mars måned, så vil man få siste fastlønn den 15. februar, men man vil ikke få første provisjonslønning før 15. april.
-
-**Hvordan håndterer vi feriedager - eksempler**
-
-Eksempel: du tar ut ferie fire uker i juli, og får provisjon i juli for arbeidet ditt i juni. Har du ikke provisjon i juni så får du garantilønn i juli. I august får du fratrekk for garantilønn i henhold til hvor mye ferie du tok ut i juli. Du får provisjon og garantilønn i august basert på de dagene du var i jobb i juli.
-
-Eksempel: du tar ut ferie to uker i juli og to uker i august. Du får da et naturlig opphold i provisjonsopptjeningen i begge disse månedene. I begge månedene vil garantilønnen din bli redusert med det tilsvarende for hver feriedag du tok ut.
-
+> **Eksempel dersom man bytter fra provisjon til fastlønn**
+> Om du bytter fra provisjon til fastlønn fra og med mars måned, så vil man få siste provisjonslønning den 15. mars, men man vil også få første fastlønn 15. mars.
+> 
+> **Eksempel dersom man bytter fra fastlønn til provisjon**
+> Om du bytter fra fastlønn til provisjon fra og med mars måned, så vil man få siste fastlønn den 15. februar, men man vil ikke få første provisjonslønning før 15. april.
+> 
+> **Hvordan håndterer vi feriedager - eksempler**
+> 
+> Eksempel: du tar ut ferie fire uker i juli, og får provisjon i juli for arbeidet ditt i juni. Har du ikke provisjon i juni så får du garantilønn i juli. I august får du fratrekk for garantilønn i > henhold til hvor mye ferie du tok ut i juli. Du får provisjon og garantilønn i august basert på de dagene du var i jobb i juli.
+> 
+> Eksempel: du tar ut ferie to uker i juli og to uker i august. Du får da et naturlig opphold i provisjonsopptjeningen i begge disse månedene. I begge månedene vil garantilønnen din bli redusert med > det tilsvarende for hver feriedag du tok ut.
+ 
 Protip: I juni får man vanligvis både feriepenger og provisjon. Prøv å ta vare på feriepengene.
 
 #### Bonus
@@ -139,16 +139,16 @@ I tillegg til lønnen din så deler Apparat ut en årlig bonus.
 Den består av 15% av overskuddet for inneværende år, og blir delt ut likt blant alle ansatte.
 Har du nettopp begynt i selskapet vil du få 1/12 bonus for hver måned du har jobbet.
 
-Eksempel på bonus:
-Selskapet går med 2 400 000 kr i overskudd.
-Vi deler ut 15% av overskuddet, som tilsvarer 360 000 kr.
-Det er 18 ansatte i selskapet som får 20 000 kr hver.
-Bonus inkluderer ikke arbeidsgiveravgift, og gir heller ikke rett til sykepenger, pensjon eller lignende.
-
-Regnestykket blir da som følger:
-
-- `360 000 kr / 18 ansatte = 20 000 kr`
-- Din utbetaling: `20 000 kr * 0.859 = 17 180 kr`
+> Eksempel på bonus:
+> Selskapet går med 2 400 000 kr i overskudd.
+> Vi deler ut 15% av overskuddet, som tilsvarer 360 000 kr.
+> Det er 18 ansatte i selskapet som får 20 000 kr hver.
+> Bonus inkluderer ikke arbeidsgiveravgift, og gir heller ikke rett til sykepenger, pensjon eller lignende.
+> 
+> Regnestykket blir da som følger:
+> 
+> - `360 000 kr / 18 ansatte = 20 000 kr`
+> - Din utbetaling: `20 000 kr * 0.859 = 17 180 kr`
 
 De som er på oppsigelse har ingen rett til bonus.
 
