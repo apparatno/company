@@ -34,3 +34,5 @@ Ved spørsmål om sykemelding - egen, barns eller nærtståendes - så ønsker v
 Ansatte i Apparat har opptil 6G under egen sykdom i arbeidsgiverperioden, og vår [**sykelønnsforsikring**](https://www.gjensidige.no/naringsliv/forsikring/ansatte/sykelonn) sikrer dekning av den delen av lønnen som ikke dekkes av NAV ved sykemelding, altså full lønn etter arbeidegiverperioden. Hvis betingelser i forsikringen til formodning ikke innfris vil den ansatte fortsette på opptil [**6G fra NAV**](https://www.nav.no/sykepenger) etter arbeidsgiverperioden.
 
 Vi bruker [**kapittel 8 i folketrygloven**](https://www.nav.no/no/bedrift/oppfolging/sykmeldt-arbeidstaker/sykepenger/beregningsregler-for-sykepenger-fra-2019_kap) for beregning av lønn under sykdom.
+
+test test test
