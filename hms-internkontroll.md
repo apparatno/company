@@ -12,13 +12,13 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 
 ## Ansvar og roller
 
-| Daglig tjener og hovedansvarlig | Verneombud      |
-| ------------------------------- | --------------- |
-| Håkon Nilsen                    | Lasse Michelsen |
+| Daglig tjener og hovedansvarlig | Verneombud   |
+| ------------------------------- |--------------|
+| Håkon Nilsen                    | Eirik Heldal |
 
 ## Verneombud
 
-I Apparat skal vi ha et verneombud, selv om selskapet ikke er pålagt å ha dette. Verneombudet velges gjennom selskapets kommunikasjonskanal ved avstemming hvor alle ansatte, med unntak av den daglige leder, har stemmerett.
+I Apparat har vi verneombud. Verneombudet velges gjennom selskapets kommunikasjonskanal ved avstemming hvor alle ansatte, med unntak av den daglige leder, har stemmerett.
 
 Verneombudet velges annethvert år, eller når nåværende verneombud ønsker å fratre vervet.
 

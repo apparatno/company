@@ -8,6 +8,8 @@ You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 -->
 
+# UTDATERT - SE I KATALOGEN PERSONALHÅNDBOK
+
 # Personalhåndbok Apparat AS
 
 ## Innledning
@@ -43,7 +45,7 @@ Partnerne:
 
 #### Verneombud
 
-Lasse Michelsen er vårt verneombud.
+Eirik Heldal er vårt verneombud.
 Verneombudet er representanten de ansatte kan gå til om der er noen brudd på Arbeidsmiljøloven eller HMS-bestemmelsene våre.
 
 ### Utførelse av personalansvaret
