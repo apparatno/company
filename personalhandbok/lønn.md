@@ -12,6 +12,12 @@ Vår kjernetid er mellom kl 09.30 og kl 14.30, men det må sees på mer som en r
 Vi er opptatt av at alle ansatte skal være fleksible med arbeidsforholdene rundt seg.
 Dersom du jobber på et team hvor de fleste kommer rundt kl. 9, så anbefaler vi at en tilpasser seg dette.
 
+### Pauser
+
+Dersom den daglige arbeidstiden er mer enn 5,5 timer har du krav på minst én pause, og er arbeidsdagen minst 8 timer 
+har du krav på en samlet pause på minst en halv time. Disse pausene regnes som regel ikke som arbeidstid,
+og du skal være helt fri for arbeidsplikter når du tar pause.
+
 ### Legebesøk, fysikalsk behandling og helsekontroll
 
 Det utbetales lønn for opptil én time til disse tingene, inkl. evt. reisetid. Overskytende tid må jobbes inn.
