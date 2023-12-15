@@ -1,6 +1,6 @@
 ## Lønn, timeføring, betingelser og sykdom
 
-### Arbeidstid
+### Arbeidstid 
 
 Det er normalt 7,5 arbeidstimer i en arbeidsdag, og lønsj er ikke betalt.
 Dersom du har en oppdragsgiver som betaler lønsj vil du også få betalt lønsj.
